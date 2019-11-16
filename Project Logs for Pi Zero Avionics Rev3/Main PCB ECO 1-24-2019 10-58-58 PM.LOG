@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=+5V Pin=D1_DD-1
+Removed Pin From Net: NetName=+5V Pin=D1_Ind-1
+Removed Pin From Net: NetName=+5V Pin=D1_Sep-1
+Removed Pin From Net: NetName=GND Pin=T1_DD-2
+Removed Pin From Net: NetName=GND Pin=T1_Ind-2
+Removed Pin From Net: NetName=GND Pin=T1_Sep-2
+Removed Member From Class: ClassName=Ind Member=D1_Ind
+Removed Member From Class: ClassName=Sep Member=D1_Sep
+Removed Member From Class: ClassName=Ind Member=R1_Ind
+Removed Member From Class: ClassName=Sep Member=R1_Sep
+Removed Member From Class: ClassName=Ind Member=R2_Ind
+Removed Member From Class: ClassName=Sep Member=R2_Sep
+Removed Member From Class: ClassName=Ind Member=T1_Ind
+Removed Member From Class: ClassName=Sep Member=T1_Sep
+Added Component: Designator=D3_IND(RESC1005X40)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3_MAIN(RESC1005X40)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3_SEP(RESC1005X40)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R18_IND(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0751K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0751K1L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R18_MAIN(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0751K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0751K1L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R18_SEP(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0751K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0751K1L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R18_IND-1
+Added Pin To Net: NetName=GND Pin=R18_MAIN-1
+Added Pin To Net: NetName=GND Pin=R18_SEP-1
+Added Pin To Net: NetName=NetD3_IND_1 Pin=D3_IND-1
+Added Pin To Net: NetName=NetD3_IND_1 Pin=RPi-36
+Added Net: Name=NetD3_IND_1
+Added Pin To Net: NetName=NetD3_IND_2 Pin=D3_IND-2
+Added Pin To Net: NetName=NetD3_IND_2 Pin=R18_IND-2
+Added Net: Name=NetD3_IND_2
+Added Pin To Net: NetName=NetD3_MAIN_1 Pin=D3_MAIN-1
+Added Pin To Net: NetName=NetD3_MAIN_1 Pin=RPi-26
+Added Net: Name=NetD3_MAIN_1
+Added Pin To Net: NetName=NetD3_MAIN_2 Pin=D3_MAIN-2
+Added Pin To Net: NetName=NetD3_MAIN_2 Pin=R18_MAIN-2
+Added Net: Name=NetD3_MAIN_2
+Added Pin To Net: NetName=NetD3_SEP_1 Pin=D3_SEP-1
+Added Pin To Net: NetName=NetD3_SEP_1 Pin=RPi-38
+Added Net: Name=NetD3_SEP_1
+Added Pin To Net: NetName=NetD3_SEP_2 Pin=D3_SEP-2
+Added Pin To Net: NetName=NetD3_SEP_2 Pin=R18_SEP-2
+Added Net: Name=NetD3_SEP_2
+Added Class: Name=Indicator LED No Transistor
+Added Member To Class: ClassName=Ind Member=Component D3_IND (D3) LED
+Added Member To Class: ClassName=Sep Member=Component D3_SEP (D3) LED
+Added Member To Class: ClassName=Ind Member=Component R18_IND (R18) RC0805FR-0751K1L
+Added Member To Class: ClassName=Sep Member=Component R18_SEP (R18) RC0805FR-0751K1L
+Added Room: Name=Accelerometer
+Added Room: Name=ADC
+Added Room: Name=Barometer
+Added Room: Name=Gyroscope
+Added Room: Name=IND
+Added Room: Name=Indicator LED
+Added Room: Name=Indicator LED
+Added Room: Name=Magnetometer
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=MAIN
+Added Room: Name=Sep
+Added Room: Name=SEP
+Added Room: Name=U_Voltage Regulation

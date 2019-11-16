@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Main.GBR   11/15/2019  2:41:51 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GPB                Bottom Pad Master                       
+.GBS                Bottom Solder                           
+.GBL                Bottom Layer                            
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GPT                Top Pad Master                          
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
+------------------------------------------------------------------------------------------

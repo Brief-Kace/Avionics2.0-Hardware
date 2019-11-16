@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=*1_Main NewDesignator=SQB_Main
+Change Component Designator: OldDesignator=*1_Motor NewDesignator=SQB_Motor
+Change Component Designator: OldDesignator=*1_Sep NewDesignator=SQB_Sep
+Change Component Designator: OldDesignator=T? NewDesignator=+3.3-
+Change Component Designator: OldDesignator=T? NewDesignator=+3.3-
+Change Component Designator: OldDesignator=T? NewDesignator=+3.3-
+Change Component Designator: OldDesignator=T? NewDesignator=+5-
+Change Component Designator: OldDesignator=T? NewDesignator=+5-
+Change Component Designator: OldDesignator=T? NewDesignator=+5-
+Change Component Designator: OldDesignator=T? NewDesignator=+5-

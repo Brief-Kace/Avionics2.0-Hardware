@@ -1,0 +1,63 @@
+Added Component: Designator=S1(CJS Micro switch)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "7813J-051ECT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=S2(CJS Micro switch)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "7813J-051ECT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=S3(CJS Micro switch)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "7813J-051ECT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR76_LVLPI/ESP_1 Pin=S1-1
+Added Pin To Net: NetName=NetR38_2 Pin=S1-2
+Added Pin To Net: NetName=NetRaspberry Pi GPIO1_10 Pin=S1-3
+Added Pin To Net: NetName=NetR12_1 Pin=S2-1
+Added Pin To Net: NetName=NetR76_LVLPI/ESP_1 Pin=S2-2
+Added Pin To Net: NetName=NetS2_3 Pin=S2-3
+Added Pin To Net: NetName=NetR38_2 Pin=S3-1
+Added Pin To Net: NetName=NetR12_1 Pin=S3-2
+Added Pin To Net: NetName=NetR77_LVLPI/ESP_1 Pin=S3-3
+Added Member To Class: ClassName=PWR Member=Component C33 Cap
+Added Member To Class: ClassName=UART Member=Component S1 Screw Switch
+Added Member To Class: ClassName=UART Member=Component S2 Screw Switch
+Added Member To Class: ClassName=UART Member=Component S3 Screw Switch
+Added Room: Name=ACT_IND
+Added Room: Name=ACT_Ind
+Added Room: Name=AIN01
+Added Room: Name=AIN02
+Added Room: Name=AIN11
+Added Room: Name=AIN12
+Added Room: Name=AIN21
+Added Room: Name=AIN22
+Added Room: Name=AIN31
+Added Room: Name=AIN32
+Added Room: Name=Bz
+Added Room: Name=ERR_Ind2
+Added Room: Name=ESP
+Added Room: Name=LVLESP
+Added Room: Name=LVLPI/ESP
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Main_IND
+Added Room: Name=Motor
+Added Room: Name=Motor_IND
+Added Room: Name=PWR
+Added Room: Name=Sep
+Added Room: Name=Sep_IND
+Added Room: Name=SPI-IO
+Added Room: Name=U_Accelerometer
+Added Room: Name=U_ADC1
+Added Room: Name=U_ADC2
+Added Room: Name=U_Barometer
+Added Room: Name=U_ESP power
+Added Room: Name=U_Gyroscope
+Added Room: Name=U_Magnetometer
+Added Room: Name=U_Power IO
+Added Room: Name=U_Regulators
+Added Room: Name=U_Squib_Managment
+Added Room: Name=UART
+Added Room: Name=Voltage_Indicator1
+Added Room: Name=Voltage_Indicator2
+Added Room: Name=Voltage_Indicator3

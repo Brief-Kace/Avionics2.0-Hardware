@@ -1,0 +1,166 @@
+Removed Pin From Net: NetName=3.3V Pin=Q3_LVCS-1
+Removed Pin From Net: NetName=3.3V Pin=Q3_LVMISO-1
+Removed Pin From Net: NetName=MISO Pin=Q3_LVMISO-2
+Removed Pin From Net: NetName=NetMOSI/MISO1_2 Pin=Q3_LVMISO-3
+Removed Pin From Net: NetName=3.3V Pin=Q3_LVMOSI-1
+Removed Pin From Net: NetName=MOSI Pin=Q3_LVMOSI-2
+Removed Pin From Net: NetName=NetMOSI/MISO1_1 Pin=Q3_LVMOSI-3
+Removed Pin From Net: NetName=3.3V Pin=Q3_LVRX2-1
+Removed Pin From Net: NetName=3.3V Pin=Q3_LVSCLK-1
+Removed Pin From Net: NetName=SCL Pin=Q3_LVSCLK-2
+Removed Pin From Net: NetName=3.3V Pin=Q3_LVTX2-1
+Removed Pin From Net: NetName=Net8_3 Pin=R69_LVCS-2
+Removed Pin From Net: NetName=NetMOSI/MISO1_2 Pin=R69_LVMISO-1
+Removed Pin From Net: NetName=Net8_3 Pin=R69_LVMISO-2
+Removed Pin From Net: NetName=NetMOSI/MISO1_1 Pin=R69_LVMOSI-1
+Removed Pin From Net: NetName=Net8_3 Pin=R69_LVMOSI-2
+Removed Pin From Net: NetName=Net9_LVLPI/ESP_3 Pin=R69_LVRX2-2
+Removed Pin From Net: NetName=Net8_3 Pin=R69_LVSCLK-2
+Removed Pin From Net: NetName=Net9_LVLPI/ESP_3 Pin=R69_LVTX2-2
+Removed Member From Class: ClassName=LVCS Member=Q3_LVCS
+Removed Member From Class: ClassName=LVMISO Member=Q3_LVMISO
+Removed Member From Class: ClassName=LVMOSI Member=Q3_LVMOSI
+Removed Member From Class: ClassName=LVRX2 Member=Q3_LVRX2
+Removed Member From Class: ClassName=LVSCLK Member=Q3_LVSCLK
+Removed Member From Class: ClassName=LVTX2 Member=Q3_LVTX2
+Added Component: Designator=8(Screw Switch)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "7813J-051ECT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=9_LVLESP(Screw Switch)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "7813J-051ECT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=9_LVLPI/ESP(Screw Switch)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "7813J-051ECT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R40(0603 to 0805 SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R69_LVRX1(0603 to 0805 SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R69_LVTX1(0603 to 0805 SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=8-1
+Added Pin To Net: NetName=5V Pin=8-2
+Added Pin To Net: NetName=Net8_3 Pin=8-3
+Added Pin To Net: NetName=3.3V Pin=9_LVLESP-1
+Added Pin To Net: NetName=5V Pin=9_LVLESP-2
+Added Pin To Net: NetName=Net9_LVLESP_3 Pin=9_LVLESP-3
+Added Pin To Net: NetName=3.3V Pin=9_LVLPI/ESP-1
+Added Pin To Net: NetName=5V Pin=9_LVLPI/ESP-2
+Added Pin To Net: NetName=Net9_LVLPI/ESP_3 Pin=9_LVLPI/ESP-3
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=MISO Pin=R69_LVMISO-1
+Added Pin To Net: NetName=NetMOSI/MISO1_2 Pin=R69_LVMISO-2
+Added Pin To Net: NetName=MOSI Pin=R69_LVMOSI-1
+Added Pin To Net: NetName=NetMOSI/MISO1_1 Pin=R69_LVMOSI-2
+Added Pin To Net: NetName=SCL Pin=R69_LVSCLK-1
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_1 Pin=R46-2
+Added Pin To Net: NetName=NetR18_1 Pin=R69_LVCS-1
+Added Net: Name=NetR18_1
+Added Pin To Net: NetName=NetR40_1 Pin=R40-1
+Added Pin To Net: NetName=NetR40_1 Pin=R69_LVTX1-1
+Added Net: Name=NetR40_1
+Added Pin To Net: NetName=NetR69_LVCS_2 Pin=R69_LVCS-2
+Added Pin To Net: NetName=NetR69_LVCS_2 Pin=SCLK/CS1-2
+Added Net: Name=NetR69_LVCS_2
+Added Pin To Net: NetName=NetR69_LVRX1_1 Pin=R69_LVRX1-1
+Added Pin To Net: NetName=NetR69_LVRX1_1 Pin=U7-27
+Added Net: Name=NetR69_LVRX1_1
+Added Pin To Net: NetName=NetR69_LVRX1_2 Pin=R69_LVRX1-2
+Added Pin To Net: NetName=NetR69_LVRX1_2 Pin=UART1_LVLESP-2
+Added Net: Name=NetR69_LVRX1_2
+Added Pin To Net: NetName=NetR69_LVRX2_1 Pin=R69_LVRX2-1
+Added Pin To Net: NetName=NetR69_LVRX2_1 Pin=S3-3
+Added Net: Name=NetR69_LVRX2_1
+Added Pin To Net: NetName=NetR69_LVRX2_2 Pin=R69_LVRX2-2
+Added Pin To Net: NetName=NetR69_LVRX2_2 Pin=UART1_LVLPI/ESP-2
+Added Net: Name=NetR69_LVRX2_2
+Added Pin To Net: NetName=NetR69_LVSCLK_2 Pin=R69_LVSCLK-2
+Added Pin To Net: NetName=NetR69_LVSCLK_2 Pin=SCLK/CS1-1
+Added Net: Name=NetR69_LVSCLK_2
+Added Pin To Net: NetName=NetR69_LVTX1_2 Pin=R69_LVTX1-2
+Added Pin To Net: NetName=NetR69_LVTX1_2 Pin=UART1_LVLESP-1
+Added Net: Name=NetR69_LVTX1_2
+Added Pin To Net: NetName=NetR69_LVTX2_1 Pin=R69_LVTX2-1
+Added Pin To Net: NetName=NetR69_LVTX2_1 Pin=S1-1
+Added Pin To Net: NetName=NetR69_LVTX2_1 Pin=S2-2
+Added Net: Name=NetR69_LVTX2_1
+Added Pin To Net: NetName=NetR69_LVTX2_2 Pin=R69_LVTX2-2
+Added Pin To Net: NetName=NetR69_LVTX2_2 Pin=UART1_LVLPI/ESP-1
+Added Net: Name=NetR69_LVTX2_2
+Added Member To Class: ClassName=SPI-IO Member=Component 8 Screw Switch
+Added Member To Class: ClassName=LVLESP Member=Component 9_LVLESP (9) Screw Switch
+Added Member To Class: ClassName=LVLPI/ESP Member=Component 9_LVLPI/ESP (9) Screw Switch
+Added Member To Class: ClassName=ESP Member=Component R40 Res3
+Added Member To Class: ClassName=LVRX1 Member=Component R69_LVRX1 (R69) Res3
+Added Member To Class: ClassName=LVTX1 Member=Component R69_LVTX1 (R69) Res3
+Added Room: Name=ACT_IND
+Added Room: Name=ACT_Ind
+Added Room: Name=AIN01
+Added Room: Name=AIN02
+Added Room: Name=AIN11
+Added Room: Name=AIN12
+Added Room: Name=AIN21
+Added Room: Name=AIN22
+Added Room: Name=AIN31
+Added Room: Name=AIN32
+Added Room: Name=Bz
+Added Room: Name=ERR_Ind2
+Added Room: Name=ESP
+Added Room: Name=LVCS
+Added Room: Name=LVLESP
+Added Room: Name=LVLPI/ESP
+Added Room: Name=LVMISO
+Added Room: Name=LVMOSI
+Added Room: Name=LVRX1
+Added Room: Name=LVRX2
+Added Room: Name=LVSCLK
+Added Room: Name=LVTX1
+Added Room: Name=LVTX2
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Main_IND
+Added Room: Name=Motor
+Added Room: Name=Motor_IND
+Added Room: Name=PWR
+Added Room: Name=Sep
+Added Room: Name=Sep_IND
+Added Room: Name=SPI-IO
+Added Room: Name=U_Accelerometer
+Added Room: Name=U_ADC1
+Added Room: Name=U_ADC2
+Added Room: Name=U_Barometer
+Added Room: Name=U_ESP power
+Added Room: Name=U_Gyroscope
+Added Room: Name=U_Magnetometer
+Added Room: Name=U_Power IO
+Added Room: Name=U_Regulators
+Added Room: Name=U_Squib_Managment
+Added Room: Name=UART
+Added Room: Name=Voltage_Indicator1
+Added Room: Name=Voltage_Indicator2
+Added Room: Name=Voltage_Indicator3

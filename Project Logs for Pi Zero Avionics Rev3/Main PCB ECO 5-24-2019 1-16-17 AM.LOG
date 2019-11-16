@@ -1,0 +1,122 @@
+Removed Pin From Net: NetName=3.3V Pin=R19_Main_Ind-2
+Removed Pin From Net: NetName=3.3V Pin=R19_Motor_Ind-2
+Removed Pin From Net: NetName=3.3V Pin=R19_Sep_Ind-2
+Removed Pin From Net: NetName=GND Pin=T3_Main_Ind-2
+Removed Pin From Net: NetName=GND Pin=T3_Motor_Ind-2
+Removed Pin From Net: NetName=GND Pin=T3_Sep_Ind-2
+Removed Pin From Net: NetName=NetQ3_LVRX1_D Pin=UART1_LVLESP-1
+Removed Pin From Net: NetName=NetQ3_LVTX1_D Pin=UART1_LVLESP-2
+Removed Member From Class: ClassName=Main_Ind Member=R20_Main_Ind
+Removed Member From Class: ClassName=Motor_Ind Member=R20_Motor_Ind
+Removed Member From Class: ClassName=Sep_Ind Member=R20_Sep_Ind
+Removed Member From Class: ClassName=Main_Ind Member=T3_Main_Ind
+Removed Member From Class: ClassName=Motor_Ind Member=T3_Motor_Ind
+Removed Member From Class: ClassName=Sep_Ind Member=T3_Sep_Ind
+Change Component Comment : Designator=U6 Old Comment=SPX1117M3-L-3-3/TR New Comment=NCP1117DT33T5GOSCT-ND
+Change component parameters: Designator = "U6"; Footprint = "*DPAK229P990X238-4N"; UniqueID = "\KMCOCVKS\PYJBXIHY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MaxLinear, Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SPX1117M3-L-3-3/TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-223 Exar"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SPX1117M3-L-3-3/TR/MaxLinear%2C%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "NCP1117DT33T5GOSCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=T?(SOT95P280X125-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MMBT2222ATPMSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D3_Main_Ind-2
+Added Pin To Net: NetName=GND Pin=D3_Motor_Ind-2
+Added Pin To Net: NetName=GND Pin=D3_Sep_Ind-2
+Added Pin To Net: NetName=ESP_VCC Pin=R?-1
+Added Pin To Net: NetName=GND Pin=T?-2
+Added Pin To Net: NetName=NetQ3_LVTX1_D Pin=UART1_LVLESP-1
+Added Pin To Net: NetName=NetQ3_LVRX1_D Pin=UART1_LVLESP-2
+Added Pin To Net: NetName=NetR19_Main_Ind_2 Pin=R19_Main_Ind-2
+Added Pin To Net: NetName=NetR19_Main_Ind_2 Pin=Raspberry Pi GPIO1-33
+Added Net: Name=NetR19_Main_Ind_2
+Added Pin To Net: NetName=NetR19_Motor_Ind_2 Pin=R19_Motor_Ind-2
+Added Pin To Net: NetName=NetR19_Motor_Ind_2 Pin=Raspberry Pi GPIO1-40
+Added Net: Name=NetR19_Motor_Ind_2
+Added Pin To Net: NetName=NetR19_Sep_Ind_2 Pin=R19_Sep_Ind-2
+Added Pin To Net: NetName=NetR19_Sep_Ind_2 Pin=Raspberry Pi GPIO1-38
+Added Net: Name=NetR19_Sep_Ind_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=Raspberry Pi GPIO1-18
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=T?-3
+Added Pin To Net: NetName=NetR?_2 Pin=U7-3
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=ESP Member=Component R? Res3
+Added Member To Class: ClassName=ESP Member=Component R? Res3
+Added Member To Class: ClassName=ESP Member=Component T? MMBT2222ALT1
+Added Room: Name=AIN01
+Added Room: Name=AIN02
+Added Room: Name=AIN11
+Added Room: Name=AIN12
+Added Room: Name=AIN21
+Added Room: Name=AIN22
+Added Room: Name=AIN31
+Added Room: Name=AIN32
+Added Room: Name=Bz
+Added Room: Name=ESP
+Added Room: Name=LVCS
+Added Room: Name=LVLESP
+Added Room: Name=LVLPI/ESP
+Added Room: Name=LVMISO
+Added Room: Name=LVMOSI
+Added Room: Name=LVRX1
+Added Room: Name=LVRX2
+Added Room: Name=LVSCLK
+Added Room: Name=LVTX1
+Added Room: Name=LVTX2
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Main_Ind
+Added Room: Name=Motor
+Added Room: Name=Motor_Ind
+Added Room: Name=PWR
+Added Room: Name=Sep
+Added Room: Name=Sep_Ind
+Added Room: Name=SPI-IO
+Added Room: Name=U_Accelerometer
+Added Room: Name=U_ADC1
+Added Room: Name=U_ADC2
+Added Room: Name=U_Barometer
+Added Room: Name=U_Blue_LED1
+Added Room: Name=U_Blue_LED2
+Added Room: Name=U_Blue_LED3
+Added Room: Name=U_ESP power
+Added Room: Name=U_Gyroscope
+Added Room: Name=U_Magnetometer
+Added Room: Name=U_Squib_Managment
+Added Room: Name=UART

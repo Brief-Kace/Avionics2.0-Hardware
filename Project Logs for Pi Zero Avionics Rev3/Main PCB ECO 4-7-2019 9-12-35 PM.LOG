@@ -1,0 +1,15 @@
+Change Physical Footprint: Designator=Q1_Main Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=Q1_Motor Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=Q1_Sep Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=Q2_Main Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=Q2_Motor Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=Q2_Sep Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T3_U_Red_LED1 Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T3_U_Red_LED2 Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T3_U_Red_LED3 Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T4_Main Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T4_Motor Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T4_Sep Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T5_Main Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T5_Motor Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T5_Sep Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N

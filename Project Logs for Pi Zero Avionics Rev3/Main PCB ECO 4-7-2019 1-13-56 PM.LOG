@@ -1,0 +1,348 @@
+Added Component: Designator=2_LVLESP(Screw Switch)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "7813J-051ECT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=2_LVLPI/ESP(Screw Switch)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "7813J-051ECT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q3_LVCS(*BSS138L_BSS138L(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BSS138L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BSS138L/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BSS138LCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3_LVMISO(*BSS138L_BSS138L(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BSS138L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BSS138L/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BSS138LCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3_LVMOSI(*BSS138L_BSS138L(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BSS138L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BSS138L/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BSS138LCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3_LVRX1(*BSS138L_BSS138L(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BSS138L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BSS138L/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BSS138LCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3_LVRX2(*BSS138L_BSS138L(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BSS138L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BSS138L/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BSS138LCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3_LVSCLK(*BSS138L_BSS138L(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BSS138L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BSS138L/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BSS138LCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3_LVTX1(*BSS138L_BSS138L(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BSS138L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BSS138L/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BSS138LCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3_LVTX2(*BSS138L_BSS138L(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BSS138L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BSS138L/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BSS138LCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T4_Main(SOT95P280X125-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MMBT2222ATPMSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T4_Motor(SOT95P280X125-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MMBT2222ATPMSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T4_Sep(SOT95P280X125-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MMBT2222ATPMSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T5_Main(SOT95P280X125-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MMBT2222ATPMSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T5_Motor(SOT95P280X125-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MMBT2222ATPMSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T5_Sep(SOT95P280X125-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MMBT2222ATPMSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=+3.3--1
+Added Pin To Net: NetName=GND Pin=+3.3--2
+Added Pin To Net: NetName=3.3V Pin=2_LVLESP-1
+Added Pin To Net: NetName=5V Pin=2_LVLESP-2
+Added Pin To Net: NetName=3.3V Pin=2_LVLPI/ESP-1
+Added Pin To Net: NetName=5V Pin=2_LVLPI/ESP-2
+Added Pin To Net: NetName=NetD1_U_Red_LED1_1 Pin=D1_U_Red_LED1-1
+Added Pin To Net: NetName=NetD1_U_Red_LED1_2 Pin=D1_U_Red_LED1-2
+Added Pin To Net: NetName=NetD1_U_Red_LED2_1 Pin=D1_U_Red_LED2-1
+Added Pin To Net: NetName=NetD1_U_Red_LED2_2 Pin=D1_U_Red_LED2-2
+Added Pin To Net: NetName=NetD1_U_Red_LED3_1 Pin=D1_U_Red_LED3-1
+Added Pin To Net: NetName=NetD1_U_Red_LED3_2 Pin=D1_U_Red_LED3-2
+Added Pin To Net: NetName=NetQ1_Main_2 Pin=Q1_Main-2
+Added Pin To Net: NetName=NetQ1_Main_3 Pin=Q1_Main-3
+Added Pin To Net: NetName=NetQ1_Motor_2 Pin=Q1_Motor-2
+Added Pin To Net: NetName=NetQ1_Motor_3 Pin=Q1_Motor-3
+Added Pin To Net: NetName=NetQ1_Sep_2 Pin=Q1_Sep-2
+Added Pin To Net: NetName=NetQ1_Sep_3 Pin=Q1_Sep-3
+Added Pin To Net: NetName=NetQ2_Main_1 Pin=Q2_Main-1
+Added Pin To Net: NetName=NetQ2_Main_2 Pin=Q2_Main-2
+Added Pin To Net: NetName=NetQ1_Main_3 Pin=Q2_Main-3
+Added Pin To Net: NetName=NetQ2_Motor_1 Pin=Q2_Motor-1
+Added Pin To Net: NetName=NetQ2_Motor_2 Pin=Q2_Motor-2
+Added Pin To Net: NetName=NetQ1_Motor_3 Pin=Q2_Motor-3
+Added Pin To Net: NetName=NetQ2_Sep_1 Pin=Q2_Sep-1
+Added Pin To Net: NetName=NetQ2_Sep_2 Pin=Q2_Sep-2
+Added Pin To Net: NetName=NetQ1_Sep_3 Pin=Q2_Sep-3
+Added Pin To Net: NetName=3.3V Pin=Q3_LVCS-G
+Added Pin To Net: NetName=NetMOSI/MISO1_2 Pin=Q3_LVMISO-D
+Added Pin To Net: NetName=3.3V Pin=Q3_LVMISO-G
+Added Pin To Net: NetName=NetMOSI/MISO1_1 Pin=Q3_LVMOSI-D
+Added Pin To Net: NetName=3.3V Pin=Q3_LVMOSI-G
+Added Pin To Net: NetName=3.3V Pin=Q3_LVRX1-G
+Added Pin To Net: NetName=3.3V Pin=Q3_LVRX2-G
+Added Pin To Net: NetName=3.3V Pin=Q3_LVSCLK-G
+Added Pin To Net: NetName=3.3V Pin=Q3_LVTX1-G
+Added Pin To Net: NetName=3.3V Pin=Q3_LVTX2-G
+Added Pin To Net: NetName=NetD1_U_Red_LED1_1 Pin=R3_U_Red_LED1-1
+Added Pin To Net: NetName=5V Pin=R3_U_Red_LED1-2
+Added Pin To Net: NetName=NetD1_U_Red_LED2_1 Pin=R3_U_Red_LED2-1
+Added Pin To Net: NetName=5V Pin=R3_U_Red_LED2-2
+Added Pin To Net: NetName=NetD1_U_Red_LED3_1 Pin=R3_U_Red_LED3-1
+Added Pin To Net: NetName=5V Pin=R3_U_Red_LED3-2
+Added Pin To Net: NetName=NetR4_U_Red_LED1_2 Pin=R4_U_Red_LED1-2
+Added Pin To Net: NetName=NetR4_U_Red_LED2_2 Pin=R4_U_Red_LED2-2
+Added Pin To Net: NetName=NetR4_U_Red_LED3_2 Pin=R4_U_Red_LED3-2
+Added Pin To Net: NetName=NetQ1_Main_3 Pin=R5_Main-1
+Added Pin To Net: NetName=NetQ1_Main_2 Pin=R5_Main-2
+Added Pin To Net: NetName=NetQ1_Motor_3 Pin=R5_Motor-1
+Added Pin To Net: NetName=NetQ1_Motor_2 Pin=R5_Motor-2
+Added Pin To Net: NetName=NetQ1_Sep_3 Pin=R5_Sep-1
+Added Pin To Net: NetName=NetQ1_Sep_2 Pin=R5_Sep-2
+Added Pin To Net: NetName=NetR6_Main_1 Pin=R6_Main-1
+Added Pin To Net: NetName=NetQ1_Main_2 Pin=R6_Main-2
+Added Pin To Net: NetName=NetR6_Motor_1 Pin=R6_Motor-1
+Added Pin To Net: NetName=NetQ1_Motor_2 Pin=R6_Motor-2
+Added Pin To Net: NetName=NetR6_Sep_1 Pin=R6_Sep-1
+Added Pin To Net: NetName=NetQ1_Sep_2 Pin=R6_Sep-2
+Added Pin To Net: NetName=NetQ2_Main_1 Pin=R7_Main-1
+Added Pin To Net: NetName=NetQ2_Motor_1 Pin=R7_Motor-1
+Added Pin To Net: NetName=NetQ2_Sep_1 Pin=R7_Sep-1
+Added Pin To Net: NetName=NetR8_Main_1 Pin=R8_Main-1
+Added Pin To Net: NetName=NetR8_Main_2 Pin=R8_Main-2
+Added Pin To Net: NetName=NetR8_Motor_1 Pin=R8_Motor-1
+Added Pin To Net: NetName=NetR8_Motor_2 Pin=R8_Motor-2
+Added Pin To Net: NetName=NetR8_Sep_1 Pin=R8_Sep-1
+Added Pin To Net: NetName=NetR8_Sep_2 Pin=R8_Sep-2
+Added Pin To Net: NetName=NetR9_Main_1 Pin=R9_Main-1
+Added Pin To Net: NetName=NetQ2_Main_2 Pin=R9_Main-2
+Added Pin To Net: NetName=NetR9_Motor_1 Pin=R9_Motor-1
+Added Pin To Net: NetName=NetQ2_Motor_2 Pin=R9_Motor-2
+Added Pin To Net: NetName=NetR9_Sep_1 Pin=R9_Sep-1
+Added Pin To Net: NetName=NetQ2_Sep_2 Pin=R9_Sep-2
+Added Pin To Net: NetName=NetR10_Main_1 Pin=R10_Main-1
+Added Pin To Net: NetName=NetR10_Motor_1 Pin=R10_Motor-1
+Added Pin To Net: NetName=NetR10_Sep_1 Pin=R10_Sep-1
+Added Pin To Net: NetName=3.3V Pin=R37_LVCS-2
+Added Pin To Net: NetName=3.3V Pin=R37_LVMISO-2
+Added Pin To Net: NetName=3.3V Pin=R37_LVMOSI-2
+Added Pin To Net: NetName=3.3V Pin=R37_LVRX1-2
+Added Pin To Net: NetName=3.3V Pin=R37_LVRX2-2
+Added Pin To Net: NetName=3.3V Pin=R37_LVSCLK-2
+Added Pin To Net: NetName=3.3V Pin=R37_LVTX1-2
+Added Pin To Net: NetName=3.3V Pin=R37_LVTX2-2
+Added Pin To Net: NetName=Net1_3 Pin=R38_LVCS-2
+Added Pin To Net: NetName=NetMOSI/MISO1_2 Pin=R38_LVMISO-1
+Added Pin To Net: NetName=Net1_3 Pin=R38_LVMISO-2
+Added Pin To Net: NetName=NetMOSI/MISO1_1 Pin=R38_LVMOSI-1
+Added Pin To Net: NetName=Net1_3 Pin=R38_LVMOSI-2
+Added Pin To Net: NetName=NetR8_Main_2 Pin=T4_Main-1
+Added Pin To Net: NetName=GND Pin=T4_Main-2
+Added Pin To Net: NetName=NetR6_Main_1 Pin=T4_Main-3
+Added Pin To Net: NetName=NetR8_Motor_2 Pin=T4_Motor-1
+Added Pin To Net: NetName=GND Pin=T4_Motor-2
+Added Pin To Net: NetName=NetR6_Motor_1 Pin=T4_Motor-3
+Added Pin To Net: NetName=NetR8_Sep_2 Pin=T4_Sep-1
+Added Pin To Net: NetName=GND Pin=T4_Sep-2
+Added Pin To Net: NetName=NetR6_Sep_1 Pin=T4_Sep-3
+Added Pin To Net: NetName=GND Pin=T5_Main-2
+Added Pin To Net: NetName=NetR9_Main_1 Pin=T5_Main-3
+Added Pin To Net: NetName=GND Pin=T5_Motor-2
+Added Pin To Net: NetName=NetR9_Motor_1 Pin=T5_Motor-3
+Added Pin To Net: NetName=GND Pin=T5_Sep-2
+Added Pin To Net: NetName=NetR9_Sep_1 Pin=T5_Sep-3
+Added Pin To Net: NetName=Net2_LVLESP_3 Pin=2_LVLESP-3
+Added Pin To Net: NetName=Net2_LVLESP_3 Pin=R38_LVRX1-2
+Added Pin To Net: NetName=Net2_LVLESP_3 Pin=R38_LVTX1-2
+Added Net: Name=Net2_LVLESP_3
+Added Pin To Net: NetName=Net2_LVLPI/ESP_3 Pin=2_LVLPI/ESP-3
+Added Pin To Net: NetName=Net2_LVLPI/ESP_3 Pin=R38_LVRX2-2
+Added Pin To Net: NetName=Net2_LVLPI/ESP_3 Pin=R38_LVTX2-2
+Added Net: Name=Net2_LVLPI/ESP_3
+Added Pin To Net: NetName=NetQ1_Main_1 Pin=Q1_Main-1
+Added Pin To Net: NetName=NetQ1_Main_1 Pin=R4_U_Red_LED1-1
+Added Pin To Net: NetName=NetQ1_Main_1 Pin=R7_Main-2
+Added Pin To Net: NetName=NetQ1_Main_1 Pin=Main-1
+Added Net: Name=NetQ1_Main_1
+Added Pin To Net: NetName=NetQ1_Motor_1 Pin=Q1_Motor-1
+Added Pin To Net: NetName=NetQ1_Motor_1 Pin=R4_U_Red_LED2-1
+Added Pin To Net: NetName=NetQ1_Motor_1 Pin=R7_Motor-2
+Added Pin To Net: NetName=NetQ1_Motor_1 Pin=Motor-1
+Added Net: Name=NetQ1_Motor_1
+Added Pin To Net: NetName=NetQ1_Sep_1 Pin=Q1_Sep-1
+Added Pin To Net: NetName=NetQ1_Sep_1 Pin=R4_U_Red_LED3-1
+Added Pin To Net: NetName=NetQ1_Sep_1 Pin=R7_Sep-2
+Added Pin To Net: NetName=NetQ1_Sep_1 Pin=Sep-1
+Added Net: Name=NetQ1_Sep_1
+Added Pin To Net: NetName=NetQ3_LVCS_D Pin=Q3_LVCS-D
+Added Pin To Net: NetName=NetQ3_LVCS_D Pin=R38_LVCS-1
+Added Pin To Net: NetName=NetQ3_LVCS_D Pin=SCLK/CS1-2
+Added Net: Name=NetQ3_LVCS_D
+Added Pin To Net: NetName=NetQ3_LVCS_S Pin=Q3_LVCS-S
+Added Pin To Net: NetName=NetQ3_LVCS_S Pin=R37_LVCS-1
+Added Pin To Net: NetName=NetQ3_LVCS_S Pin=U7-37
+Added Net: Name=NetQ3_LVCS_S
+Added Pin To Net: NetName=NetQ3_LVMISO_S Pin=Q3_LVMISO-S
+Added Pin To Net: NetName=NetQ3_LVMISO_S Pin=R37_LVMISO-1
+Added Pin To Net: NetName=NetQ3_LVMISO_S Pin=Raspberry Pi GPIO1-21
+Added Pin To Net: NetName=NetQ3_LVMISO_S Pin=U7-14
+Added Net: Name=NetQ3_LVMISO_S
+Added Pin To Net: NetName=NetQ3_LVMOSI_S Pin=Q3_LVMOSI-S
+Added Pin To Net: NetName=NetQ3_LVMOSI_S Pin=R37_LVMOSI-1
+Added Pin To Net: NetName=NetQ3_LVMOSI_S Pin=Raspberry Pi GPIO1-19
+Added Pin To Net: NetName=NetQ3_LVMOSI_S Pin=U7-16
+Added Net: Name=NetQ3_LVMOSI_S
+Added Pin To Net: NetName=NetQ3_LVRX1_D Pin=Q3_LVRX1-D
+Added Pin To Net: NetName=NetQ3_LVRX1_D Pin=R38_LVRX1-1
+Added Pin To Net: NetName=NetQ3_LVRX1_D Pin=UART1_LVLESP-2
+Added Net: Name=NetQ3_LVRX1_D
+Added Pin To Net: NetName=NetQ3_LVRX1_S Pin=Q3_LVRX1-S
+Added Pin To Net: NetName=NetQ3_LVRX1_S Pin=R37_LVRX1-1
+Added Pin To Net: NetName=NetQ3_LVRX1_S Pin=U7-27
+Added Net: Name=NetQ3_LVRX1_S
+Added Pin To Net: NetName=NetQ3_LVRX2_D Pin=Q3_LVRX2-D
+Added Pin To Net: NetName=NetQ3_LVRX2_D Pin=R38_LVRX2-1
+Added Pin To Net: NetName=NetQ3_LVRX2_D Pin=UART1_LVLPI/ESP-2
+Added Net: Name=NetQ3_LVRX2_D
+Added Pin To Net: NetName=NetQ3_LVRX2_S Pin=Q3_LVRX2-S
+Added Pin To Net: NetName=NetQ3_LVRX2_S Pin=R37_LVRX2-1
+Added Net: Name=NetQ3_LVRX2_S
+Added Pin To Net: NetName=NetQ3_LVSCLK_D Pin=Q3_LVSCLK-D
+Added Pin To Net: NetName=NetQ3_LVSCLK_D Pin=R38_LVSCLK-1
+Added Pin To Net: NetName=NetQ3_LVSCLK_D Pin=SCLK/CS1-1
+Added Net: Name=NetQ3_LVSCLK_D
+Added Pin To Net: NetName=NetQ3_LVSCLK_S Pin=Q3_LVSCLK-S
+Added Pin To Net: NetName=NetQ3_LVSCLK_S Pin=R37_LVSCLK-1
+Added Pin To Net: NetName=NetQ3_LVSCLK_S Pin=Raspberry Pi GPIO1-23
+Added Pin To Net: NetName=NetQ3_LVSCLK_S Pin=U7-13
+Added Net: Name=NetQ3_LVSCLK_S
+Added Pin To Net: NetName=NetQ3_LVTX1_D Pin=Q3_LVTX1-D
+Added Pin To Net: NetName=NetQ3_LVTX1_D Pin=R38_LVTX1-1
+Added Pin To Net: NetName=NetQ3_LVTX1_D Pin=UART1_LVLESP-1
+Added Net: Name=NetQ3_LVTX1_D
+Added Pin To Net: NetName=NetQ3_LVTX1_S Pin=Q3_LVTX1-S
+Added Pin To Net: NetName=NetQ3_LVTX1_S Pin=R37_LVTX1-1
+Added Pin To Net: NetName=NetQ3_LVTX1_S Pin=U7-28
+Added Net: Name=NetQ3_LVTX1_S
+Added Pin To Net: NetName=NetQ3_LVTX2_D Pin=Q3_LVTX2-D
+Added Pin To Net: NetName=NetQ3_LVTX2_D Pin=R38_LVTX2-1
+Added Pin To Net: NetName=NetQ3_LVTX2_D Pin=UART1_LVLPI/ESP-1
+Added Net: Name=NetQ3_LVTX2_D
+Added Pin To Net: NetName=NetQ3_LVTX2_S Pin=Q3_LVTX2-S
+Added Pin To Net: NetName=NetQ3_LVTX2_S Pin=R37_LVTX2-1
+Added Net: Name=NetQ3_LVTX2_S
+Added Pin To Net: NetName=NetR38_LVSCLK_2 Pin=R38_LVSCLK-2
+Added Net: Name=NetR38_LVSCLK_2

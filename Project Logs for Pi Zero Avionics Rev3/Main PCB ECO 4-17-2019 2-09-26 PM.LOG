@@ -1,0 +1,91 @@
+Change Component Designator: OldDesignator=C?_U_ADC1 NewDesignator=C20_U_ADC1
+Change Component Designator: OldDesignator=C?_U_ADC2 NewDesignator=C20_U_ADC2
+Change component parameters: Designator = "C28"; Footprint = "*CAPPRD250W50D630H1120B"; UniqueID = "\KWXKXJJO\WDAOLVCS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "680uF"; VariantName = "[No Variations]"
+Added Component: Designator=C27(*CAPPRD250W50D630H1120B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680uF"; VariantName = "[No Variations]"
+Added Component: Designator=C32(*CAPPRD250W50D630H1120B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680uF"; VariantName = "[No Variations]"
+Added Component: Designator=C33(*CAPPRD250W50D630H1120B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680uF"; VariantName = "[No Variations]"
+Added Component: Designator=C37(0603 Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=NetC35_1 Pin=C37-2
+Change Net Name : Old Net Name=NetC32_1 New Net Name=NetC32_2
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V_Clean Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component C27 Cap
+Added Member To Class: ClassName=PWR Member=Component C32 Cap
+Added Member To Class: ClassName=PWR Member=Component C33 Cap
+Added Member To Class: ClassName=PWR Member=Component C37 Cap
+Added Room: Name=AIN01
+Added Room: Name=AIN02
+Added Room: Name=AIN11
+Added Room: Name=AIN12
+Added Room: Name=AIN21
+Added Room: Name=AIN22
+Added Room: Name=AIN31
+Added Room: Name=AIN32
+Added Room: Name=Bz
+Added Room: Name=ESP
+Added Room: Name=LVLESP
+Added Room: Name=LVLPI/ESP
+Added Room: Name=LVMISO
+Added Room: Name=LVMOSI
+Added Room: Name=LVSCLK
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Main_Ind
+Added Room: Name=Motor
+Added Room: Name=Motor_Ind
+Added Room: Name=PWR
+Added Room: Name=Sep
+Added Room: Name=Sep_Ind
+Added Room: Name=SPI-IO
+Added Room: Name=U_Accelerometer
+Added Room: Name=U_ADC1
+Added Room: Name=U_ADC2
+Added Room: Name=U_Barometer
+Added Room: Name=U_Blue_LED1
+Added Room: Name=U_Blue_LED2
+Added Room: Name=U_Blue_LED3
+Added Room: Name=U_Gyroscope
+Added Room: Name=UART

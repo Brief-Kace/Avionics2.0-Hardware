@@ -1,0 +1,56 @@
+Added Component: Designator=C12(0805 Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C13(0805 Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C14(0603 Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C15(0603 Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=U4(L3GD20HTR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "L3GD20HTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LGA-16 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/L3GD20HTR/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-13931-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=3.3V Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=3.3V Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=3.3V Pin=C15-2
+Added Pin To Net: NetName=3.3V Pin=U4-1
+Added Pin To Net: NetName=NetQ3_LVSCLK_S Pin=U4-2
+Added Pin To Net: NetName=NetQ3_LVMISO_S Pin=U4-3
+Added Pin To Net: NetName=NetQ3_LVMOSI_S Pin=U4-4
+Added Pin To Net: NetName=NetU4_5 Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Pin To Net: NetName=GND Pin=U4-10
+Added Pin To Net: NetName=GND Pin=U4-11
+Added Pin To Net: NetName=GND Pin=U4-12
+Added Pin To Net: NetName=GND Pin=U4-13
+Added Pin To Net: NetName=NetC12_1 Pin=U4-14
+Added Pin To Net: NetName=3.3V Pin=U4-15
+Added Pin To Net: NetName=3.3V Pin=U4-16
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V_Clean Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V Screw Terminal
+Added Member To Class: ClassName=U_Gyroscope Member=Component C12 Cap
+Added Member To Class: ClassName=U_Gyroscope Member=Component C13 Cap
+Added Member To Class: ClassName=U_Gyroscope Member=Component C14 Cap
+Added Member To Class: ClassName=U_Gyroscope Member=Component C15 Cap
+Added Member To Class: ClassName=U_Gyroscope Member=Component U4 L3GD20H
+Change Room Name: Old Name=Main_1 New Name=Main
+Added Room: Name=U_Gyroscope

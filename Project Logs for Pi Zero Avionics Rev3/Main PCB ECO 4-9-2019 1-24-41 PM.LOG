@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetR4_Sep_Ind_1 Pin=Raspberry Pi GPIO1-29
+Removed Pin From Net: NetName=NetR10_Motor_1 Pin=Raspberry Pi GPIO1-38
+Change Component Designator: OldDesignator=MAIN NewDesignator=SQB_Main
+Change Component Designator: OldDesignator=MOTOR NewDesignator=SQB_Motor
+Change Component Designator: OldDesignator=SEP NewDesignator=SQB_Sep
+Added Pin To Net: NetName=NetR4_Sep_Ind_1 Pin=Raspberry Pi GPIO1-38
+Added Member To Class: ClassName=PWR Member=Component +3.3- Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component +3.3- Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component +5- Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component +5- Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component +5- Screw Terminal
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Main_Ind
+Added Room: Name=Motor
+Added Room: Name=Motor_Ind
+Added Room: Name=Sep
+Added Room: Name=Sep_Ind
+Added Room: Name=U_Blue_LED1
+Added Room: Name=U_Blue_LED2
+Added Room: Name=U_Blue_LED3

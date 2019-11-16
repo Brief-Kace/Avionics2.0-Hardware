@@ -1,0 +1,39 @@
+Added Component: Designator=T3_U_Red_LED1(SOT95P280X125-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MMBT2222ATPMSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T3_U_Red_LED2(SOT95P280X125-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MMBT2222ATPMSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T3_U_Red_LED3(SOT95P280X125-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MMBT2222ATPMSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_Red_LED1 Member=Component D1_U_Red_LED1 (D1) LED_R
+Added Member To Class: ClassName=U_Red_LED2 Member=Component D1_U_Red_LED2 (D1) LED_R
+Added Member To Class: ClassName=U_Red_LED3 Member=Component D1_U_Red_LED3 (D1) LED_R
+Added Member To Class: ClassName=U_Red_LED1 Member=Component T3_U_Red_LED1 (T3) MMBT2222ALT1
+Added Member To Class: ClassName=U_Red_LED2 Member=Component T3_U_Red_LED2 (T3) MMBT2222ALT1
+Added Member To Class: ClassName=U_Red_LED3 Member=Component T3_U_Red_LED3 (T3) MMBT2222ALT1

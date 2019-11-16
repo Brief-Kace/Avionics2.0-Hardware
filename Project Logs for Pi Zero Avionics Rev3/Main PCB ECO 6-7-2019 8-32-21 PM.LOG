@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=SQB_PWR- Pin=Q2_Main-3
+Added Pin To Net: NetName=SQB_PWR- Pin=Q2_Motor-3
+Added Pin To Net: NetName=SQB_PWR- Pin=Q2_Sep-3
+Added Pin To Net: NetName=SQB_PWR- Pin=R24_Main-1
+Added Pin To Net: NetName=SQB_PWR- Pin=R24_Motor-1
+Added Pin To Net: NetName=SQB_PWR- Pin=R24_Sep-1

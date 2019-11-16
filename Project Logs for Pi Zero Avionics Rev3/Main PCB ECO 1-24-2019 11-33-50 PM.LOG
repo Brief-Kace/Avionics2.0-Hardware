@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=+3.3 Pin=3.3V-2
+Removed Pin From Net: NetName=+5V Pin=5V-1
+Removed Pin From Net: NetName=NetD1_2 Pin=D1-2
+Removed Pin From Net: NetName=NetR1_1 Pin=R1-1
+Removed Pin From Net: NetName=NetD1_2 Pin=R1-2
+Removed Pin From Net: NetName=NetR2_1 Pin=R2-1
+Removed Pin From Net: NetName=NetR2_2 Pin=R2-2
+Removed Pin From Net: NetName=NetR2_1 Pin=R6_Main-1
+Removed Pin From Net: NetName=NetR2_1 Pin=RPi-37
+Removed Pin From Net: NetName=NetR2_2 Pin=T1-1
+Removed Pin From Net: NetName=NetR1_1 Pin=T1-3
+Removed Member From Class: ClassName=Main Member=D3_MAIN
+Removed Member From Class: ClassName=Sep Member=D3_SEP
+Removed Member From Class: ClassName=Main Member=R18_MAIN
+Removed Member From Class: ClassName=Sep Member=R18_SEP
+Change Component Designator: OldDesignator=3.3V NewDesignator=PWR OUT
+Change Component Designator: OldDesignator=5V NewDesignator=PWR OUT
+Added Component: Designator=GND(Screw-Top Header No outline)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Pin To Net: NetName=GND Pin=GND-2
+Added Pin To Net: NetName=+3.3 Pin=PWR OUT-1
+Added Pin To Net: NetName=+5V Pin=PWR OUT-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetD1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_1 Pin=R6_Main-1
+Added Pin To Net: NetName=NetR2_1 Pin=RPi-37
+Added Pin To Net: NetName=NetR2_2 Pin=T1-1
+Added Pin To Net: NetName=NetR1_1 Pin=T1-3
+Added Member To Class: ClassName=Main Member=Component GND Screw Top Terminal No-Outline
+Added Member To Class: ClassName=Sep Member=Component R5_Sep (R5) Res3
+Added Room: Name=Accelerometer
+Added Room: Name=ADC
+Added Room: Name=Barometer
+Added Room: Name=Gyroscope
+Added Room: Name=IND
+Added Room: Name=Indicator LED
+Added Room: Name=Indicator LED
+Added Room: Name=Magnetometer
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=MAIN
+Added Room: Name=Sep
+Added Room: Name=SEP
+Added Room: Name=U_Voltage Regulation

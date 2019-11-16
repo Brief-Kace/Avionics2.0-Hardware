@@ -1,0 +1,49 @@
+Removed Member From Class: ClassName=Main Member=Raspberry Pi GPIO1
+Change Component Designator: OldDesignator=D2_U_Blue_LED2 NewDesignator=D2_U_Blue_LED3
+Change Component Designator: OldDesignator=D2_U_Blue_LED3 NewDesignator=D2_U_Blue_LED2
+Change Component Designator: OldDesignator=Q1_U_Squibs NewDesignator=Q1_Motor
+Change Component Designator: OldDesignator=Q2_U_Squibs NewDesignator=Q2_Motor
+Change Component Designator: OldDesignator=R5_U_Squibs NewDesignator=R5_Motor
+Change Component Designator: OldDesignator=R6_U_Squibs NewDesignator=R6_Motor
+Change Component Designator: OldDesignator=R7_U_Squibs NewDesignator=R7_Motor
+Change Component Designator: OldDesignator=R8_U_Squibs NewDesignator=R8_Motor
+Change Component Designator: OldDesignator=R9_U_Squibs NewDesignator=R9_Motor
+Change Component Designator: OldDesignator=R10_U_Squibs NewDesignator=R10_Motor
+Change Component Designator: OldDesignator=R32_U_Blue_LED2 NewDesignator=R32_U_Blue_LED3
+Change Component Designator: OldDesignator=R32_U_Blue_LED3 NewDesignator=R32_U_Blue_LED2
+Change Component Designator: OldDesignator=R33_U_Blue_LED2 NewDesignator=R33_U_Blue_LED3
+Change Component Designator: OldDesignator=R33_U_Blue_LED3 NewDesignator=R33_U_Blue_LED2
+Change Component Designator: OldDesignator=R55_U_Squibs NewDesignator=R55_Motor
+Change Component Designator: OldDesignator=SEP NewDesignator=SQB_Sep
+Change Component Designator: OldDesignator=SQB_U_Squibs NewDesignator=SQB_Motor
+Change Component Designator: OldDesignator=T4_U_Squibs NewDesignator=T4_Motor
+Change Component Designator: OldDesignator=T5_U_Squibs NewDesignator=T5_Motor
+Change Component Designator: OldDesignator=T7_U_Blue_LED2 NewDesignator=T7_U_Blue_LED3
+Change Component Designator: OldDesignator=T7_U_Blue_LED3 NewDesignator=T7_U_Blue_LED2
+Change Net Name : Old Net Name=NetD2_U_Blue_LED2_1 New Net Name=NetD2_U_Blue_LED3_1
+Change Net Name : Old Net Name=NetD2_U_Blue_LED2_2 New Net Name=NetD2_U_Blue_LED3_2
+Change Net Name : Old Net Name=NetD2_U_Blue_LED3_1 New Net Name=NetD2_U_Blue_LED2_1
+Change Net Name : Old Net Name=NetD2_U_Blue_LED3_2 New Net Name=NetD2_U_Blue_LED2_2
+Change Net Name : Old Net Name=NetQ1_U_Squibs_1 New Net Name=NetQ1_Motor_1
+Change Net Name : Old Net Name=NetQ1_U_Squibs_2 New Net Name=NetQ1_Motor_2
+Change Net Name : Old Net Name=NetQ2_U_Squibs_1 New Net Name=NetQ2_Motor_1
+Change Net Name : Old Net Name=NetQ2_U_Squibs_2 New Net Name=NetQ2_Motor_2
+Change Net Name : Old Net Name=NetR6_U_Squibs_1 New Net Name=NetR6_Motor_1
+Change Net Name : Old Net Name=NetR8_U_Squibs_1 New Net Name=NetR8_Motor_1
+Change Net Name : Old Net Name=NetR8_U_Squibs_2 New Net Name=NetR8_Motor_2
+Change Net Name : Old Net Name=NetR9_U_Squibs_1 New Net Name=NetR9_Motor_1
+Change Net Name : Old Net Name=NetR10_U_Squibs_1 New Net Name=NetR10_Motor_1
+Change Net Name : Old Net Name=NetR10_U_Squibs_2 New Net Name=NetR10_Motor_2
+Change Net Name : Old Net Name=NetR33_U_Blue_LED2_2 New Net Name=NetR33_U_Blue_LED3_2
+Change Net Name : Old Net Name=NetR33_U_Blue_LED3_2 New Net Name=NetR33_U_Blue_LED2_2
+Change Class Name : Old Net Name=U_Squibs New Net Name=Motor
+Added Member To Class: ClassName=PWR Member=Component +3.3- Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component +3.3- Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component +5- Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component +5- Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component +5- Screw Terminal
+Change Room Name: Old Name=Main_1 New Name=Main
+Added Room: Name=Motor
+Added Room: Name=Sep
+Added Room: Name=Sep_Ind
+Added Room: Name=U_Blue_LED2

@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetQ3_LVMISO_2 Pin=Q3_LVMISO-2
+Removed Pin From Net: NetName=NetQ3_LVMOSI_2 Pin=Q3_LVMOSI-2
+Removed Pin From Net: NetName=NetQ3_LVMOSI_2 Pin=R16-2
+Removed Pin From Net: NetName=NetQ3_LVMISO_2 Pin=R35-1
+Removed Pin From Net: NetName=NetQ3_LVMOSI_2 Pin=R36-1
+Removed Pin From Net: NetName=NetQ3_LVMISO_2 Pin=R68-1
+Removed Pin From Net: NetName=NetQ3_LVMOSI_2 Pin=R68-1
+Removed Pin From Net: NetName=NetQ3_LVMISO_2 Pin=Raspberry Pi GPIO1-21
+Removed Pin From Net: NetName=NetQ3_LVRX1_3 Pin=UART1_LVLESP-1
+Removed Pin From Net: NetName=NetQ3_LVTX1_3 Pin=UART1_LVLESP-2
+Added Pin To Net: NetName=NetQ3_LVMOSI_2 Pin=Q3_LVMISO-2
+Added Pin To Net: NetName=NetQ3_LVMISO_2 Pin=Q3_LVMOSI-2
+Added Pin To Net: NetName=NetQ3_LVMISO_2 Pin=R16-2
+Added Pin To Net: NetName=NetQ3_LVMOSI_2 Pin=R35-1
+Added Pin To Net: NetName=NetQ3_LVMISO_2 Pin=R36-1
+Added Pin To Net: NetName=NetQ3_LVMOSI_2 Pin=R68-1
+Added Pin To Net: NetName=NetQ3_LVMISO_2 Pin=R68-1
+Added Pin To Net: NetName=NetQ3_LVMOSI_2 Pin=Raspberry Pi GPIO1-21
+Added Pin To Net: NetName=NetQ3_LVTX1_3 Pin=UART1_LVLESP-1
+Added Pin To Net: NetName=NetQ3_LVRX1_3 Pin=UART1_LVLESP-2
+Change Net Name : Old Net Name=NetQ3_LVMISO_2 New Net Name=NetQ3_LVMOSI_2
+Change Net Name : Old Net Name=NetQ3_LVMOSI_2 New Net Name=NetQ3_LVMISO_2

@@ -1,0 +1,66 @@
+Removed Member From Class: ClassName=Main Member=Q1
+Removed Member From Class: ClassName=Main Member=Q2
+Removed Member From Class: ClassName=AIN01 Member=R7
+Removed Member From Class: ClassName=AIN02 Member=R7
+Removed Member From Class: ClassName=AIN11 Member=R7
+Removed Member From Class: ClassName=AIN12 Member=R7
+Removed Member From Class: ClassName=AIN21 Member=R7
+Removed Member From Class: ClassName=AIN22 Member=R7
+Removed Member From Class: ClassName=AIN31 Member=R7
+Removed Member From Class: ClassName=AIN32 Member=R7
+Removed Member From Class: ClassName=Main Member=R8
+Removed Member From Class: ClassName=Main Member=R9
+Removed Member From Class: ClassName=Main Member=R10
+Removed Member From Class: ClassName=Main Member=R11
+Removed Member From Class: ClassName=Main Member=R12
+Removed Member From Class: ClassName=Main Member=R13
+Removed Member From Class: ClassName=Main Member=R14
+Removed Member From Class: ClassName=ESP Member=R56
+Removed Member From Class: ClassName=U_ADC1 Member=R56
+Removed Member From Class: ClassName=U_ADC2 Member=R56
+Removed Member From Class: ClassName=Sep Member=R57
+Removed Member From Class: ClassName=ESP Member=R78
+Removed Member From Class: ClassName=U_ADC1 Member=R78
+Removed Member From Class: ClassName=U_ADC2 Member=R78
+Removed Member From Class: ClassName=Main Member=T2
+Removed Member From Class: ClassName=Main Member=T3
+Removed Member From Class: ClassName=Sep Member=T8
+Added Member To Class: ClassName=Main Member=Component R87 Res3
+Added Room: Name=ACT_IND
+Added Room: Name=ACT_Ind
+Added Room: Name=AIN01
+Added Room: Name=AIN02
+Added Room: Name=AIN11
+Added Room: Name=AIN12
+Added Room: Name=AIN21
+Added Room: Name=AIN22
+Added Room: Name=AIN31
+Added Room: Name=AIN32
+Added Room: Name=Bz
+Added Room: Name=ERR_Ind2
+Added Room: Name=ESP
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Main_IND
+Added Room: Name=Motor
+Added Room: Name=Motor_IND
+Added Room: Name=PWR
+Added Room: Name=Sep
+Added Room: Name=Sep_IND
+Added Room: Name=U_Accelerometer
+Added Room: Name=U_ADC1
+Added Room: Name=U_ADC2
+Added Room: Name=U_Barometer
+Added Room: Name=U_ESP power
+Added Room: Name=U_Gyroscope
+Added Room: Name=U_Magnetometer
+Added Room: Name=U_Power IO
+Added Room: Name=U_Regulators
+Added Room: Name=U_SPI Output
+Added Room: Name=U_Squib_Managment
+Added Room: Name=U_UART Output1
+Added Room: Name=U_UART Output2
+Added Room: Name=UART
+Added Room: Name=Voltage_Indicator1
+Added Room: Name=Voltage_Indicator2
+Added Room: Name=Voltage_Indicator3

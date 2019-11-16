@@ -1,0 +1,723 @@
+Change Component Designator: OldDesignator=MAIN NewDesignator=MAIN1
+Change Component Designator: OldDesignator=SEP NewDesignator=SEP1
+Added Component: Designator=C1_Main(RAD-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C1_Sep(RAD-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C11(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C12(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C13(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C14(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C15(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C16(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C17(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C18(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C19(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C20(RAD-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C21(RAD-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C22(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(RAD-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(RAD-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(RESC1005X40)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(RESC1005X40)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(RESC1005X40)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3_IND(RESC1005X40)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3_MAIN(RESC1005X40)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3_SEP(RESC1005X40)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D?(RESC1005X40)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IC?(TO263-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MIC29302AWU-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-5 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MIC29302AWU-TR/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1_Main(SOT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1_Sep(SOT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q2_Main(SOT23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2_Sep(SOT23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q?_Main(SOT23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q?_Main(SOT23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q?_Sep(SOT23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q?_Sep(SOT23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0751K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0751K1L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0751K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0751K1L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0751K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0751K1L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0751K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0751K1L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0751K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0751K1L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4_Main(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4_Sep(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6_Main(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6_Sep(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0751K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0751K1L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0751K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0751K1L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0751K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0751K1L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0751K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0751K1L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0751K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0751K1L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0751K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0751K1L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0751K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0751K1L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0751K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0751K1L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R16(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R17(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R18_IND(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0751K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0751K1L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R18_MAIN(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0751K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0751K1L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R18_SEP(RESC2012X60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0751K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC0805FR-0751K1L/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=T1(SOT23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T1(SOT23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U5(QFN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(*MODULE_ESP32-WROOM-32D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-WROOM-32D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Module Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-WROOM-32D/Espressif%20Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1_Main-1
+Added Pin To Net: NetName=VCC Pin=C1_Main-2
+Added Pin To Net: NetName=GND Pin=C1_Sep-1
+Added Pin To Net: NetName=VCC Pin=C1_Sep-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+3.3 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+3.3 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+3.3 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+3.3 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=+3.3 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+3.3 Pin=C11-2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=+3.3 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=+3.3 Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=+3.3 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=+3.3 Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=+3.3 Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=+3.3 Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=VCC Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=VCC Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=+5V Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=+5V Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=+3.3 Pin=C?-2
+Added Pin To Net: NetName=+3.3 Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=D1-1
+Added Pin To Net: NetName=+5V Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=+5V Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD3_IND_1 Pin=D3_IND-1
+Added Pin To Net: NetName=NetD3_IND_2 Pin=D3_IND-2
+Added Pin To Net: NetName=NetD3_MAIN_1 Pin=D3_MAIN-1
+Added Pin To Net: NetName=NetD3_MAIN_2 Pin=D3_MAIN-2
+Added Pin To Net: NetName=NetD3_SEP_1 Pin=D3_SEP-1
+Added Pin To Net: NetName=NetD3_SEP_2 Pin=D3_SEP-2
+Added Pin To Net: NetName=+3.3 Pin=D?-1
+Added Pin To Net: NetName=VCC Pin=IC?-1
+Added Pin To Net: NetName=VCC Pin=IC?-2
+Added Pin To Net: NetName=GND Pin=IC?-3
+Added Pin To Net: NetName=+3.3 Pin=IC?-4
+Added Pin To Net: NetName=GND Pin=IC?-6
+Added Pin To Net: NetName=VCC Pin=Q1_Main-1
+Added Pin To Net: NetName=NetQ1_Main_2 Pin=Q1_Main-2
+Added Pin To Net: NetName=NetMAIN1_1 Pin=Q1_Main-3
+Added Pin To Net: NetName=VCC Pin=Q1_Sep-1
+Added Pin To Net: NetName=NetQ1_Sep_2 Pin=Q1_Sep-2
+Added Pin To Net: NetName=NetQ1_Sep_3 Pin=Q1_Sep-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetLS1_2 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_Main_1 Pin=Q2_Main-1
+Added Pin To Net: NetName=GND Pin=Q2_Main-2
+Added Pin To Net: NetName=NetQ1_Main_2 Pin=Q2_Main-3
+Added Pin To Net: NetName=NetQ2_Sep_1 Pin=Q2_Sep-1
+Added Pin To Net: NetName=GND Pin=Q2_Sep-2
+Added Pin To Net: NetName=NetQ1_Sep_2 Pin=Q2_Sep-3
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetD1_2 Pin=R1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R1-2
+Added Pin To Net: NetName=NetMAIN1_1 Pin=R2-1
+Added Pin To Net: NetName=NetQ1_Sep_3 Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R4_Main-1
+Added Pin To Net: NetName=NetQ1_Main_2 Pin=R4_Main-2
+Added Pin To Net: NetName=VCC Pin=R4_Sep-1
+Added Pin To Net: NetName=NetQ1_Sep_2 Pin=R4_Sep-2
+Added Pin To Net: NetName=NetQ2_Main_1 Pin=R6_Main-2
+Added Pin To Net: NetName=NetQ2_Sep_1 Pin=R6_Sep-2
+Added Pin To Net: NetName=NetA_0_1_1 Pin=R7-1
+Added Pin To Net: NetName=NetC8_2 Pin=R7-2
+Added Pin To Net: NetName=NetA_0_1_2 Pin=R8-1
+Added Pin To Net: NetName=NetC7_2 Pin=R8-2
+Added Pin To Net: NetName=NetA_2_3_1 Pin=R9-1
+Added Pin To Net: NetName=NetC6_2 Pin=R9-2
+Added Pin To Net: NetName=NetA_2_3_2 Pin=R10-1
+Added Pin To Net: NetName=NetC5_2 Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=NetC8_2 Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=NetC7_2 Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=NetC6_2 Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=NetC5_2 Pin=R14-2
+Added Pin To Net: NetName=NetIC1_5 Pin=R15-1
+Added Pin To Net: NetName=+5V Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=NetD2_2 Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=NetIC1_5 Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18_IND-1
+Added Pin To Net: NetName=NetD3_IND_2 Pin=R18_IND-2
+Added Pin To Net: NetName=GND Pin=R18_MAIN-1
+Added Pin To Net: NetName=NetD3_MAIN_2 Pin=R18_MAIN-2
+Added Pin To Net: NetName=GND Pin=R18_SEP-1
+Added Pin To Net: NetName=NetD3_SEP_2 Pin=R18_SEP-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=+3.3 Pin=R?-2
+Added Pin To Net: NetName=NetR2_2 Pin=T1-1
+Added Pin To Net: NetName=NetR2_2 Pin=T1-1
+Added Pin To Net: NetName=GND Pin=T1-2
+Added Pin To Net: NetName=GND Pin=T1-2
+Added Pin To Net: NetName=NetR1_1 Pin=T1-3
+Added Pin To Net: NetName=NetR1_1 Pin=T1-3
+Added Pin To Net: NetName=NetRPi_7 Pin=U5-2
+Added Pin To Net: NetName=NetRPi_23 Pin=U5-3
+Added Pin To Net: NetName=NetRPi_19 Pin=U5-5
+Added Pin To Net: NetName=NetRPi_21 Pin=U5-6
+Added Pin To Net: NetName=+3.3 Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U5-11
+Added Pin To Net: NetName=GND Pin=U5-12
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Pin To Net: NetName=+3.3 Pin=U5-15
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R?-2
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetIC?_5 Pin=IC?-5
+Added Pin To Net: NetName=NetIC?_5 Pin=R?-1
+Added Pin To Net: NetName=NetIC?_5 Pin=R?-2
+Added Net: Name=NetIC?_5
+Added Pin To Net: NetName=NetR6_Main_1 Pin=R6_Main-1
+Added Pin To Net: NetName=NetR6_Main_1 Pin=RPi-37
+Added Net: Name=NetR6_Main_1
+Added Pin To Net: NetName=NetR6_Sep_1 Pin=R6_Sep-1
+Added Pin To Net: NetName=NetR6_Sep_1 Pin=RPi-40
+Added Net: Name=NetR6_Sep_1
+Added Member To Class: ClassName=Main Member=Component +3.3 GND Screw Top Terminal No-Outline
+Added Member To Class: ClassName=Main Member=Component C1_Main (C1) Cap
+Added Member To Class: ClassName=Sep Member=Component C1_Sep (C1) Cap
+Added Member To Class: ClassName=Accelerometer Member=Component C2 Cap
+Added Member To Class: ClassName=Accelerometer Member=Component C3 Cap
+Added Member To Class: ClassName=ADC Member=Component C4 Cap
+Added Member To Class: ClassName=ADC Member=Component C5 Cap
+Added Member To Class: ClassName=ADC Member=Component C6 Cap
+Added Member To Class: ClassName=ADC Member=Component C7 Cap
+Added Member To Class: ClassName=ADC Member=Component C8 Cap
+Added Member To Class: ClassName=Barometer Member=Component C9 Cap
+Added Member To Class: ClassName=Barometer Member=Component C10 Cap
+Added Member To Class: ClassName=Barometer Member=Component C11 Cap
+Added Member To Class: ClassName=Gyroscope Member=Component C12 Cap
+Added Member To Class: ClassName=Gyroscope Member=Component C13 Cap
+Added Member To Class: ClassName=Gyroscope Member=Component C14 Cap
+Added Member To Class: ClassName=Gyroscope Member=Component C15 Cap
+Added Member To Class: ClassName=Magnetometer Member=Component C16 Cap
+Added Member To Class: ClassName=Magnetometer Member=Component C17 Cap
+Added Member To Class: ClassName=Magnetometer Member=Component C18 Cap
+Added Member To Class: ClassName=U_Voltage Regulation Member=Component C19 Cap
+Added Member To Class: ClassName=U_Voltage Regulation Member=Component C20 Cap
+Added Member To Class: ClassName=U_Voltage Regulation Member=Component C21 Cap
+Added Member To Class: ClassName=U_Voltage Regulation Member=Component C22 Cap
+Added Member To Class: ClassName=U_Voltage Regulation Member=Component C? Cap
+Added Member To Class: ClassName=U_Voltage Regulation Member=Component C? Cap
+Added Member To Class: ClassName=U_Voltage Regulation Member=Component C? Cap
+Added Member To Class: ClassName=U_Voltage Regulation Member=Component C? Cap
+Added Member To Class: ClassName=Indicator LED Member=Component D1 LED
+Added Member To Class: ClassName=Indicator LED Member=Component D1 LED
+Added Member To Class: ClassName=U_Voltage Regulation Member=Component D2 LED
+Added Member To Class: ClassName=Ind Member=Component D3_IND (D3) LED
+Added Member To Class: ClassName=Main Member=Component D3_MAIN (D3) LED
+Added Member To Class: ClassName=Sep Member=Component D3_SEP (D3) LED
+Added Member To Class: ClassName=U_Voltage Regulation Member=Component D? LED
+Added Member To Class: ClassName=U_Voltage Regulation Member=Component IC? MIC29302AWU-TR
+Added Member To Class: ClassName=Main Member=Component Q1_Main (Q1) SOT95P280X125-3N
+Added Member To Class: ClassName=Sep Member=Component Q1_Sep (Q1) SOT95P280X125-3N
+Added Member To Class: ClassName=Main Member=Component Q2_Main (Q2) MMBT2222ALT1
+Added Member To Class: ClassName=Sep Member=Component Q2_Sep (Q2) MMBT2222ALT1
+Added Member To Class: ClassName=Main Member=Component Q2 MMBT2222ALT1
+Added Member To Class: ClassName=Main Member=Component Q?_Main (Q?) MMBT2222ALT1
+Added Member To Class: ClassName=Main Member=Component Q?_Main (Q?) MMBT2222ALT1
+Added Member To Class: ClassName=Sep Member=Component Q?_Sep (Q?) MMBT2222ALT1
+Added Member To Class: ClassName=Sep Member=Component Q?_Sep (Q?) MMBT2222ALT1
+Added Member To Class: ClassName=Indicator LED Member=Component R1 RC0805FR-0751K1L
+Added Member To Class: ClassName=Indicator LED Member=Component R1 RC0805FR-0751K1L
+Added Member To Class: ClassName=Indicator LED Member=Component R2 RC0805FR-0751K1L
+Added Member To Class: ClassName=Indicator LED Member=Component R2 RC0805FR-0751K1L
+Added Member To Class: ClassName=Main Member=Component R3 RC0805FR-0751K1L
+Added Member To Class: ClassName=Main Member=Component R4_Main (R4) Res3
+Added Member To Class: ClassName=Sep Member=Component R4_Sep (R4) Res3
+Added Member To Class: ClassName=Main Member=Component R6_Main (R6) Res3
+Added Member To Class: ClassName=Sep Member=Component R6_Sep (R6) Res3
+Added Member To Class: ClassName=ADC Member=Component R7 RC0805FR-0751K1L
+Added Member To Class: ClassName=ADC Member=Component R8 RC0805FR-0751K1L
+Added Member To Class: ClassName=ADC Member=Component R9 RC0805FR-0751K1L
+Added Member To Class: ClassName=ADC Member=Component R10 RC0805FR-0751K1L
+Added Member To Class: ClassName=ADC Member=Component R11 RC0805FR-0751K1L
+Added Member To Class: ClassName=ADC Member=Component R12 RC0805FR-0751K1L
+Added Member To Class: ClassName=ADC Member=Component R13 RC0805FR-0751K1L
+Added Member To Class: ClassName=ADC Member=Component R14 RC0805FR-0751K1L
+Added Member To Class: ClassName=U_Voltage Regulation Member=Component R15 Res3
+Added Member To Class: ClassName=U_Voltage Regulation Member=Component R16 Res3
+Added Member To Class: ClassName=U_Voltage Regulation Member=Component R17 Res3
+Added Member To Class: ClassName=Ind Member=Component R18_IND (R18) RC0805FR-0751K1L
+Added Member To Class: ClassName=Main Member=Component R18_MAIN (R18) RC0805FR-0751K1L
+Added Member To Class: ClassName=Sep Member=Component R18_SEP (R18) RC0805FR-0751K1L
+Added Member To Class: ClassName=U_Voltage Regulation Member=Component R? Res3
+Added Member To Class: ClassName=U_Voltage Regulation Member=Component R? Res3
+Added Member To Class: ClassName=U_Voltage Regulation Member=Component R? Res3
+Added Member To Class: ClassName=Indicator LED Member=Component T1 MMBT2222ALT1
+Added Member To Class: ClassName=Indicator LED Member=Component T1 MMBT2222ALT1
+Added Member To Class: ClassName=Magnetometer Member=Component U5 MLX90393
+Added Member To Class: ClassName=Main Member=Component U? ESP32-WROOM-32D
+Added Room: Name=Accelerometer
+Added Room: Name=ADC
+Added Room: Name=Barometer
+Added Room: Name=Gyroscope
+Added Room: Name=IND
+Added Room: Name=Indicator LED
+Added Room: Name=Indicator LED
+Added Room: Name=Magnetometer
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=MAIN
+Added Room: Name=Sep
+Added Room: Name=SEP
+Added Room: Name=U_Voltage Regulation

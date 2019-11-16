@@ -1,0 +1,205 @@
+Removed Member From Class: ClassName=U_Barometer Member=C4
+Removed Member From Class: ClassName=U_Barometer Member=C5
+Removed Member From Class: ClassName=U_Gyroscope Member=C6
+Removed Member From Class: ClassName=U_Gyroscope Member=C9
+Removed Member From Class: ClassName=LVMISO Member=R68
+Removed Member From Class: ClassName=LVMOSI Member=R68
+Removed Member From Class: ClassName=LVRX2 Member=R68
+Removed Member From Class: ClassName=LVSCLK Member=R68
+Removed Member From Class: ClassName=LVTX2 Member=R68
+Change Component Footprint: Designator=R1 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R1_U_ADC1 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R2 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R2_U_ADC1 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R3 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R3_U_ADC1 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R4 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R4_U_ADC1 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R5 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R5_U_ADC1 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R6 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R6_U_ADC1 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R7 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R8_ACT_IND Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R8_Main_IND Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R8_Motor_IND Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R8_Sep_IND Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R9 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R10 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R11 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R12 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R13 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R14 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R15 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R16 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R17 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R18 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R19_ACT_Ind Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R19_ERR_Ind1 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R19_ERR_Ind2 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R20 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R21_Main Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R21_Motor Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R21_Sep Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R22_Main Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R22_Motor Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R22_Sep Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R23_Main Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R23_Motor Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R23_Sep Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R24_Main Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R24_Motor Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R24_Sep Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R25_Main Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R25_Motor Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R25_Sep Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R26_Main Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R26_Motor Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R26_Sep Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R27_Main Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R27_Motor Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R27_Sep Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R28 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R29 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R30 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R31 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R32 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R33 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R34 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R35 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R36 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R37 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R38 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R39 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R40 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R41 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R42 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R43 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R44 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R45 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R46 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R47 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R48 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R49 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R50 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R51 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R52 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R53 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R54 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R55 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R56 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R57 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R58 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R59 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R60 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R63_Voltage_Indicator1 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R63_Voltage_Indicator2 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R63_Voltage_Indicator3 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R64_Voltage_Indicator1 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R64_Voltage_Indicator2 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R64_Voltage_Indicator3 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R65 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R66 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R67 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R68 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R68 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R68 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R68 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R68 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R68 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R68_LVRX1 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R68_LVTX1 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R69_LVCS Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R69_LVMISO Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R69_LVMOSI Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R69_LVRX1 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R69_LVRX2 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R69_LVSCLK Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R69_LVTX1 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R69_LVTX2 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R70 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R71 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R72 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R78 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R79 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R80 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R81 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R82 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R83 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R84 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R85 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R86 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R91 Old Footprint= New Footprint=J1-0603
+Change Component Footprint: Designator=R92 Old Footprint= New Footprint=J1-0603
+Change Component Designator: OldDesignator=C4 NewDesignator=C4_U_ADC2
+Change Component Designator: OldDesignator=C5 NewDesignator=C5_U_ADC2
+Change Component Designator: OldDesignator=C6 NewDesignator=C6_U_ADC2
+Change Component Designator: OldDesignator=C9 NewDesignator=C9_U_ADC2
+Change Component Designator: OldDesignator=C10 NewDesignator=C10_U_ADC2
+Change Component Designator: OldDesignator=D4 NewDesignator=D_ESP_PWR
+Change Component Designator: OldDesignator=R1 NewDesignator=R1_U_ADC2
+Change Component Designator: OldDesignator=R2 NewDesignator=R2_U_ADC2
+Change Component Designator: OldDesignator=R3 NewDesignator=R3_U_ADC2
+Change Component Designator: OldDesignator=R4 NewDesignator=R4_U_ADC2
+Change Component Designator: OldDesignator=R5 NewDesignator=R5_U_ADC2
+Change Component Designator: OldDesignator=R6 NewDesignator=R6_U_ADC2
+Change Component Designator: OldDesignator=R68 NewDesignator=R68_LVCS
+Change Component Designator: OldDesignator=R68 NewDesignator=R68_LVMISO
+Change Component Designator: OldDesignator=R68 NewDesignator=R68_LVMOSI
+Change Component Designator: OldDesignator=R68 NewDesignator=R68_LVRX2
+Change Component Designator: OldDesignator=R68 NewDesignator=R68_LVSCLK
+Change Component Designator: OldDesignator=R68 NewDesignator=R68_LVTX2
+Change Component Designator: OldDesignator=U2 NewDesignator=U2_U_ADC2
+Change Net Name : Old Net Name=NetD4_2 New Net Name=NetD_ESP_PWR_2
+Added Member To Class: ClassName=LVRX1 Member=Component Q3_LVRX1 (Q3) BSS138L
+Added Member To Class: ClassName=LVMISO Member=Component R68_LVMISO (R68) Res3
+Added Member To Class: ClassName=LVMOSI Member=Component R68_LVMOSI (R68) Res3
+Added Member To Class: ClassName=LVRX2 Member=Component R68_LVRX2 (R68) Res3
+Added Member To Class: ClassName=LVSCLK Member=Component R68_LVSCLK (R68) Res3
+Added Member To Class: ClassName=LVTX2 Member=Component R68_LVTX2 (R68) Res3
+Added Room: Name=ACT_IND
+Added Room: Name=ACT_Ind
+Added Room: Name=AIN01
+Added Room: Name=AIN02
+Added Room: Name=AIN11
+Added Room: Name=AIN12
+Added Room: Name=AIN21
+Added Room: Name=AIN22
+Added Room: Name=AIN31
+Added Room: Name=AIN32
+Added Room: Name=Bz
+Added Room: Name=ERR_Ind2
+Added Room: Name=ESP
+Added Room: Name=LVCS
+Added Room: Name=LVLESP
+Added Room: Name=LVLPI/ESP
+Added Room: Name=LVMISO
+Added Room: Name=LVMOSI
+Added Room: Name=LVRX1
+Added Room: Name=LVRX2
+Added Room: Name=LVSCLK
+Added Room: Name=LVTX1
+Added Room: Name=LVTX2
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Main_IND
+Added Room: Name=Motor
+Added Room: Name=Motor_IND
+Added Room: Name=PWR
+Added Room: Name=Sep
+Added Room: Name=Sep_IND
+Added Room: Name=SPI-IO
+Added Room: Name=U_Accelerometer
+Added Room: Name=U_ADC1
+Added Room: Name=U_ADC2
+Added Room: Name=U_Barometer
+Added Room: Name=U_ESP power
+Added Room: Name=U_Gyroscope
+Added Room: Name=U_Magnetometer
+Added Room: Name=U_Power IO
+Added Room: Name=U_Regulators
+Added Room: Name=U_Squib_Managment
+Added Room: Name=UART
+Added Room: Name=Voltage_Indicator1
+Added Room: Name=Voltage_Indicator2
+Added Room: Name=Voltage_Indicator3

@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=UART1_U_UART Level Shifter1 NewDesignator=UART1_LVLESP
+Change Component Designator: OldDesignator=UART1_U_UART Level Shifter2 NewDesignator=UART1_LVLPI/ESP

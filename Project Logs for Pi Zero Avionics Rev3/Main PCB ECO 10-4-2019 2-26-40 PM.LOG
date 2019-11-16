@@ -1,0 +1,229 @@
+Removed Pin From Net: NetName=NetQ3_LVRX1_3 Pin=UART1_LVLESP-1
+Removed Pin From Net: NetName=NetQ3_LVTX1_3 Pin=UART1_LVLESP-2
+Change Component Footprint: Designator=R1 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R1_U_ADC1 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R2 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R2_U_ADC1 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R3 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R3_U_ADC1 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R4 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R4_U_ADC1 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R5 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R5_U_ADC1 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R6 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R6_U_ADC1 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R9 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R10 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R11 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R12 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R13 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R14 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R15 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R16 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R17 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R18 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R19_ACT_Ind Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R19_ERR_Ind1 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R19_ERR_Ind2 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R20 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R21_Main Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R21_Motor Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R21_Sep Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R22_Main Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R22_Motor Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R22_Sep Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R23_Main Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R23_Motor Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R23_Sep Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R24_Main Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R24_Motor Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R24_Sep Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R25_Main Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R25_Motor Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R25_Sep Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R26_Main Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R26_Motor Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R26_Sep Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R27_Main Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R27_Motor Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R27_Sep Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R28 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R29 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R30 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R31 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R32 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R33 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R34 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R35 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R36 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R37 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R38 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R39 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R40 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R41 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R42 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R43 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R44 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R45 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R46 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R47 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R48 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R49 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R50 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R51 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R52 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R53 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R54 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R55 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R58 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R59 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R60 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R63_Voltage_Indicator1 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R63_Voltage_Indicator2 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R63_Voltage_Indicator3 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R64_Voltage_Indicator1 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R64_Voltage_Indicator2 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R64_Voltage_Indicator3 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R68 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R68 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R68 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R68 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R68 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R68 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R68_LVRX1 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R68_LVTX1 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R69_LVCS Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R69_LVMISO Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R69_LVMOSI Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R69_LVRX1 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R69_LVRX2 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R69_LVSCLK Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R69_LVTX1 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R69_LVTX2 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R70 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R71 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R72 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R78 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R79 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R80 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R81 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R82 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R83 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R84 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R85 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R86 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R91 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R92 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=C34 Old Footprint=0603 FOOTPRINT New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=C35 Old Footprint=0603 FOOTPRINT New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=C36 Old Footprint=0603 FOOTPRINT New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=C37 Old Footprint=0603 FOOTPRINT New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=C3_U_ADC1 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=C3_U_ADC2 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=C7_U_ADC1 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=C7_U_ADC2 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=C8_U_ADC1 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=C8_U_ADC2 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=CF1_AIN01 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=CF1_AIN02 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=CF1_AIN11 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=CF1_AIN12 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=CF1_AIN21 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=CF1_AIN22 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=CF1_AIN31 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=CF1_AIN32 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R61_AIN01 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R61_AIN02 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R61_AIN11 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R61_AIN12 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R61_AIN21 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R61_AIN22 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R61_AIN31 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R61_AIN32 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R62_AIN01 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R62_AIN02 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R62_AIN11 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R62_AIN12 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R62_AIN21 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R62_AIN22 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R62_AIN31 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R62_AIN32 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R87 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R88 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R89 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R90 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RF1_AIN01 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RF1_AIN02 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RF1_AIN11 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RF1_AIN12 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RF1_AIN21 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RF1_AIN22 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RF1_AIN31 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RF1_AIN32 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RGND1_AIN01 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RGND1_AIN02 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RGND1_AIN11 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RGND1_AIN12 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RGND1_AIN21 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RGND1_AIN22 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RGND1_AIN31 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RGND1_AIN32 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RGND2_AIN01 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RGND2_AIN02 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RGND2_AIN11 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RGND2_AIN12 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RGND2_AIN21 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RGND2_AIN22 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RGND2_AIN31 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=RGND2_AIN32 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R_Pi_Pwr Old Footprint=0603 TO 1210 SMD New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=L1 Old Footprint=INDUCTOR New Footprint=*INDM1200X1200X1000N
+Change Component Footprint: Designator=R75 Old Footprint=J1-0603 New Footprint=0603 to 0805 SMD
+Added Pin To Net: NetName=NetQ3_LVTX1_3 Pin=UART1_LVLESP-1
+Added Pin To Net: NetName=NetQ3_LVRX1_3 Pin=UART1_LVLESP-2
+Added Room: Name=ACT_IND
+Added Room: Name=ACT_Ind
+Added Room: Name=AIN01
+Added Room: Name=AIN02
+Added Room: Name=AIN11
+Added Room: Name=AIN12
+Added Room: Name=AIN21
+Added Room: Name=AIN22
+Added Room: Name=AIN31
+Added Room: Name=AIN32
+Added Room: Name=Bz
+Added Room: Name=ERR_Ind2
+Added Room: Name=ESP
+Added Room: Name=LVCS
+Added Room: Name=LVLESP
+Added Room: Name=LVLPI/ESP
+Added Room: Name=LVMISO
+Added Room: Name=LVMOSI
+Added Room: Name=LVRX1
+Added Room: Name=LVRX2
+Added Room: Name=LVSCLK
+Added Room: Name=LVTX1
+Added Room: Name=LVTX2
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Main_IND
+Added Room: Name=Motor
+Added Room: Name=Motor_IND
+Added Room: Name=PWR
+Added Room: Name=Sep
+Added Room: Name=Sep_IND
+Added Room: Name=SPI-IO
+Added Room: Name=U_Accelerometer
+Added Room: Name=U_ADC1
+Added Room: Name=U_ADC2
+Added Room: Name=U_Barometer
+Added Room: Name=U_ESP power
+Added Room: Name=U_Gyroscope
+Added Room: Name=U_Magnetometer
+Added Room: Name=U_Power IO
+Added Room: Name=U_Regulators
+Added Room: Name=U_Squib_Managment
+Added Room: Name=UART
+Added Room: Name=Voltage_Indicator1
+Added Room: Name=Voltage_Indicator2
+Added Room: Name=Voltage_Indicator3

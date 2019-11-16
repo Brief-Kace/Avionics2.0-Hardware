@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=D1-2
+Removed Pin From Net: NetName=NetR1_1 Pin=R1-1
+Removed Pin From Net: NetName=NetD1_2 Pin=R1-2
+Removed Pin From Net: NetName=NetR2_1 Pin=R2-1
+Removed Pin From Net: NetName=NetR2_2 Pin=R2-2
+Removed Pin From Net: NetName=NetR2_1 Pin=R6_Main-1
+Removed Pin From Net: NetName=NetR2_1 Pin=RPi-37
+Removed Pin From Net: NetName=NetR2_2 Pin=T1-1
+Removed Pin From Net: NetName=NetR1_1 Pin=T1-3
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetD1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_1 Pin=R6_Main-1
+Added Pin To Net: NetName=NetR2_1 Pin=RPi-37
+Added Pin To Net: NetName=NetR2_2 Pin=T1-1
+Added Pin To Net: NetName=NetR1_1 Pin=T1-3
+Added Member To Class: ClassName=Main Member=Component GND Screw Top Terminal No-Outline
+Added Member To Class: ClassName=Main Member=Component PWR OUT Screw Top Terminal No-Outline
+Change Room Name: Old Name=Indicator LED_1 New Name=Indicator LED
+Added Room: Name=Main
+Added Room: Name=MAIN
+Added Room: Name=SEP

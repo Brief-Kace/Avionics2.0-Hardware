@@ -1,0 +1,238 @@
+Removed Pin From Net: NetName=VBAT Pin=C18-2
+Removed Pin From Net: NetName=VBAT Pin=C23-2
+Removed Pin From Net: NetName=VBAT Pin=C27-2
+Removed Pin From Net: NetName=NetC33_2 Pin=C33-2
+Removed Pin From Net: NetName=NetC33_2 Pin=C35-2
+Removed Pin From Net: NetName=NetC33_2 Pin=Q4-1
+Removed Pin From Net: NetName=NetC33_2 Pin=R31-2
+Removed Pin From Net: NetName=NetC33_2 Pin=R52-1
+Removed Pin From Net: NetName=NetC33_2 Pin=R53-2
+Removed Pin From Net: NetName=VBAT Pin=U6-3
+Removed Pin From Net: NetName=VBAT Pin=U8-2
+Removed Pin From Net: NetName=VBAT Pin=U9-1
+Change Component Footprint: Designator=U6 Old Footprint=*SOT230P700X180-3N New Footprint=*DPAK229P990X238-4N
+Added Component: Designator=C?(0805 Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ".1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805 Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805 Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 nF"; VariantName = "[No Variations]"
+Added Component: Designator=D?(*DO-214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "VSSC8L45-M3/9ATGICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(SOT95P280X125-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SI2343CDS-T1-GE3CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R+?(0603 to 0805 SMD - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=R+?(0603 to 0805 SMD - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R+?(0603 to 0805 SMD - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R+?(0603 to 0805 SMD - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=T?(SOT95P280X125-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MMBT2222ATPMSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T?(SOT95P280X125-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MMBT2222ATPMSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(*SENSOR_ACS711KEXLT-15AB-T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Allegro MicroSystems LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ACS711KEXLT-15AB-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PowerWFQFN-12 Allegro MicroSystems LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ACS711KEXLT-15AB-T/Allegro%20MicroSystems%20LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(*XDCR_ACS70331EESATR-005B3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Allegro MicroSystems LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ACS70331EESATR-005B3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "WFQFN-12 Allegro MicroSystems LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ACS70331EESATR-005B3/Allegro%20MicroSystems%20LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=3.3V Pin=C?-2
+Added Pin To Net: NetName=5V Pin=D?-1
+Added Pin To Net: NetName=VBAT Pin=Q?-3
+Added Pin To Net: NetName=5V Pin=R+?-1
+Added Pin To Net: NetName=VBAT Pin=R+?-1
+Added Pin To Net: NetName=VBAT Pin=R+?-2
+Added Pin To Net: NetName=3.3V Pin=R?-2
+Added Pin To Net: NetName=GND Pin=T?-2
+Added Pin To Net: NetName=GND Pin=T?-2
+Added Pin To Net: NetName=VBAT Pin=U?-1
+Added Pin To Net: NetName=NetC33_2 Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=GND Pin=U?-11
+Added Pin To Net: NetName=3.3V Pin=U?-12
+Added Pin To Net: NetName=NetC19_2 Pin=U?-12
+Change Net Name : Old Net Name=NetC19_2 New Net Name=ESP_VCC
+Change Net Name : Old Net Name=NetC33_2 New Net Name=NetQ1_Main_3
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=D?-2
+Added Pin To Net: NetName=NetC18_2 Pin=Q?-1
+Added Pin To Net: NetName=NetC18_2 Pin=U6-3
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=C35-2
+Added Pin To Net: NetName=NetC33_2 Pin=Q4-1
+Added Pin To Net: NetName=NetC33_2 Pin=R31-2
+Added Pin To Net: NetName=NetC33_2 Pin=R52-1
+Added Pin To Net: NetName=NetC33_2 Pin=R53-2
+Added Pin To Net: NetName=NetC33_2 Pin=U?-1
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-11
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=R+?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=T?-3
+Added Net: Name=NetQ?_2
+Added Pin To Net: NetName=NetR+?_1 Pin=R+?-1
+Added Pin To Net: NetName=NetR+?_1 Pin=R+?-1
+Added Pin To Net: NetName=NetR+?_1 Pin=T?-3
+Added Net: Name=NetR+?_1
+Added Pin To Net: NetName=NetR+?_2 Pin=R+?-2
+Added Pin To Net: NetName=NetR+?_2 Pin=T?-1
+Added Net: Name=NetR+?_2
+Added Pin To Net: NetName=Vdigital Pin=C23-2
+Added Pin To Net: NetName=Vdigital Pin=C27-2
+Added Pin To Net: NetName=Vdigital Pin=U8-2
+Added Pin To Net: NetName=Vdigital Pin=U9-1
+Added Pin To Net: NetName=Vdigital Pin=U?-3
+Added Net: Name=Vdigital
+Added Class: Name=U_ESP power
+Added Class: Name=U_Squib_Managment
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V_Clean Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component C? Cap
+Added Member To Class: ClassName=ESP Member=Component R? Res3
+Added Member To Class: ClassName=PWR Member=Component U? ACS70331EESATR-005B3
+Added Room: Name=AIN01
+Added Room: Name=AIN02
+Added Room: Name=AIN11
+Added Room: Name=AIN12
+Added Room: Name=AIN21
+Added Room: Name=AIN22
+Added Room: Name=AIN31
+Added Room: Name=AIN32
+Added Room: Name=Bz
+Added Room: Name=ESP
+Added Room: Name=LVLESP
+Added Room: Name=LVLPI/ESP
+Added Room: Name=LVMISO
+Added Room: Name=LVMOSI
+Added Room: Name=LVSCLK
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Main_Ind
+Added Room: Name=Motor
+Added Room: Name=Motor_Ind
+Added Room: Name=PWR
+Added Room: Name=Sep
+Added Room: Name=Sep_Ind
+Added Room: Name=SPI-IO
+Added Room: Name=U_Accelerometer
+Added Room: Name=U_ADC1
+Added Room: Name=U_ADC2
+Added Room: Name=U_Barometer
+Added Room: Name=U_Blue_LED1
+Added Room: Name=U_Blue_LED2
+Added Room: Name=U_Blue_LED3
+Added Room: Name=U_ESP power
+Added Room: Name=U_Gyroscope
+Added Room: Name=U_Squib_Managment
+Added Room: Name=UART

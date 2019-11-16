@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=R?_AIN01 NewDesignator=RF_AIN01
+Change Component Designator: OldDesignator=R?_AIN02 NewDesignator=RF_AIN02
+Change Component Designator: OldDesignator=R?_AIN11 NewDesignator=RF_AIN11
+Change Component Designator: OldDesignator=R?_AIN12 NewDesignator=RF_AIN12
+Change Component Designator: OldDesignator=R?_AIN21 NewDesignator=RF_AIN21
+Change Component Designator: OldDesignator=R?_AIN22 NewDesignator=RF_AIN22
+Change Component Designator: OldDesignator=R?_AIN31 NewDesignator=RF_AIN31
+Change Component Designator: OldDesignator=R?_AIN32 NewDesignator=RF_AIN32
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V_Clean Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V Screw Terminal
+Change Room Name: Old Name=Main_1 New Name=Main

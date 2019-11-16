@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=NetQ3_LVCS_S Pin=Raspberry Pi GPIO1-18
+Removed Pin From Net: NetName=NetQ3_LVCS_S Pin=U7-3
+Added Pin To Net: NetName=NetRaspberry Pi GPIO1_18 Pin=Raspberry Pi GPIO1-18
+Added Pin To Net: NetName=NetRaspberry Pi GPIO1_18 Pin=U7-3
+Added Net: Name=NetRaspberry Pi GPIO1_18
+Added Room: Name=AIN01
+Added Room: Name=AIN02
+Added Room: Name=AIN11
+Added Room: Name=AIN12
+Added Room: Name=AIN21
+Added Room: Name=AIN22
+Added Room: Name=AIN31
+Added Room: Name=AIN32
+Added Room: Name=Bz
+Added Room: Name=ESP
+Added Room: Name=LVLESP
+Added Room: Name=LVLPI/ESP
+Added Room: Name=LVMISO
+Added Room: Name=LVMOSI
+Added Room: Name=LVRX1
+Added Room: Name=LVSCLK
+Added Room: Name=LVTX1
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Main_Ind
+Added Room: Name=Motor
+Added Room: Name=Motor_Ind
+Added Room: Name=PWR
+Added Room: Name=Sep
+Added Room: Name=Sep_Ind
+Added Room: Name=SPI-IO
+Added Room: Name=U_Accelerometer
+Added Room: Name=U_ADC1
+Added Room: Name=U_ADC2
+Added Room: Name=U_Barometer
+Added Room: Name=U_Blue_LED1
+Added Room: Name=U_Blue_LED2
+Added Room: Name=U_Blue_LED3
+Added Room: Name=U_ESP power
+Added Room: Name=U_Gyroscope
+Added Room: Name=U_Magnetometer
+Added Room: Name=U_Squib_Managment
+Added Room: Name=UART

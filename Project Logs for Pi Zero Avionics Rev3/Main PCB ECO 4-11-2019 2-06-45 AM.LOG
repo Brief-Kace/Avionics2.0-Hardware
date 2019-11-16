@@ -1,0 +1,78 @@
+Removed Member From Class: ClassName=U_Magnetometer Member=C10
+Removed Member From Class: ClassName=U_Magnetometer Member=C11
+Removed Member From Class: ClassName=U_Magnetometer Member=C12
+Removed Member From Class: ClassName=PWR Member=C19
+Removed Member From Class: ClassName=ESP Member=C22
+Removed Member From Class: ClassName=ESP Member=C23
+Removed Member From Class: ClassName=ESP Member=R16
+Removed Member From Class: ClassName=Bz Member=R21
+Change Component Footprint: Designator=R33_U_ADC RC Network1 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R33_U_ADC RC Network2 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R33_U_ADC RC Network3 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R33_U_ADC RC Network4 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R33_U_ADC RC Network5 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R33_U_ADC RC Network6 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R33_U_ADC RC Network7 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R33_U_ADC RC Network8 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R34_U_ADC RC Network1 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R34_U_ADC RC Network2 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R34_U_ADC RC Network3 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R34_U_ADC RC Network4 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R34_U_ADC RC Network5 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R34_U_ADC RC Network6 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R34_U_ADC RC Network7 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R34_U_ADC RC Network8 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R35_U_ADC RC Network1 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R35_U_ADC RC Network2 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R35_U_ADC RC Network3 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R35_U_ADC RC Network4 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R35_U_ADC RC Network5 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R35_U_ADC RC Network6 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R35_U_ADC RC Network7 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R35_U_ADC RC Network8 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R36_U_ADC RC Network1 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R36_U_ADC RC Network2 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R36_U_ADC RC Network3 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R36_U_ADC RC Network4 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R36_U_ADC RC Network5 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R36_U_ADC RC Network6 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R36_U_ADC RC Network7 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=R36_U_ADC RC Network8 Old Footprint=J1-0603 New Footprint=0603 to 1210 SMD
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V_Clean Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component C23 Cap
+Added Member To Class: ClassName=U_ADC1 Member=Component R1_U_ADC1 (R1) Res3
+Added Member To Class: ClassName=U_ADC2 Member=Component R1_U_ADC2 (R1) Res3
+Added Member To Class: ClassName=U_ADC1 Member=Component R2_U_ADC1 (R2) Res3
+Added Member To Class: ClassName=U_ADC2 Member=Component R2_U_ADC2 (R2) Res3
+Added Member To Class: ClassName=Bz Member=Component R16 Res3
+Added Room: Name=Bz
+Added Room: Name=ESP
+Added Room: Name=LVLESP
+Added Room: Name=LVLPI/ESP
+Added Room: Name=LVMISO
+Added Room: Name=LVMOSI
+Added Room: Name=LVSCLK
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Main_Ind
+Added Room: Name=Motor
+Added Room: Name=Motor_Ind
+Added Room: Name=PWR
+Added Room: Name=Sep
+Added Room: Name=Sep_Ind
+Added Room: Name=SPI-IO
+Added Room: Name=U_ADC RC Network1
+Added Room: Name=U_ADC RC Network2
+Added Room: Name=U_ADC RC Network3
+Added Room: Name=U_ADC RC Network4
+Added Room: Name=U_ADC RC Network5
+Added Room: Name=U_ADC RC Network6
+Added Room: Name=U_ADC RC Network7
+Added Room: Name=U_ADC RC Network8
+Added Room: Name=U_Blue_LED1
+Added Room: Name=U_Blue_LED2
+Added Room: Name=U_Blue_LED3
+Added Room: Name=UART

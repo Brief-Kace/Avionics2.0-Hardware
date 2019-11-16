@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=Main Member=Raspberry Pi GPIO1
+Added Component: Designator=U3(LGA16R50P5X3_300X300X100N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "L3GD20HTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LGA-16 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/L3GD20HTR/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_Gyroscope Member=Component U3 L3GD20HTR
+Change Room Name: Old Name=Main_1 New Name=Main

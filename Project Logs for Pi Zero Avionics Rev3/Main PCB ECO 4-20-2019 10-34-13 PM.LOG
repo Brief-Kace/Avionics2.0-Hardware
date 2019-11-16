@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=L1 Old Footprint=*INDM1200X1200X1000N New Footprint=INDUCTOR
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V_Clean Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V Screw Terminal
+Added Member To Class: ClassName=ESP Member=Component R? Res3
+Change Room Name: Old Name=Main_1 New Name=Main

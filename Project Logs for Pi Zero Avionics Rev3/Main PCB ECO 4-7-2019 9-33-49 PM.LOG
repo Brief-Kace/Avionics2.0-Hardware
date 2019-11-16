@@ -1,0 +1,292 @@
+Removed Pin From Net: NetName=5V Pin=R3_U_Red_LED1-2
+Removed Pin From Net: NetName=5V Pin=R3_U_Red_LED2-2
+Removed Pin From Net: NetName=5V Pin=R3_U_Red_LED3-2
+Removed Pin From Net: NetName=NetQ1_Main_1 Pin=R4_U_Red_LED1-1
+Removed Pin From Net: NetName=NetQ1_Motor_1 Pin=R4_U_Red_LED2-1
+Removed Pin From Net: NetName=NetQ1_Sep_1 Pin=R4_U_Red_LED3-1
+Removed Pin From Net: NetName=GND Pin=T3_U_Red_LED1-2
+Removed Pin From Net: NetName=GND Pin=T3_U_Red_LED2-2
+Removed Pin From Net: NetName=GND Pin=T3_U_Red_LED3-2
+Added Component: Designator=D1_Main_Ind(0402 footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "754-2123-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D1_Motor_Ind(0402 footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "754-2123-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D1_Sep_Ind(0402 footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "754-2123-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2_U_Blue_LED1(0402 footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "754-2122-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2_U_Blue_LED2(0402 footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "754-2122-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2_U_Blue_LED3(0402 footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "754-2122-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R3_Main_Ind(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3_Motor_Ind(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3_Sep_Ind(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4_Main_Ind(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4_Motor_Ind(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4_Sep_Ind(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R32_U_Blue_LED1(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R32_U_Blue_LED2(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R32_U_Blue_LED3(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R33_U_Blue_LED1(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R33_U_Blue_LED2(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R33_U_Blue_LED3(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=T3_Main_Ind(SOT95P280X125-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MMBT2222ATPMSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T3_Motor_Ind(SOT95P280X125-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MMBT2222ATPMSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T3_Sep_Ind(SOT95P280X125-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MMBT2222ATPMSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T7_U_Blue_LED1(SOT95P280X125-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MMBT2222ATPMSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T7_U_Blue_LED2(SOT95P280X125-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MMBT2222ATPMSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T7_U_Blue_LED3(SOT95P280X125-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MMBT2222ATPMSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=R3_Main_Ind-2
+Added Pin To Net: NetName=5V Pin=R3_Motor_Ind-2
+Added Pin To Net: NetName=5V Pin=R3_Sep_Ind-2
+Added Pin To Net: NetName=5V Pin=R32_U_Blue_LED1-2
+Added Pin To Net: NetName=5V Pin=R32_U_Blue_LED2-2
+Added Pin To Net: NetName=5V Pin=R32_U_Blue_LED3-2
+Added Pin To Net: NetName=NetQ1_Main_1 Pin=R33_U_Blue_LED1-1
+Added Pin To Net: NetName=NetQ1_Motor_1 Pin=R33_U_Blue_LED2-1
+Added Pin To Net: NetName=NetQ1_Sep_1 Pin=R33_U_Blue_LED3-1
+Added Pin To Net: NetName=NetD1_Main_Ind_1 Pin=D1_Main_Ind-1
+Added Pin To Net: NetName=NetD1_Main_Ind_1 Pin=R3_Main_Ind-1
+Added Net: Name=NetD1_Main_Ind_1
+Added Pin To Net: NetName=NetD1_Main_Ind_2 Pin=D1_Main_Ind-2
+Added Pin To Net: NetName=NetD1_Main_Ind_2 Pin=T3_Main_Ind-3
+Added Net: Name=NetD1_Main_Ind_2
+Added Pin To Net: NetName=NetD1_Motor_Ind_1 Pin=D1_Motor_Ind-1
+Added Pin To Net: NetName=NetD1_Motor_Ind_1 Pin=R3_Motor_Ind-1
+Added Net: Name=NetD1_Motor_Ind_1
+Added Pin To Net: NetName=NetD1_Motor_Ind_2 Pin=D1_Motor_Ind-2
+Added Pin To Net: NetName=NetD1_Motor_Ind_2 Pin=T3_Motor_Ind-3
+Added Net: Name=NetD1_Motor_Ind_2
+Added Pin To Net: NetName=NetD1_Sep_Ind_1 Pin=D1_Sep_Ind-1
+Added Pin To Net: NetName=NetD1_Sep_Ind_1 Pin=R3_Sep_Ind-1
+Added Net: Name=NetD1_Sep_Ind_1
+Added Pin To Net: NetName=NetD1_Sep_Ind_2 Pin=D1_Sep_Ind-2
+Added Pin To Net: NetName=NetD1_Sep_Ind_2 Pin=T3_Sep_Ind-3
+Added Net: Name=NetD1_Sep_Ind_2
+Added Pin To Net: NetName=NetD2_U_Blue_LED1_1 Pin=D2_U_Blue_LED1-1
+Added Pin To Net: NetName=NetD2_U_Blue_LED1_1 Pin=R32_U_Blue_LED1-1
+Added Net: Name=NetD2_U_Blue_LED1_1
+Added Pin To Net: NetName=NetD2_U_Blue_LED1_2 Pin=D2_U_Blue_LED1-2
+Added Pin To Net: NetName=NetD2_U_Blue_LED1_2 Pin=T7_U_Blue_LED1-3
+Added Net: Name=NetD2_U_Blue_LED1_2
+Added Pin To Net: NetName=NetD2_U_Blue_LED2_1 Pin=D2_U_Blue_LED2-1
+Added Pin To Net: NetName=NetD2_U_Blue_LED2_1 Pin=R32_U_Blue_LED2-1
+Added Net: Name=NetD2_U_Blue_LED2_1
+Added Pin To Net: NetName=NetD2_U_Blue_LED2_2 Pin=D2_U_Blue_LED2-2
+Added Pin To Net: NetName=NetD2_U_Blue_LED2_2 Pin=T7_U_Blue_LED2-3
+Added Net: Name=NetD2_U_Blue_LED2_2
+Added Pin To Net: NetName=NetD2_U_Blue_LED3_1 Pin=D2_U_Blue_LED3-1
+Added Pin To Net: NetName=NetD2_U_Blue_LED3_1 Pin=R32_U_Blue_LED3-1
+Added Net: Name=NetD2_U_Blue_LED3_1
+Added Pin To Net: NetName=NetD2_U_Blue_LED3_2 Pin=D2_U_Blue_LED3-2
+Added Pin To Net: NetName=NetD2_U_Blue_LED3_2 Pin=T7_U_Blue_LED3-3
+Added Net: Name=NetD2_U_Blue_LED3_2
+Added Pin To Net: NetName=NetR4_Main_Ind_1 Pin=R4_Main_Ind-1
+Added Net: Name=NetR4_Main_Ind_1
+Added Pin To Net: NetName=NetR4_Main_Ind_2 Pin=R4_Main_Ind-2
+Added Pin To Net: NetName=NetR4_Main_Ind_2 Pin=T3_Main_Ind-1
+Added Net: Name=NetR4_Main_Ind_2
+Added Pin To Net: NetName=NetR4_Motor_Ind_1 Pin=R4_Motor_Ind-1
+Added Net: Name=NetR4_Motor_Ind_1
+Added Pin To Net: NetName=NetR4_Motor_Ind_2 Pin=R4_Motor_Ind-2
+Added Pin To Net: NetName=NetR4_Motor_Ind_2 Pin=T3_Motor_Ind-1
+Added Net: Name=NetR4_Motor_Ind_2
+Added Pin To Net: NetName=NetR4_Sep_Ind_1 Pin=R4_Sep_Ind-1
+Added Net: Name=NetR4_Sep_Ind_1
+Added Pin To Net: NetName=NetR4_Sep_Ind_2 Pin=R4_Sep_Ind-2
+Added Pin To Net: NetName=NetR4_Sep_Ind_2 Pin=T3_Sep_Ind-1
+Added Net: Name=NetR4_Sep_Ind_2
+Added Pin To Net: NetName=NetR33_U_Blue_LED1_2 Pin=R33_U_Blue_LED1-2
+Added Pin To Net: NetName=NetR33_U_Blue_LED1_2 Pin=T7_U_Blue_LED1-1
+Added Net: Name=NetR33_U_Blue_LED1_2
+Added Pin To Net: NetName=NetR33_U_Blue_LED2_2 Pin=R33_U_Blue_LED2-2
+Added Pin To Net: NetName=NetR33_U_Blue_LED2_2 Pin=T7_U_Blue_LED2-1
+Added Net: Name=NetR33_U_Blue_LED2_2
+Added Pin To Net: NetName=NetR33_U_Blue_LED3_2 Pin=R33_U_Blue_LED3-2
+Added Pin To Net: NetName=NetR33_U_Blue_LED3_2 Pin=T7_U_Blue_LED3-1
+Added Net: Name=NetR33_U_Blue_LED3_2
+Added Class: Name=Main_Ind
+Added Class: Name=Motor_Ind
+Added Class: Name=Sep_Ind
+Added Class: Name=U_Blue_LED1
+Added Class: Name=U_Blue_LED2
+Added Class: Name=U_Blue_LED3
+Added Member To Class: ClassName=Motor Member=Component Q1_Motor (Q1) P-Channel
+Added Member To Class: ClassName=Sep Member=Component Q1_Sep (Q1) P-Channel
+Added Member To Class: ClassName=Motor Member=Component Q2_Motor (Q2) P-Channel
+Added Member To Class: ClassName=Sep Member=Component Q2_Sep (Q2) P-Channel
+Added Member To Class: ClassName=Motor Member=Component R55_Motor (R55) Res3
+Added Member To Class: ClassName=Sep Member=Component R55_Sep (R55) Res3
+Added Member To Class: ClassName=Motor Member=Component T4_Motor (T4) MMBT2222ALT1
+Added Member To Class: ClassName=Sep Member=Component T4_Sep (T4) MMBT2222ALT1
+Added Member To Class: ClassName=Motor Member=Component T5_Motor (T5) MMBT2222ALT1
+Added Member To Class: ClassName=Sep Member=Component T5_Sep (T5) MMBT2222ALT1

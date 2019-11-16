@@ -1,0 +1,17 @@
+Change Physical Footprint: Designator=1_1 Old Footprint=SCREW TERMINAL New Footprint=SCREW TERMINAL
+Change Physical Footprint: Designator=2_1 Old Footprint=SCREW TERMINAL New Footprint=SCREW TERMINAL
+Change Physical Footprint: Designator=3_1 Old Footprint=SCREW TERMINAL New Footprint=SCREW TERMINAL
+Change Physical Footprint: Designator=4_1 Old Footprint=SCREW TERMINAL New Footprint=SCREW TERMINAL
+Change Physical Footprint: Designator=5_1 Old Footprint=SCREW TERMINAL New Footprint=SCREW TERMINAL
+Change Physical Footprint: Designator=7_1 Old Footprint=SCREW TERMINAL New Footprint=SCREW TERMINAL
+Change Physical Footprint: Designator=MOSI/MISO1_1 Old Footprint=SCREW TERMINAL New Footprint=SCREW TERMINAL
+Change Physical Footprint: Designator=SCLK/CS1_1 Old Footprint=SCREW TERMINAL New Footprint=SCREW TERMINAL
+Change Physical Footprint: Designator=SQB1_Main_1 Old Footprint=SCREW TERMINAL New Footprint=SCREW TERMINAL
+Change Physical Footprint: Designator=SQB1_Motor_1 Old Footprint=SCREW TERMINAL New Footprint=SCREW TERMINAL
+Change Physical Footprint: Designator=SQB1_Sep_1 Old Footprint=SCREW TERMINAL New Footprint=SCREW TERMINAL
+Change Physical Footprint: Designator=T1_U_ADC1_1 Old Footprint=SCREW TERMINAL New Footprint=SCREW TERMINAL
+Change Physical Footprint: Designator=T1_U_ADC2_1 Old Footprint=SCREW TERMINAL New Footprint=SCREW TERMINAL
+Change Physical Footprint: Designator=T2_U_ADC1_1 Old Footprint=SCREW TERMINAL New Footprint=SCREW TERMINAL
+Change Physical Footprint: Designator=T2_U_ADC2_1 Old Footprint=SCREW TERMINAL New Footprint=SCREW TERMINAL
+Change Physical Footprint: Designator=UART1_LVLESP_1 Old Footprint=SCREW TERMINAL New Footprint=SCREW TERMINAL
+Change Physical Footprint: Designator=UART1_LVLPI/ESP_1 Old Footprint=SCREW TERMINAL New Footprint=SCREW TERMINAL

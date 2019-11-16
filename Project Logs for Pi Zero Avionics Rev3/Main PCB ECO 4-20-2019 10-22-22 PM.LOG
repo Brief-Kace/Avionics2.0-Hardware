@@ -1,0 +1,8 @@
+Change Physical Footprint: Designator=Q3_LVCS Old Footprint=*BSS138L_BSS138L(Primary) New Footprint=*BSS138L_BSS138L(Primary)
+Change Physical Footprint: Designator=Q3_LVMISO Old Footprint=*BSS138L_BSS138L(Primary) New Footprint=*BSS138L_BSS138L(Primary)
+Change Physical Footprint: Designator=Q3_LVMOSI Old Footprint=*BSS138L_BSS138L(Primary) New Footprint=*BSS138L_BSS138L(Primary)
+Change Physical Footprint: Designator=Q3_LVRX1 Old Footprint=*BSS138L_BSS138L(Primary) New Footprint=*BSS138L_BSS138L(Primary)
+Change Physical Footprint: Designator=Q3_LVRX2 Old Footprint=*BSS138L_BSS138L(Primary) New Footprint=*BSS138L_BSS138L(Primary)
+Change Physical Footprint: Designator=Q3_LVSCLK Old Footprint=*BSS138L_BSS138L(Primary) New Footprint=*BSS138L_BSS138L(Primary)
+Change Physical Footprint: Designator=Q3_LVTX1 Old Footprint=*BSS138L_BSS138L(Primary) New Footprint=*BSS138L_BSS138L(Primary)
+Change Physical Footprint: Designator=Q3_LVTX2 Old Footprint=*BSS138L_BSS138L(Primary) New Footprint=*BSS138L_BSS138L(Primary)

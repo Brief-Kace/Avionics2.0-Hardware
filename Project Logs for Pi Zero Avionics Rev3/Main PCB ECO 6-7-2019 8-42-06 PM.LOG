@@ -1,0 +1,136 @@
+Removed Pin From Net: NetName=GND Pin=D3_ACT_Ind1-2
+Removed Pin From Net: NetName=GND Pin=D3_ACT_Ind2-2
+Removed Pin From Net: NetName=GND Pin=D3_ERR_Ind1-2
+Removed Pin From Net: NetName=GND Pin=D3_ERR_Ind2-2
+Removed Pin From Net: NetName=GND Pin=D3_Main_Ind-2
+Removed Pin From Net: NetName=GND Pin=D3_Motor_Ind-2
+Removed Pin From Net: NetName=GND Pin=D3_Sep_Ind-2
+Removed Pin From Net: NetName=NetD3_ACT_Ind1_1 Pin=R19_ACT_Ind1-1
+Removed Pin From Net: NetName=NetD3_ACT_Ind2_1 Pin=R19_ACT_Ind2-1
+Removed Pin From Net: NetName=NetD3_ERR_Ind1_1 Pin=R19_ERR_Ind1-1
+Removed Pin From Net: NetName=NetD3_ERR_Ind2_1 Pin=R19_ERR_Ind2-1
+Removed Pin From Net: NetName=NetD3_Main_Ind_1 Pin=R19_Main_Ind-1
+Removed Pin From Net: NetName=NetD3_Motor_Ind_1 Pin=R19_Motor_Ind-1
+Removed Pin From Net: NetName=NetD3_Sep_Ind_1 Pin=R19_Sep_Ind-1
+Removed Pin From Net: NetName=NetQ3_LVRX1_D Pin=UART1_LVLESP-1
+Removed Pin From Net: NetName=NetQ3_LVTX1_D Pin=UART1_LVLESP-2
+Change Component Footprint: Designator=R61_AIN01 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R61_AIN02 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R61_AIN11 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R61_AIN12 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R61_AIN21 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R61_AIN22 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R61_AIN31 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R61_AIN32 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R62_AIN01 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R62_AIN02 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R62_AIN11 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R62_AIN12 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R62_AIN21 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R62_AIN22 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R62_AIN31 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R62_AIN32 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R87 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R88 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R89 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R90 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RF1_AIN01 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RF1_AIN02 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RF1_AIN11 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RF1_AIN12 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RF1_AIN21 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RF1_AIN22 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RF1_AIN31 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RF1_AIN32 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND1_AIN01 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND1_AIN02 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND1_AIN11 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND1_AIN12 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND1_AIN21 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND1_AIN22 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND1_AIN31 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND1_AIN32 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND2_AIN01 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND2_AIN02 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND2_AIN11 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND2_AIN12 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND2_AIN21 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND2_AIN22 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND2_AIN31 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND2_AIN32 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=L1 Old Footprint=INDUCTOR New Footprint=*INDM1200X1200X1000N
+Added Pin To Net: NetName=GND Pin=R19_ACT_Ind1-1
+Added Pin To Net: NetName=GND Pin=R19_ACT_Ind2-1
+Added Pin To Net: NetName=GND Pin=R19_ERR_Ind1-1
+Added Pin To Net: NetName=GND Pin=R19_ERR_Ind2-1
+Added Pin To Net: NetName=GND Pin=R19_Main_Ind-1
+Added Pin To Net: NetName=GND Pin=R19_Motor_Ind-1
+Added Pin To Net: NetName=GND Pin=R19_Sep_Ind-1
+Added Pin To Net: NetName=NetD3_ACT_Ind1_1 Pin=Raspberry Pi GPIO1-22
+Added Pin To Net: NetName=NetD3_ERR_Ind1_1 Pin=Raspberry Pi GPIO1-26
+Added Pin To Net: NetName=NetD3_Main_Ind_1 Pin=Raspberry Pi GPIO1-33
+Added Pin To Net: NetName=NetD3_Sep_Ind_1 Pin=Raspberry Pi GPIO1-38
+Added Pin To Net: NetName=NetD3_Motor_Ind_1 Pin=Raspberry Pi GPIO1-40
+Added Pin To Net: NetName=NetD3_ACT_Ind2_1 Pin=U7-36
+Added Pin To Net: NetName=NetD3_ERR_Ind2_1 Pin=U7-37
+Added Pin To Net: NetName=NetQ3_LVTX1_D Pin=UART1_LVLESP-1
+Added Pin To Net: NetName=NetQ3_LVRX1_D Pin=UART1_LVLESP-2
+Added Pin To Net: NetName=NetD3_ACT_Ind1_2 Pin=D3_ACT_Ind1-2
+Added Pin To Net: NetName=NetD3_ACT_Ind1_2 Pin=R19_ACT_Ind1-2
+Added Net: Name=NetD3_ACT_Ind1_2
+Added Pin To Net: NetName=NetD3_ACT_Ind2_2 Pin=D3_ACT_Ind2-2
+Added Pin To Net: NetName=NetD3_ACT_Ind2_2 Pin=R19_ACT_Ind2-2
+Added Net: Name=NetD3_ACT_Ind2_2
+Added Pin To Net: NetName=NetD3_ERR_Ind1_2 Pin=D3_ERR_Ind1-2
+Added Pin To Net: NetName=NetD3_ERR_Ind1_2 Pin=R19_ERR_Ind1-2
+Added Net: Name=NetD3_ERR_Ind1_2
+Added Pin To Net: NetName=NetD3_ERR_Ind2_2 Pin=D3_ERR_Ind2-2
+Added Pin To Net: NetName=NetD3_ERR_Ind2_2 Pin=R19_ERR_Ind2-2
+Added Net: Name=NetD3_ERR_Ind2_2
+Added Pin To Net: NetName=NetD3_Main_Ind_2 Pin=D3_Main_Ind-2
+Added Pin To Net: NetName=NetD3_Main_Ind_2 Pin=R19_Main_Ind-2
+Added Net: Name=NetD3_Main_Ind_2
+Added Pin To Net: NetName=NetD3_Motor_Ind_2 Pin=D3_Motor_Ind-2
+Added Pin To Net: NetName=NetD3_Motor_Ind_2 Pin=R19_Motor_Ind-2
+Added Net: Name=NetD3_Motor_Ind_2
+Added Pin To Net: NetName=NetD3_Sep_Ind_2 Pin=D3_Sep_Ind-2
+Added Pin To Net: NetName=NetD3_Sep_Ind_2 Pin=R19_Sep_Ind-2
+Added Net: Name=NetD3_Sep_Ind_2
+Added Room: Name=ACT_Ind1
+Added Room: Name=ACT_Ind2
+Added Room: Name=AIN01
+Added Room: Name=AIN02
+Added Room: Name=AIN11
+Added Room: Name=AIN12
+Added Room: Name=AIN21
+Added Room: Name=AIN22
+Added Room: Name=AIN31
+Added Room: Name=AIN32
+Added Room: Name=Bz
+Added Room: Name=ERR_Ind1
+Added Room: Name=ERR_Ind2
+Added Room: Name=ESP
+Added Room: Name=LVLESP
+Added Room: Name=LVLPI/ESP
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Main_Ind
+Added Room: Name=Motor
+Added Room: Name=Motor_Ind
+Added Room: Name=PWR
+Added Room: Name=Sep
+Added Room: Name=Sep_Ind
+Added Room: Name=SPI-IO
+Added Room: Name=U_Accelerometer
+Added Room: Name=U_ADC1
+Added Room: Name=U_ADC2
+Added Room: Name=U_Barometer
+Added Room: Name=U_ESP power
+Added Room: Name=U_Gyroscope
+Added Room: Name=U_Magnetometer
+Added Room: Name=U_Power IO
+Added Room: Name=U_Squib_Managment
+Added Room: Name=UART
+Added Room: Name=Voltage_Indicator1
+Added Room: Name=Voltage_Indicator2
+Added Room: Name=Voltage_Indicator3

@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=J5_U_UART EXT NewDesignator=J5
+Change Component Designator: OldDesignator=R71_U_UART EXT NewDesignator=R71
+Change Component Designator: OldDesignator=R72_U_UART EXT NewDesignator=R72
+Change Net Name : Old Net Name=NetJ5_U_UART EXT_1 New Net Name=NetJ5_1
+Change Net Name : Old Net Name=NetJ5_U_UART EXT_2 New Net Name=NetJ5_2
+Change Net Name : Old Net Name=NetR71_U_UART EXT_1 New Net Name=NetR71_1
+Change Net Name : Old Net Name=NetR72_U_UART EXT_1 New Net Name=NetR72_1

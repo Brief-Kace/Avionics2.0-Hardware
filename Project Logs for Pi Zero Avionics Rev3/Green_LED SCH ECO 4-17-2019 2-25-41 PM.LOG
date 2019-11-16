@@ -1,0 +1,4 @@
+Replace Part D3 LED_G in C:\Users\Kace\Desktop\Pi Zero Avionics Rev3\Green_LED.SchDoc with LED_G from AvionicsParts.SchLib
+Replace Part R39 Res3 in C:\Users\Kace\Desktop\Pi Zero Avionics Rev3\Green_LED.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Part R40 Res3 in C:\Users\Kace\Desktop\Pi Zero Avionics Rev3\Green_LED.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Part T8 BJT NPN in C:\Users\Kace\Desktop\Pi Zero Avionics Rev3\Green_LED.SchDoc with BJT NPN from AvionicsParts.SchLib

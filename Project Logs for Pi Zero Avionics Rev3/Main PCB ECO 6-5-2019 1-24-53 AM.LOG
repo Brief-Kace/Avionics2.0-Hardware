@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=T3 Old Footprint=SOT95P280X125-3N New Footprint=BJT
+Change Component Footprint: Designator=T4_Main Old Footprint=SOT95P280X125-3N New Footprint=BJT
+Change Component Footprint: Designator=T4_Motor Old Footprint=SOT95P280X125-3N New Footprint=BJT
+Change Component Footprint: Designator=T4_Sep Old Footprint=SOT95P280X125-3N New Footprint=BJT
+Change Component Footprint: Designator=T5_Main Old Footprint=SOT95P280X125-3N New Footprint=BJT
+Change Component Footprint: Designator=T5_Motor Old Footprint=SOT95P280X125-3N New Footprint=BJT
+Change Component Footprint: Designator=T5_Sep Old Footprint=SOT95P280X125-3N New Footprint=BJT
+Change Component Footprint: Designator=T6 Old Footprint=SOT95P280X125-3N New Footprint=BJT
+Change Component Footprint: Designator=T7 Old Footprint=SOT95P280X125-3N New Footprint=BJT
+Change Component Footprint: Designator=T11 Old Footprint=SOT95P280X125-3N New Footprint=BJT
+Change Component Footprint: Designator=T12 Old Footprint=SOT95P280X125-3N New Footprint=BJT
+Change Component Footprint: Designator=T13 Old Footprint=SOT95P280X125-3N New Footprint=BJT
+Change Component Footprint: Designator=T14 Old Footprint=SOT95P280X125-3N New Footprint=BJT
+Change Component Footprint: Designator=Q5 Old Footprint=SOT95P280X125-3N New Footprint=N Channel MOSFET
+Change Component Footprint: Designator=Q1_Main Old Footprint=SOT95P280X125-3N New Footprint=P Channel MOSFET
+Change Component Footprint: Designator=Q1_Motor Old Footprint=SOT95P280X125-3N New Footprint=P Channel MOSFET
+Change Component Footprint: Designator=Q1_Sep Old Footprint=SOT95P280X125-3N New Footprint=P Channel MOSFET
+Change Component Footprint: Designator=Q2_Main Old Footprint=SOT95P280X125-3N New Footprint=P Channel MOSFET
+Change Component Footprint: Designator=Q2_Motor Old Footprint=SOT95P280X125-3N New Footprint=P Channel MOSFET
+Change Component Footprint: Designator=Q2_Sep Old Footprint=SOT95P280X125-3N New Footprint=P Channel MOSFET

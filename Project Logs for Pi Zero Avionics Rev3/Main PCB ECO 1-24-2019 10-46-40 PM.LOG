@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=Pin NewDesignator=Vin
+Added Component: Designator=TX_RX(Screw-Top Header No outline)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetRPi_8 Pin=RPi-8
+Added Pin To Net: NetName=NetRPi_8 Pin=TX_RX-2
+Added Net: Name=NetRPi_8
+Added Pin To Net: NetName=NetRPi_10 Pin=RPi-10
+Added Pin To Net: NetName=NetRPi_10 Pin=TX_RX-1
+Added Net: Name=NetRPi_10
+Added Member To Class: ClassName=Main Member=Component TX_RX Screw Top Terminal No-Outline
+Added Room: Name=Accelerometer
+Added Room: Name=ADC
+Added Room: Name=Barometer
+Added Room: Name=DD
+Added Room: Name=Gyroscope
+Added Room: Name=Ind
+Added Room: Name=Indicator LED
+Added Room: Name=Indicator LED
+Added Room: Name=Magnetometer
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Sep
+Added Room: Name=Sep
+Added Room: Name=U_Voltage Regulation

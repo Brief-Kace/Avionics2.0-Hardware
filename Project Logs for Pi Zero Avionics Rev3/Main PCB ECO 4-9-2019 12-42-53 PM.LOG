@@ -1,0 +1,27 @@
+Removed Member From Class: ClassName=U_Blue_LED3 Member=D2_U_Blue_LED2
+Removed Member From Class: ClassName=U_Blue_LED3 Member=R32_U_Blue_LED2
+Removed Member From Class: ClassName=U_Blue_LED3 Member=R33_U_Blue_LED2
+Removed Member From Class: ClassName=U_Blue_LED2 Member=T7_U_Blue_LED3
+Change Component Designator: OldDesignator=MAIN NewDesignator=SQB_Main
+Change Component Designator: OldDesignator=MOTOR NewDesignator=SQB_Motor
+Change Component Designator: OldDesignator=SEP NewDesignator=SQB_Sep
+Added Pin To Net: NetName=NetR8_Main_1 Pin=Raspberry Pi GPIO1-31
+Added Member To Class: ClassName=PWR Member=Component +3.3- Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component +3.3- Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component +5- Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component +5- Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component +5- Screw Terminal
+Added Member To Class: ClassName=U_Blue_LED3 Member=Component D2_U_Blue_LED3 (D2) LED_B
+Added Member To Class: ClassName=U_Blue_LED3 Member=Component R32_U_Blue_LED3 (R32) Res3
+Added Member To Class: ClassName=U_Blue_LED3 Member=Component R33_U_Blue_LED3 (R33) Res3
+Added Member To Class: ClassName=U_Blue_LED2 Member=Component T7_U_Blue_LED2 (T7) MMBT2222ALT1
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Main_Ind
+Added Room: Name=Motor
+Added Room: Name=Motor_Ind
+Added Room: Name=Sep
+Added Room: Name=Sep_Ind
+Added Room: Name=U_Blue_LED1
+Added Room: Name=U_Blue_LED2
+Added Room: Name=U_Blue_LED3

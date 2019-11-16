@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=U1 Old Footprint=LGA16R50P5X3_300X300X100N New Footprint=L3GD20HTR
+Change Component Description : Designator=U1 Old Description=MEMS digital output motion sensor: ultra low-power high performance 3-axes nano accelerometer New Description=Accelerometer  
+MEMS digital output motion sensor: ultra low-power high performance 3-axes nano accelerometer
+Change Component Library : Designator=U1 Old Library=LIS3DSHTR.SchLib New Library=AvionicsParts.SchLib

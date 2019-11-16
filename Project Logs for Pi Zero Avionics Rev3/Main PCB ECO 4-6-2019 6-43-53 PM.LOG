@@ -1,0 +1,16 @@
+Change Physical Footprint: Designator=*1_Main Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=*1_Motor Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=*1_Sep Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=BAT_IN1 Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=MOSI/MISO1 Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=SCLK/CS1 Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=SW1 Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=T1_U_ADC1 Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=T1_U_ADC2 Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=T2_U_ADC1 Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=T2_U_ADC2 Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=T? Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=T? Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=T? Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=UART1_U_UART Level Shifter1 Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=UART1_U_UART Level Shifter2 Old Footprint=Screw Terminal New Footprint=Screw Terminal

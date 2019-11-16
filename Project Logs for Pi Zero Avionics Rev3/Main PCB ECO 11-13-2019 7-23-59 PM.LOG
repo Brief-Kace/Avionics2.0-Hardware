@@ -1,0 +1,41 @@
+Added Component: Designator=J5_U_UART EXT(Screw Terminal)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A112762-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R71_U_UART EXT(0603 Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R72_U_UART EXT(0603 Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ5_U_UART EXT_1 Pin=J5_U_UART EXT-1
+Added Pin To Net: NetName=NetJ5_U_UART EXT_1 Pin=R71_U_UART EXT-2
+Added Net: Name=NetJ5_U_UART EXT_1
+Added Pin To Net: NetName=NetJ5_U_UART EXT_2 Pin=J5_U_UART EXT-2
+Added Pin To Net: NetName=NetJ5_U_UART EXT_2 Pin=R72_U_UART EXT-2
+Added Net: Name=NetJ5_U_UART EXT_2
+Added Pin To Net: NetName=NetR71_U_UART EXT_1 Pin=R71_U_UART EXT-1
+Added Pin To Net: NetName=NetR71_U_UART EXT_1 Pin=S1-1
+Added Pin To Net: NetName=NetR71_U_UART EXT_1 Pin=S2-2
+Added Net: Name=NetR71_U_UART EXT_1
+Added Pin To Net: NetName=NetR72_U_UART EXT_1 Pin=R72_U_UART EXT-1
+Added Pin To Net: NetName=NetR72_U_UART EXT_1 Pin=S3-3
+Added Net: Name=NetR72_U_UART EXT_1
+Added Class: Name=U_UART EXT
+Added Class: Name=UART Output
+Added Member To Class: ClassName=U_UART Output Member=Component J5 Screw Terminal
+Added Member To Class: ClassName=U_UART Output Member=Component R71 Res3
+Added Member To Class: ClassName=U_UART Output Member=Component R72 Res3
+Added Room: Name=U_UART EXT

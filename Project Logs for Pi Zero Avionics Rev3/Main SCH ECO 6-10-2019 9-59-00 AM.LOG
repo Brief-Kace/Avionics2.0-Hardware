@@ -1,0 +1,48 @@
+Change Component Footprint: Designator=L1 Old Footprint=*INDM1200X1200X1000N New Footprint=INDUCTOR
+Change Component Footprint: Designator=R61 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=R61 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=R61 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=R61 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=R61 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=R61 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=R61 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=R61 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=R62 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=R62 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=R62 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=R62 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=R62 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=R62 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=R62 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=R62 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=R87 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=R88 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=R89 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=R90 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RF1 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RF1 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RF1 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RF1 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RF1 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RF1 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RF1 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RF1 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RGND1 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RGND1 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RGND1 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RGND1 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RGND1 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RGND1 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RGND1 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RGND1 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RGND2 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RGND2 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RGND2 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RGND2 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RGND2 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RGND2 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RGND2 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Footprint: Designator=RGND2 Old Footprint=J1-0603 New Footprint=0603 TO 0805 SMD - DUPLICATE
+Change Component Comment: Designator=U10 Old Comment=Linear Regulator New Comment=LM2596SX-ADJ/NOPB
+Change Component Comment: Designator=U11 Old Comment=LM2596SX-ADJ/NOPB New Comment=Linear Regulator
+Change Component Comment: Designator=D13 Old Comment=Schottky Diode New Comment=Buck Diode

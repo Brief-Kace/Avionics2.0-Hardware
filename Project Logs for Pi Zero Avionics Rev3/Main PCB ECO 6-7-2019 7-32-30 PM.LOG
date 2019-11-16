@@ -1,0 +1,297 @@
+Removed Pin From Net: NetName=5V Pin=1-1
+Removed Pin From Net: NetName=3.3V Pin=2-1
+Removed Pin From Net: NetName=3.3V Pin=6-1
+Removed Pin From Net: NetName=5V_Clean Pin=7-1
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=GND Pin=R56-1
+Removed Pin From Net: NetName=GND Pin=R57-1
+Removed Pin From Net: NetName=NetQ1_Main_3 Pin=U12-3
+Removed Pin From Net: NetName=NetQ3_LVRX1_D Pin=UART1_LVLESP-1
+Removed Pin From Net: NetName=NetQ3_LVTX1_D Pin=UART1_LVLESP-2
+Change Component Footprint: Designator=R61_AIN01 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R61_AIN02 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R61_AIN11 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R61_AIN12 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R61_AIN21 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R61_AIN22 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R61_AIN31 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R61_AIN32 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R62_AIN01 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R62_AIN02 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R62_AIN11 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R62_AIN12 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R62_AIN21 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R62_AIN22 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R62_AIN31 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R62_AIN32 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R87 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R88 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R89 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=R90 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RF1_AIN01 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RF1_AIN02 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RF1_AIN11 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RF1_AIN12 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RF1_AIN21 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RF1_AIN22 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RF1_AIN31 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RF1_AIN32 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND1_AIN01 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND1_AIN02 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND1_AIN11 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND1_AIN12 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND1_AIN21 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND1_AIN22 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND1_AIN31 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND1_AIN32 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND2_AIN01 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND2_AIN02 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND2_AIN11 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND2_AIN12 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND2_AIN21 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND2_AIN22 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND2_AIN31 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=RGND2_AIN32 Old Footprint=0603 TO 0805 SMD - DUPLICATE New Footprint=J1-0603
+Change Component Footprint: Designator=L1 Old Footprint=INDUCTOR New Footprint=*INDM1200X1200X1000N
+Change Component Footprint: Designator=T8_U_Blue_LED1 Old Footprint=SOT95P280X125-3N New Footprint=BJT
+Change Component Footprint: Designator=T8_U_Blue_LED2 Old Footprint=SOT95P280X125-3N New Footprint=BJT
+Change Component Footprint: Designator=T8_U_Blue_LED3 Old Footprint=SOT95P280X125-3N New Footprint=BJT
+Change Component Designator: OldDesignator=D1 NewDesignator=D3_ACT_Ind1
+Change Component Designator: OldDesignator=D2 NewDesignator=D3_ACT_Ind2
+Change Component Designator: OldDesignator=D5 NewDesignator=D3_ERR_Ind1
+Change Component Designator: OldDesignator=D6 NewDesignator=D3_ERR_Ind2
+Change Component Designator: OldDesignator=D7_U_Blue_LED1 NewDesignator=D7_Voltage_Indicator1
+Change Component Designator: OldDesignator=D7_U_Blue_LED2 NewDesignator=D7_Voltage_Indicator2
+Change Component Designator: OldDesignator=D7_U_Blue_LED3 NewDesignator=D7_Voltage_Indicator3
+Change Component Designator: OldDesignator=R7 NewDesignator=R19_ACT_Ind1
+Change Component Designator: OldDesignator=R8 NewDesignator=R19_ACT_Ind2
+Change Component Designator: OldDesignator=R56 NewDesignator=R19_ERR_Ind1
+Change Component Designator: OldDesignator=R57 NewDesignator=R19_ERR_Ind2
+Change Component Designator: OldDesignator=R63_U_Blue_LED1 NewDesignator=R63_Voltage_Indicator1
+Change Component Designator: OldDesignator=R63_U_Blue_LED2 NewDesignator=R63_Voltage_Indicator2
+Change Component Designator: OldDesignator=R63_U_Blue_LED3 NewDesignator=R63_Voltage_Indicator3
+Change Component Designator: OldDesignator=R64_U_Blue_LED1 NewDesignator=R64_Voltage_Indicator1
+Change Component Designator: OldDesignator=R64_U_Blue_LED2 NewDesignator=R64_Voltage_Indicator2
+Change Component Designator: OldDesignator=R64_U_Blue_LED3 NewDesignator=R64_Voltage_Indicator3
+Change Component Designator: OldDesignator=T8_U_Blue_LED1 NewDesignator=T8_Voltage_Indicator1
+Change Component Designator: OldDesignator=T8_U_Blue_LED2 NewDesignator=T8_Voltage_Indicator2
+Change Component Designator: OldDesignator=T8_U_Blue_LED3 NewDesignator=T8_Voltage_Indicator3
+Added Component: Designator=R7_LVCS(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R7_LVMISO(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R7_LVMOSI(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R7_LVRX1(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R7_LVRX2(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R7_LVSCLK(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R7_LVTX1(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R7_LVTX2(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=1-1
+Added Pin To Net: NetName=5V_Clean Pin=2-1
+Added Pin To Net: NetName=5V Pin=6-1
+Added Pin To Net: NetName=3.3V Pin=7-1
+Added Pin To Net: NetName=GND Pin=D3_ACT_Ind1-2
+Added Pin To Net: NetName=GND Pin=D3_ACT_Ind2-2
+Added Pin To Net: NetName=GND Pin=D3_ERR_Ind1-2
+Added Pin To Net: NetName=GND Pin=D3_ERR_Ind2-2
+Added Pin To Net: NetName=NetQ3_LVCS_D Pin=R7_LVCS-1
+Added Pin To Net: NetName=NetQ3_LVCS_S Pin=R7_LVCS-2
+Added Pin To Net: NetName=NetMOSI/MISO1_2 Pin=R7_LVMISO-1
+Added Pin To Net: NetName=NetQ3_LVMISO_S Pin=R7_LVMISO-2
+Added Pin To Net: NetName=NetMOSI/MISO1_1 Pin=R7_LVMOSI-1
+Added Pin To Net: NetName=NetQ3_LVMOSI_S Pin=R7_LVMOSI-2
+Added Pin To Net: NetName=NetQ3_LVRX1_D Pin=R7_LVRX1-1
+Added Pin To Net: NetName=NetQ3_LVRX1_S Pin=R7_LVRX1-2
+Added Pin To Net: NetName=NetQ3_LVRX2_D Pin=R7_LVRX2-1
+Added Pin To Net: NetName=NetQ3_LVRX2_S Pin=R7_LVRX2-2
+Added Pin To Net: NetName=NetQ3_LVSCLK_D Pin=R7_LVSCLK-1
+Added Pin To Net: NetName=NetQ3_LVSCLK_S Pin=R7_LVSCLK-2
+Added Pin To Net: NetName=NetQ3_LVTX1_D Pin=R7_LVTX1-1
+Added Pin To Net: NetName=NetQ3_LVTX1_S Pin=R7_LVTX1-2
+Added Pin To Net: NetName=NetQ3_LVTX2_D Pin=R7_LVTX2-1
+Added Pin To Net: NetName=NetQ3_LVTX2_S Pin=R7_LVTX2-2
+Added Pin To Net: NetName=NetQ3_LVTX1_D Pin=UART1_LVLESP-1
+Added Pin To Net: NetName=NetQ3_LVRX1_D Pin=UART1_LVLESP-2
+Change Net Name : Old Net Name=NetC33_2 New Net Name=VBAT_Switched
+Change Net Name : Old Net Name=NetD7_U_Blue_LED1_1 New Net Name=NetD7_Voltage_Indicator1_1
+Change Net Name : Old Net Name=NetD7_U_Blue_LED1_2 New Net Name=NetD7_Voltage_Indicator1_2
+Change Net Name : Old Net Name=NetD7_U_Blue_LED2_1 New Net Name=NetD7_Voltage_Indicator2_1
+Change Net Name : Old Net Name=NetD7_U_Blue_LED2_2 New Net Name=NetD7_Voltage_Indicator2_2
+Change Net Name : Old Net Name=NetD7_U_Blue_LED3_1 New Net Name=NetD7_Voltage_Indicator3_1
+Change Net Name : Old Net Name=NetD7_U_Blue_LED3_2 New Net Name=NetD7_Voltage_Indicator3_2
+Change Net Name : Old Net Name=NetQ1_Main_3 New Net Name=SQB_PWR
+Change Net Name : Old Net Name=NetR64_U_Blue_LED1_2 New Net Name=NetR64_Voltage_Indicator1_2
+Change Net Name : Old Net Name=NetR64_U_Blue_LED2_2 New Net Name=NetR64_Voltage_Indicator2_2
+Change Net Name : Old Net Name=NetR64_U_Blue_LED3_2 New Net Name=NetR64_Voltage_Indicator3_2
+Added Pin To Net: NetName=NetD3_ACT_Ind1_1 Pin=D3_ACT_Ind1-1
+Added Pin To Net: NetName=NetD3_ACT_Ind1_1 Pin=R19_ACT_Ind1-1
+Added Net: Name=NetD3_ACT_Ind1_1
+Added Pin To Net: NetName=NetD3_ACT_Ind2_1 Pin=D3_ACT_Ind2-1
+Added Pin To Net: NetName=NetD3_ACT_Ind2_1 Pin=R19_ACT_Ind2-1
+Added Net: Name=NetD3_ACT_Ind2_1
+Added Pin To Net: NetName=NetD3_ERR_Ind1_1 Pin=D3_ERR_Ind1-1
+Added Pin To Net: NetName=NetD3_ERR_Ind1_1 Pin=R19_ERR_Ind1-1
+Added Net: Name=NetD3_ERR_Ind1_1
+Added Pin To Net: NetName=NetD3_ERR_Ind2_1 Pin=D3_ERR_Ind2-1
+Added Pin To Net: NetName=NetD3_ERR_Ind2_1 Pin=R19_ERR_Ind2-1
+Added Net: Name=NetD3_ERR_Ind2_1
+Added Pin To Net: NetName=NetR19_ACT_Ind1_2 Pin=R19_ACT_Ind1-2
+Added Pin To Net: NetName=NetR19_ACT_Ind1_2 Pin=Raspberry Pi GPIO1-22
+Added Net: Name=NetR19_ACT_Ind1_2
+Added Pin To Net: NetName=NetR19_ACT_Ind2_2 Pin=R19_ACT_Ind2-2
+Added Pin To Net: NetName=NetR19_ACT_Ind2_2 Pin=U7-36
+Added Net: Name=NetR19_ACT_Ind2_2
+Added Pin To Net: NetName=NetR19_ERR_Ind1_2 Pin=R19_ERR_Ind1-2
+Added Pin To Net: NetName=NetR19_ERR_Ind1_2 Pin=Raspberry Pi GPIO1-26
+Added Net: Name=NetR19_ERR_Ind1_2
+Added Pin To Net: NetName=NetR19_ERR_Ind2_2 Pin=R19_ERR_Ind2-2
+Added Pin To Net: NetName=NetR19_ERR_Ind2_2 Pin=U7-37
+Added Net: Name=NetR19_ERR_Ind2_2
+Added Pin To Net: NetName=SQB_PWR- Pin=U12-3
+Added Net: Name=SQB_PWR-
+Added Member To Class: ClassName=U_Power IO Member=Component 1 Screw Terminal
+Added Member To Class: ClassName=U_Power IO Member=Component 2 Screw Terminal
+Added Member To Class: ClassName=U_Power IO Member=Component 3 Screw Terminal
+Added Member To Class: ClassName=U_Power IO Member=Component 4 Screw Terminal
+Added Member To Class: ClassName=U_Power IO Member=Component 5 Screw Terminal
+Added Member To Class: ClassName=U_Power IO Member=Component 6 Screw Terminal
+Added Member To Class: ClassName=U_Power IO Member=Component 7 Screw Terminal
+Added Member To Class: ClassName=U_Power IO Member=Component BAT_IN1 Screw Terminal
+Added Member To Class: ClassName=ACT_Ind1 Member=Component D3_ACT_Ind1 (D3) LED_R
+Added Member To Class: ClassName=ACT_Ind2 Member=Component D3_ACT_Ind2 (D3) LED_R
+Added Member To Class: ClassName=ERR_Ind1 Member=Component D3_ERR_Ind1 (D3) LED_R
+Added Member To Class: ClassName=ERR_Ind2 Member=Component D3_ERR_Ind2 (D3) LED_R
+Added Member To Class: ClassName=Voltage_Indicator1 Member=Component D7_Voltage_Indicator1 (D7) LED_B
+Added Member To Class: ClassName=Voltage_Indicator2 Member=Component D7_Voltage_Indicator2 (D7) LED_B
+Added Member To Class: ClassName=Voltage_Indicator3 Member=Component D7_Voltage_Indicator3 (D7) LED_B
+Added Member To Class: ClassName=LVCS Member=Component R7_LVCS (R7) Res3
+Added Member To Class: ClassName=LVMISO Member=Component R7_LVMISO (R7) Res3
+Added Member To Class: ClassName=LVMOSI Member=Component R7_LVMOSI (R7) Res3
+Added Member To Class: ClassName=LVRX1 Member=Component R7_LVRX1 (R7) Res3
+Added Member To Class: ClassName=LVRX2 Member=Component R7_LVRX2 (R7) Res3
+Added Member To Class: ClassName=LVSCLK Member=Component R7_LVSCLK (R7) Res3
+Added Member To Class: ClassName=LVTX1 Member=Component R7_LVTX1 (R7) Res3
+Added Member To Class: ClassName=LVTX2 Member=Component R7_LVTX2 (R7) Res3
+Added Member To Class: ClassName=ACT_Ind1 Member=Component R19_ACT_Ind1 (R19) Res3
+Added Member To Class: ClassName=ACT_Ind2 Member=Component R19_ACT_Ind2 (R19) Res3
+Added Member To Class: ClassName=ERR_Ind1 Member=Component R19_ERR_Ind1 (R19) Res3
+Added Member To Class: ClassName=ERR_Ind2 Member=Component R19_ERR_Ind2 (R19) Res3
+Added Member To Class: ClassName=Voltage_Indicator1 Member=Component R63_Voltage_Indicator1 (R63) Res3
+Added Member To Class: ClassName=Voltage_Indicator2 Member=Component R63_Voltage_Indicator2 (R63) Res3
+Added Member To Class: ClassName=Voltage_Indicator3 Member=Component R63_Voltage_Indicator3 (R63) Res3
+Added Member To Class: ClassName=Voltage_Indicator1 Member=Component R64_Voltage_Indicator1 (R64) Res3
+Added Member To Class: ClassName=Voltage_Indicator2 Member=Component R64_Voltage_Indicator2 (R64) Res3
+Added Member To Class: ClassName=Voltage_Indicator3 Member=Component R64_Voltage_Indicator3 (R64) Res3
+Added Member To Class: ClassName=U_Power IO Member=Component SW1 Screw Terminal
+Added Member To Class: ClassName=Voltage_Indicator1 Member=Component T8_Voltage_Indicator1 (T8) MMBT2222ALT1
+Added Member To Class: ClassName=Voltage_Indicator2 Member=Component T8_Voltage_Indicator2 (T8) MMBT2222ALT1
+Added Member To Class: ClassName=Voltage_Indicator3 Member=Component T8_Voltage_Indicator3 (T8) MMBT2222ALT1
+Added Room: Name=ACT_Ind1
+Added Room: Name=ACT_Ind2
+Added Room: Name=AIN01
+Added Room: Name=AIN02
+Added Room: Name=AIN11
+Added Room: Name=AIN12
+Added Room: Name=AIN21
+Added Room: Name=AIN22
+Added Room: Name=AIN31
+Added Room: Name=AIN32
+Added Room: Name=Bz
+Added Room: Name=ERR_Ind1
+Added Room: Name=ERR_Ind2
+Added Room: Name=ESP
+Added Room: Name=LVCS
+Added Room: Name=LVLESP
+Added Room: Name=LVLPI/ESP
+Added Room: Name=LVMISO
+Added Room: Name=LVMOSI
+Added Room: Name=LVRX1
+Added Room: Name=LVRX2
+Added Room: Name=LVSCLK
+Added Room: Name=LVTX1
+Added Room: Name=LVTX2
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Main_Ind
+Added Room: Name=Motor
+Added Room: Name=Motor_Ind
+Added Room: Name=PWR
+Added Room: Name=Sep
+Added Room: Name=Sep_Ind
+Added Room: Name=SPI-IO
+Added Room: Name=U_Accelerometer
+Added Room: Name=U_ADC1
+Added Room: Name=U_ADC2
+Added Room: Name=U_Barometer
+Added Room: Name=U_ESP power
+Added Room: Name=U_Gyroscope
+Added Room: Name=U_Magnetometer
+Added Room: Name=U_Power IO
+Added Room: Name=U_Squib_Managment
+Added Room: Name=UART
+Added Room: Name=Voltage_Indicator1
+Added Room: Name=Voltage_Indicator2
+Added Room: Name=Voltage_Indicator3

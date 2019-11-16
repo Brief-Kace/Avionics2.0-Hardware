@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R72
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR72_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR72_2
+Change Room Name: Old Name=ACT_IND_1 New Name=ACT_Ind
+Change Room Scope: Old Scope=InComponentClass('ACT_IND') New Scope=InComponentClass('ACT_Ind')
+Change Room Name: Old Name=Main_1 New Name=Main
+Added Room: Name=U_Accelerometer
+Added Room: Name=U_Barometer
+Added Room: Name=U_Gyroscope

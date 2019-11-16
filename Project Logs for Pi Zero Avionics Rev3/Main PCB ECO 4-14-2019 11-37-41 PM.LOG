@@ -1,0 +1,44 @@
+Added Pin To Net: NetName=Net1_3 Pin=R43_LVSCLK-2
+Change Net Name : Old Net Name=CS_ADC1 New Net Name=NetR2_U_ADC1_1
+Change Net Name : Old Net Name=CS_ADC2 New Net Name=NetR2_U_ADC2_1
+Change Net Name : Old Net Name=CS_MAG New Net Name=NetU5_2
+Change Net Name : Old Net Name=MISO New Net Name=NetQ3_LVMISO_S
+Change Net Name : Old Net Name=MOSI New Net Name=NetQ3_LVMOSI_S
+Change Net Name : Old Net Name=SCK New Net Name=NetQ3_LVSCLK_S
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V_Clean Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V Screw Terminal
+Added Member To Class: ClassName=U_ADC1 Member=Component C6_U_ADC1 (C6) Cap
+Added Room: Name=AIN01
+Added Room: Name=AIN02
+Added Room: Name=AIN11
+Added Room: Name=AIN12
+Added Room: Name=AIN21
+Added Room: Name=AIN22
+Added Room: Name=AIN31
+Added Room: Name=AIN32
+Added Room: Name=Bz
+Added Room: Name=ESP
+Added Room: Name=LVLPI/ESP
+Added Room: Name=LVMISO
+Added Room: Name=LVMOSI
+Added Room: Name=LVSCLK
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Main_Ind
+Added Room: Name=Motor
+Added Room: Name=Motor_Ind
+Added Room: Name=PWR
+Added Room: Name=Sep
+Added Room: Name=Sep_Ind
+Added Room: Name=SPI-IO
+Added Room: Name=U_Accelerometer
+Added Room: Name=U_ADC1
+Added Room: Name=U_ADC2
+Added Room: Name=U_Barometer
+Added Room: Name=U_Blue_LED1
+Added Room: Name=U_Blue_LED2
+Added Room: Name=U_Blue_LED3
+Added Room: Name=U_Gyroscope
+Added Room: Name=UART

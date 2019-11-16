@@ -1,0 +1,60 @@
+Change Component Comment : Designator=LS1 Old Comment=CT-1205C-SMT New Comment=Buz
+Change Component Designator: OldDesignator=1 NewDesignator=SDI_SDO
+Change Component Designator: OldDesignator=2 NewDesignator=SCL_G22
+Change Component Designator: OldDesignator=3 NewDesignator=U?
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D?_DD NewDesignator=D1_DD
+Change Component Designator: OldDesignator=D?_Ind NewDesignator=D1_Ind
+Change Component Designator: OldDesignator=D?_Sep NewDesignator=D1_Sep
+Change Component Designator: OldDesignator=D?_U_Indicator LED1 NewDesignator=D1_U_Indicator LED1
+Change Component Designator: OldDesignator=D?_U_Indicator LED2 NewDesignator=D1_U_Indicator LED2
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=Raspberry Pi GPIO1 NewDesignator=RPi
+Change Component Designator: OldDesignator=T2 NewDesignator=Q2
+Change Component Designator: OldDesignator=U1 NewDesignator=U?
+Change Component Designator: OldDesignator=U2 NewDesignator=U?
+Change Component Designator: OldDesignator=U3 NewDesignator=U?
+Added Pin To Net: NetName=Net*_3 Pin=U?-3
+Added Pin To Net: NetName=Net*_5 Pin=U?-5
+Added Pin To Net: NetName=Net*_6 Pin=U?-6
+Added Pin To Net: NetName=+3.3 Pin=U?-8
+Change Net Name : Old Net Name=Net2_2 New Net Name=NetRPi_15
+Change Net Name : Old Net Name=Net3_P$5 New Net Name=NetRPi_5
+Change Net Name : Old Net Name=Net3_P$14 New Net Name=NetC12_1
+Change Net Name : Old Net Name=Net*_3 New Net Name=NetRPi_23
+Change Net Name : Old Net Name=Net*_5 New Net Name=NetRPi_19
+Change Net Name : Old Net Name=Net*_6 New Net Name=NetRPi_21
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD?_DD_2 New Net Name=NetD1_DD_2
+Change Net Name : Old Net Name=NetD?_Ind_2 New Net Name=NetD1_Ind_2
+Change Net Name : Old Net Name=NetD?_Sep_2 New Net Name=NetD1_Sep_2
+Change Net Name : Old Net Name=NetD?_U_Indicator LED1_2 New Net Name=NetD1_U_Indicator LED1_2
+Change Net Name : Old Net Name=NetD?_U_Indicator LED2_2 New Net Name=NetD1_U_Indicator LED2_2
+Change Net Name : Old Net Name=NetIC?_5 New Net Name=NetIC1_5
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetRaspberry Pi GPIO1_3 New Net Name=NetRPi_3
+Change Net Name : Old Net Name=NetRaspberry Pi GPIO1_12 New Net Name=NetRPi_12
+Change Net Name : Old Net Name=NetRaspberry Pi GPIO1_13 New Net Name=NetRPi_13
+Added Pin To Net: NetName=NetRPi_7 Pin=RPi-7
+Added Pin To Net: NetName=NetRPi_7 Pin=U?-2
+Added Net: Name=NetRPi_7
+Change Class Name : Old Net Name=U_Accelerometer New Net Name=Accelerometer
+Change Class Name : Old Net Name=U_ADC New Net Name=ADC
+Change Class Name : Old Net Name=U_Barometer New Net Name=Barometer
+Change Class Name : Old Net Name=U_Gyroscope New Net Name=Gyroscope
+Change Class Name : Old Net Name=U_Magnetometer New Net Name=Magnetometer
+Added Member To Class: ClassName=Magnetometer Member=Component U? MLX90393
+Added Room: Name=Accelerometer
+Added Room: Name=ADC
+Added Room: Name=Barometer
+Added Room: Name=DD
+Added Room: Name=Gyroscope
+Added Room: Name=Ind
+Added Room: Name=Magnetometer
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Sep
+Added Room: Name=Sep
+Added Room: Name=U_Indicator LED1
+Added Room: Name=U_Indicator LED2
+Added Room: Name=U_Voltage Regulation

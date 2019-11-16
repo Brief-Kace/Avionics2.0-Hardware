@@ -1,0 +1,61 @@
+Added Component: Designator=IC?(TO263-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MIC29302AWU-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-5 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MIC29302AWU-TR/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Raspberry Pi GPIO1(Header 2x20)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=IC?-1
+Added Pin To Net: NetName=VCC Pin=IC?-2
+Added Pin To Net: NetName=GND Pin=IC?-3
+Added Pin To Net: NetName=+5V Pin=IC?-4
+Added Pin To Net: NetName=+3.3 Pin=Raspberry Pi GPIO1-1
+Added Pin To Net: NetName=+5V Pin=Raspberry Pi GPIO1-2
+Added Pin To Net: NetName=NetRaspberry Pi GPIO1_3 Pin=Raspberry Pi GPIO1-3
+Added Pin To Net: NetName=+5V Pin=Raspberry Pi GPIO1-4
+Added Pin To Net: NetName=Net3_P$5 Pin=Raspberry Pi GPIO1-5
+Added Pin To Net: NetName=GND Pin=Raspberry Pi GPIO1-6
+Added Pin To Net: NetName=Net*_2 Pin=Raspberry Pi GPIO1-7
+Added Pin To Net: NetName=GND Pin=Raspberry Pi GPIO1-9
+Added Pin To Net: NetName=NetRaspberry Pi GPIO1_12 Pin=Raspberry Pi GPIO1-12
+Added Pin To Net: NetName=NetRaspberry Pi GPIO1_13 Pin=Raspberry Pi GPIO1-13
+Added Pin To Net: NetName=GND Pin=Raspberry Pi GPIO1-14
+Added Pin To Net: NetName=Net2_2 Pin=Raspberry Pi GPIO1-15
+Added Pin To Net: NetName=+3.3 Pin=Raspberry Pi GPIO1-17
+Added Pin To Net: NetName=Net*_5 Pin=Raspberry Pi GPIO1-19
+Added Pin To Net: NetName=Net*_6 Pin=Raspberry Pi GPIO1-21
+Added Pin To Net: NetName=Net*_3 Pin=Raspberry Pi GPIO1-23
+Added Pin To Net: NetName=GND Pin=Raspberry Pi GPIO1-25
+Added Pin To Net: NetName=NetR2_DD_1 Pin=Raspberry Pi GPIO1-26
+Added Pin To Net: NetName=GND Pin=Raspberry Pi GPIO1-30
+Added Pin To Net: NetName=NetR3_1 Pin=Raspberry Pi GPIO1-32
+Added Pin To Net: NetName=GND Pin=Raspberry Pi GPIO1-34
+Added Pin To Net: NetName=NetR2_Ind_1 Pin=Raspberry Pi GPIO1-36
+Added Pin To Net: NetName=NetR2_U_Indicator LED1_1 Pin=Raspberry Pi GPIO1-37
+Added Pin To Net: NetName=NetR2_Sep_1 Pin=Raspberry Pi GPIO1-38
+Added Pin To Net: NetName=GND Pin=Raspberry Pi GPIO1-39
+Added Pin To Net: NetName=NetR2_U_Indicator LED2_1 Pin=Raspberry Pi GPIO1-40
+Added Pin To Net: NetName=NetIC?_5 Pin=IC?-5
+Added Pin To Net: NetName=NetIC?_5 Pin=R15-1
+Added Pin To Net: NetName=NetIC?_5 Pin=R17-2
+Added Net: Name=NetIC?_5
+Added Member To Class: ClassName=U_Voltage Regulation Member=Component IC? MIC29302AWU-TR
+Added Member To Class: ClassName=Main Member=Component Raspberry Pi GPIO1 PiGPIOBreakout
+Added Room: Name=DD
+Added Room: Name=Ind
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Sep
+Added Room: Name=Sep
+Added Room: Name=U_Accelerometer
+Added Room: Name=U_ADC
+Added Room: Name=U_Barometer
+Added Room: Name=U_Gyroscope
+Added Room: Name=U_Indicator LED1
+Added Room: Name=U_Indicator LED2
+Added Room: Name=U_Magnetometer
+Added Room: Name=U_Voltage Regulation

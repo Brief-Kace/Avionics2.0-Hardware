@@ -1,0 +1,7 @@
+Change Class Name : Old Net Name=ERR_Ind1 New Net Name=ERR_IndESP
+Change Class Name : Old Net Name=ERR_Ind2 New Net Name=ERR_IndPi
+Added Class: Name=ACT_IndESP
+Change Room Name: Old Name=Main_1 New Name=Main
+Added Room: Name=ACT_IndESP
+Added Room: Name=ERR_IndESP
+Added Room: Name=ERR_IndPi

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetQ3_LVRX1_3 Pin=UART1_LVLESP-1
+Removed Pin From Net: NetName=NetQ3_LVTX1_3 Pin=UART1_LVLESP-2
+Change Component Footprint: Designator=C22 Old Footprint=0603 Footprint New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=C27 Old Footprint=0603 Footprint New Footprint=0603 to 0805 SMD
+Added Pin To Net: NetName=NetQ3_LVTX1_3 Pin=UART1_LVLESP-1
+Added Pin To Net: NetName=NetQ3_LVRX1_3 Pin=UART1_LVLESP-2

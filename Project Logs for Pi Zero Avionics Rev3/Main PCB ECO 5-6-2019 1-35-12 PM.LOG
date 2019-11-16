@@ -1,0 +1,14 @@
+Added Component: Designator=U5(QFN-16_WITH_AXIES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MLX90393ELW-ABA-011-RECT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR13_2 Pin=U5-2
+Added Pin To Net: NetName=NetQ3_LVSCLK_S Pin=U5-3
+Added Pin To Net: NetName=NetQ3_LVMISO_S Pin=U5-5
+Added Pin To Net: NetName=NetQ3_LVMOSI_S Pin=U5-6
+Added Pin To Net: NetName=3.3V Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U5-11
+Added Pin To Net: NetName=GND Pin=U5-12
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Pin To Net: NetName=3.3V Pin=U5-15
+Added Member To Class: ClassName=U_Magnetometer Member=Component U5 MLX90393

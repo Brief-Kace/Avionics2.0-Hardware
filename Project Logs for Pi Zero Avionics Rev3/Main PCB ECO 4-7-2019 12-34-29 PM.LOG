@@ -1,0 +1,4 @@
+Added Component: Designator=T?(Screw Terminal)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2609-ND"; VariantName = "[No Variations]"

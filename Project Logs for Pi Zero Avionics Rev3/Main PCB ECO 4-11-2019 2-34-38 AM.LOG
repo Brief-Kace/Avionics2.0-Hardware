@@ -1,0 +1,24 @@
+Added Component: Designator=U4(L3GD20HTR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "L3GD20HTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LGA-16 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/L3GD20HTR/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-13931-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=Net?_2 New Net Name=NetQ3_LVSCLK_S
+Change Net Name : Old Net Name=Net?_3 New Net Name=NetQ3_LVMISO_S
+Change Net Name : Old Net Name=Net?_4 New Net Name=NetQ3_LVMOSI_S
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetU4_5 Pin=U7-30
+Added Net: Name=NetU4_5
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V_Clean Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V Screw Terminal
+Added Member To Class: ClassName=U_Gyroscope Member=Component U4 L3GD20H
+Change Room Name: Old Name=Main_1 New Name=Main

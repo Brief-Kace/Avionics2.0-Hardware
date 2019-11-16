@@ -1,0 +1,252 @@
+Removed Pin From Net: NetName=5V Pin=R17_Main_Ind-2
+Removed Pin From Net: NetName=5V Pin=R17_Motor_Ind-2
+Removed Pin From Net: NetName=5V Pin=R17_Sep_Ind-2
+Removed Member From Class: ClassName=ESP Member=R?
+Removed Member From Class: ClassName=AIN01 Member=RGND?_AIN01
+Removed Member From Class: ClassName=AIN11 Member=RGND?_AIN11
+Removed Member From Class: ClassName=AIN21 Member=RGND?_AIN21
+Removed Member From Class: ClassName=AIN31 Member=RGND?_AIN31
+Change Component Designator: OldDesignator=R27 NewDesignator=R28
+Change Component Designator: OldDesignator=R28 NewDesignator=R29
+Change Component Designator: OldDesignator=R29 NewDesignator=R30
+Change Component Designator: OldDesignator=R30 NewDesignator=R31
+Change Component Designator: OldDesignator=R31 NewDesignator=R32
+Change Component Designator: OldDesignator=R32 NewDesignator=R33
+Change Component Designator: OldDesignator=R33 NewDesignator=R34
+Change Component Designator: OldDesignator=R34 NewDesignator=R35
+Change Component Designator: OldDesignator=R35 NewDesignator=R36
+Change Component Designator: OldDesignator=R36 NewDesignator=R37
+Change Component Designator: OldDesignator=R37 NewDesignator=R38
+Change Component Designator: OldDesignator=R38 NewDesignator=R39
+Change Component Designator: OldDesignator=R39 NewDesignator=R40
+Change Component Designator: OldDesignator=R40 NewDesignator=R41
+Change Component Designator: OldDesignator=R41 NewDesignator=R42
+Change Component Designator: OldDesignator=R42 NewDesignator=R43
+Change Component Designator: OldDesignator=R43 NewDesignator=R44
+Change Component Designator: OldDesignator=R44 NewDesignator=R45
+Change Component Designator: OldDesignator=R45 NewDesignator=R46
+Change Component Designator: OldDesignator=R46 NewDesignator=R47
+Change Component Designator: OldDesignator=R47 NewDesignator=R48
+Change Component Designator: OldDesignator=R48 NewDesignator=R49
+Change Component Designator: OldDesignator=R49 NewDesignator=R50
+Change Component Designator: OldDesignator=R50 NewDesignator=R51
+Change Component Designator: OldDesignator=R51 NewDesignator=R52
+Change Component Designator: OldDesignator=R52 NewDesignator=R53
+Change Component Designator: OldDesignator=R53 NewDesignator=R54
+Change Component Designator: OldDesignator=R54 NewDesignator=R55
+Change Component Designator: OldDesignator=R55_U_Blue_LED1 NewDesignator=R58_U_Blue_LED1
+Change Component Designator: OldDesignator=R55_U_Blue_LED2 NewDesignator=R58_U_Blue_LED2
+Change Component Designator: OldDesignator=R55_U_Blue_LED3 NewDesignator=R58_U_Blue_LED3
+Change Component Designator: OldDesignator=R56_U_Blue_LED1 NewDesignator=R59_U_Blue_LED1
+Change Component Designator: OldDesignator=R56_U_Blue_LED2 NewDesignator=R59_U_Blue_LED2
+Change Component Designator: OldDesignator=R56_U_Blue_LED3 NewDesignator=R59_U_Blue_LED3
+Change Component Designator: OldDesignator=R60_LVCS NewDesignator=R63_LVCS
+Change Component Designator: OldDesignator=R60_LVMISO NewDesignator=R63_LVMISO
+Change Component Designator: OldDesignator=R60_LVMOSI NewDesignator=R63_LVMOSI
+Change Component Designator: OldDesignator=R60_LVRX1 NewDesignator=R63_LVRX1
+Change Component Designator: OldDesignator=R60_LVRX2 NewDesignator=R63_LVRX2
+Change Component Designator: OldDesignator=R60_LVSCLK NewDesignator=R63_LVSCLK
+Change Component Designator: OldDesignator=R60_LVTX1 NewDesignator=R63_LVTX1
+Change Component Designator: OldDesignator=R60_LVTX2 NewDesignator=R63_LVTX2
+Change Component Designator: OldDesignator=R61_LVCS NewDesignator=R64_LVCS
+Change Component Designator: OldDesignator=R61_LVMISO NewDesignator=R64_LVMISO
+Change Component Designator: OldDesignator=R61_LVMOSI NewDesignator=R64_LVMOSI
+Change Component Designator: OldDesignator=R61_LVRX1 NewDesignator=R64_LVRX1
+Change Component Designator: OldDesignator=R61_LVRX2 NewDesignator=R64_LVRX2
+Change Component Designator: OldDesignator=R61_LVSCLK NewDesignator=R64_LVSCLK
+Change Component Designator: OldDesignator=R61_LVTX1 NewDesignator=R64_LVTX1
+Change Component Designator: OldDesignator=R61_LVTX2 NewDesignator=R64_LVTX2
+Change Component Designator: OldDesignator=R64 NewDesignator=R67
+Change Component Designator: OldDesignator=R65 NewDesignator=R68
+Change Component Designator: OldDesignator=R66 NewDesignator=R69
+Change Component Designator: OldDesignator=R67 NewDesignator=R70
+Change Component Designator: OldDesignator=R68 NewDesignator=R71
+Change Component Designator: OldDesignator=R69 NewDesignator=R72
+Change Component Designator: OldDesignator=R70 NewDesignator=R73
+Change Component Designator: OldDesignator=R71 NewDesignator=R74
+Change Component Designator: OldDesignator=R72 NewDesignator=R75
+Change Component Designator: OldDesignator=R73 NewDesignator=R76
+Change Component Designator: OldDesignator=R74 NewDesignator=R77
+Change Component Designator: OldDesignator=R75 NewDesignator=R78
+Change Component Designator: OldDesignator=R76 NewDesignator=R79
+Change Component Designator: OldDesignator=R77 NewDesignator=R80
+Change Component Designator: OldDesignator=R78 NewDesignator=R81
+Change Component Designator: OldDesignator=R79 NewDesignator=R82
+Change Component Designator: OldDesignator=R80 NewDesignator=R83
+Change Component Designator: OldDesignator=R81 NewDesignator=R84
+Change Component Designator: OldDesignator=R82 NewDesignator=R85
+Change Component Designator: OldDesignator=R+1_AIN01 NewDesignator=R56_AIN01
+Change Component Designator: OldDesignator=R+1_AIN02 NewDesignator=R56_AIN02
+Change Component Designator: OldDesignator=R+1_AIN11 NewDesignator=R56_AIN11
+Change Component Designator: OldDesignator=R+1_AIN12 NewDesignator=R56_AIN12
+Change Component Designator: OldDesignator=R+1_AIN21 NewDesignator=R56_AIN21
+Change Component Designator: OldDesignator=R+1_AIN22 NewDesignator=R56_AIN22
+Change Component Designator: OldDesignator=R+1_AIN31 NewDesignator=R56_AIN31
+Change Component Designator: OldDesignator=R+1_AIN32 NewDesignator=R56_AIN32
+Change Component Designator: OldDesignator=R+2_AIN01 NewDesignator=R57_AIN01
+Change Component Designator: OldDesignator=R+2_AIN02 NewDesignator=R57_AIN02
+Change Component Designator: OldDesignator=R+2_AIN11 NewDesignator=R57_AIN11
+Change Component Designator: OldDesignator=R+2_AIN12 NewDesignator=R57_AIN12
+Change Component Designator: OldDesignator=R+2_AIN21 NewDesignator=R57_AIN21
+Change Component Designator: OldDesignator=R+2_AIN22 NewDesignator=R57_AIN22
+Change Component Designator: OldDesignator=R+2_AIN31 NewDesignator=R57_AIN31
+Change Component Designator: OldDesignator=R+2_AIN32 NewDesignator=R57_AIN32
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=RGND1_AIN01 NewDesignator=RGND2_AIN01
+Change Component Designator: OldDesignator=RGND1_AIN02 NewDesignator=RGND2_AIN02
+Change Component Designator: OldDesignator=RGND1_AIN11 NewDesignator=RGND2_AIN11
+Change Component Designator: OldDesignator=RGND1_AIN12 NewDesignator=RGND2_AIN12
+Change Component Designator: OldDesignator=RGND1_AIN21 NewDesignator=RGND2_AIN21
+Change Component Designator: OldDesignator=RGND1_AIN22 NewDesignator=RGND2_AIN22
+Change Component Designator: OldDesignator=RGND1_AIN31 NewDesignator=RGND2_AIN31
+Change Component Designator: OldDesignator=RGND1_AIN32 NewDesignator=RGND2_AIN32
+Change Component Designator: OldDesignator=RGND?_AIN01 NewDesignator=RGND1_AIN01
+Change Component Designator: OldDesignator=RGND?_AIN11 NewDesignator=RGND1_AIN11
+Change Component Designator: OldDesignator=RGND?_AIN21 NewDesignator=RGND1_AIN21
+Change Component Designator: OldDesignator=RGND?_AIN31 NewDesignator=RGND1_AIN31
+Change Component Designator: OldDesignator=T7_U_Blue_LED1 NewDesignator=T8_U_Blue_LED1
+Change Component Designator: OldDesignator=T7_U_Blue_LED2 NewDesignator=T8_U_Blue_LED2
+Change Component Designator: OldDesignator=T7_U_Blue_LED3 NewDesignator=T8_U_Blue_LED3
+Change Component Designator: OldDesignator=T10 NewDesignator=T11
+Change Component Designator: OldDesignator=T11 NewDesignator=T12
+Change Component Designator: OldDesignator=T12 NewDesignator=T13
+Change Component Designator: OldDesignator=T13 NewDesignator=T14
+Change Component Designator: OldDesignator=T? NewDesignator=T7
+Added Component: Designator=RGND1_AIN02(0603 to 0805 SMD - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RGND1_AIN12(0603 to 0805 SMD - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RGND1_AIN22(0603 to 0805 SMD - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RGND1_AIN32(0603 to 0805 SMD - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=R17_Main_Ind-2
+Added Pin To Net: NetName=3.3V Pin=R17_Motor_Ind-2
+Added Pin To Net: NetName=3.3V Pin=R17_Sep_Ind-2
+Added Pin To Net: NetName=NetC7_U_ADC2_1 Pin=RGND1_AIN02-1
+Added Pin To Net: NetName=GND Pin=RGND1_AIN02-2
+Added Pin To Net: NetName=NetC7_U_ADC2_2 Pin=RGND1_AIN12-1
+Added Pin To Net: NetName=GND Pin=RGND1_AIN12-2
+Added Pin To Net: NetName=NetC3_U_ADC2_1 Pin=RGND1_AIN22-1
+Added Pin To Net: NetName=GND Pin=RGND1_AIN22-2
+Added Pin To Net: NetName=NetC3_U_ADC2_2 Pin=RGND1_AIN32-1
+Added Pin To Net: NetName=GND Pin=RGND1_AIN32-2
+Change Net Name : Old Net Name=NetR27_2 New Net Name=NetR28_2
+Change Net Name : Old Net Name=NetR28_2 New Net Name=NetR29_2
+Change Net Name : Old Net Name=NetR30_2 New Net Name=NetR31_2
+Change Net Name : Old Net Name=NetR31_2 New Net Name=NetR32_2
+Change Net Name : Old Net Name=NetR32_2 New Net Name=NetR33_2
+Change Net Name : Old Net Name=NetR33_1 New Net Name=NetR34_1
+Change Net Name : Old Net Name=NetR33_2 New Net Name=NetR34_2
+Change Net Name : Old Net Name=NetR34_2 New Net Name=NetR35_2
+Change Net Name : Old Net Name=NetR35_2 New Net Name=NetR36_2
+Change Net Name : Old Net Name=NetR36_2 New Net Name=NetR37_2
+Change Net Name : Old Net Name=NetR37_2 New Net Name=NetR38_2
+Change Net Name : Old Net Name=NetR38_2 New Net Name=NetR39_2
+Change Net Name : Old Net Name=NetR39_1 New Net Name=NetR40_1
+Change Net Name : Old Net Name=NetR40_1 New Net Name=NetR41_1
+Change Net Name : Old Net Name=NetR41_2 New Net Name=NetR42_2
+Change Net Name : Old Net Name=NetR42_2 New Net Name=NetR43_2
+Change Net Name : Old Net Name=NetR45_1 New Net Name=NetR46_1
+Change Net Name : Old Net Name=NetR46_1 New Net Name=NetR47_1
+Change Net Name : Old Net Name=NetR49_1 New Net Name=NetR50_1
+Change Net Name : Old Net Name=NetR50_1 New Net Name=NetR51_1
+Change Net Name : Old Net Name=NetR53_1 New Net Name=NetR54_1
+Change Net Name : Old Net Name=NetR56_U_Blue_LED1_2 New Net Name=NetR59_U_Blue_LED1_2
+Change Net Name : Old Net Name=NetR56_U_Blue_LED2_2 New Net Name=NetR59_U_Blue_LED2_2
+Change Net Name : Old Net Name=NetR56_U_Blue_LED3_2 New Net Name=NetR59_U_Blue_LED3_2
+Change Net Name : Old Net Name=NetR64_1 New Net Name=NetR67_1
+Change Net Name : Old Net Name=NetR66_1 New Net Name=NetR69_1
+Change Net Name : Old Net Name=NetR71_1 New Net Name=NetR74_1
+Change Net Name : Old Net Name=NetR73_1 New Net Name=NetR76_1
+Change Net Name : Old Net Name=NetR73_2 New Net Name=NetR76_2
+Change Net Name : Old Net Name=NetR76_1 New Net Name=NetR79_1
+Change Net Name : Old Net Name=NetR77_1 New Net Name=NetR80_1
+Change Net Name : Old Net Name=NetR77_2 New Net Name=NetR80_2
+Change Net Name : Old Net Name=NetR79_1 New Net Name=NetR82_1
+Change Net Name : Old Net Name=NetR80_2 New Net Name=NetR83_2
+Change Net Name : Old Net Name=NetR81_2 New Net Name=NetR84_2
+Change Net Name : Old Net Name=NetR82_1 New Net Name=NetR85_1
+Change Net Name : Old Net Name=NetR+1_AIN01_2 New Net Name=NetR56_AIN01_2
+Change Net Name : Old Net Name=NetR+1_AIN02_2 New Net Name=NetR56_AIN02_2
+Change Net Name : Old Net Name=NetR+1_AIN11_2 New Net Name=NetR56_AIN11_2
+Change Net Name : Old Net Name=NetR+1_AIN12_2 New Net Name=NetR56_AIN12_2
+Change Net Name : Old Net Name=NetR+1_AIN21_2 New Net Name=NetR56_AIN21_2
+Change Net Name : Old Net Name=NetR+1_AIN22_2 New Net Name=NetR56_AIN22_2
+Change Net Name : Old Net Name=NetR+1_AIN31_2 New Net Name=NetR56_AIN31_2
+Change Net Name : Old Net Name=NetR+1_AIN32_2 New Net Name=NetR56_AIN32_2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR27_2
+Added Member To Class: ClassName=AIN01 Member=Component RGND2_AIN01 (RGND2) Res3
+Added Member To Class: ClassName=AIN02 Member=Component RGND2_AIN02 (RGND2) Res3
+Added Member To Class: ClassName=AIN11 Member=Component RGND2_AIN11 (RGND2) Res3
+Added Member To Class: ClassName=AIN12 Member=Component RGND2_AIN12 (RGND2) Res3
+Added Member To Class: ClassName=AIN21 Member=Component RGND2_AIN21 (RGND2) Res3
+Added Member To Class: ClassName=AIN22 Member=Component RGND2_AIN22 (RGND2) Res3
+Added Member To Class: ClassName=AIN31 Member=Component RGND2_AIN31 (RGND2) Res3
+Added Member To Class: ClassName=AIN32 Member=Component RGND2_AIN32 (RGND2) Res3
+Added Room: Name=AIN01
+Added Room: Name=AIN02
+Added Room: Name=AIN11
+Added Room: Name=AIN12
+Added Room: Name=AIN21
+Added Room: Name=AIN22
+Added Room: Name=AIN31
+Added Room: Name=AIN32
+Added Room: Name=Bz
+Added Room: Name=ESP
+Added Room: Name=LVLESP
+Added Room: Name=LVLPI/ESP
+Added Room: Name=LVMISO
+Added Room: Name=LVMOSI
+Added Room: Name=LVRX1
+Added Room: Name=LVSCLK
+Added Room: Name=LVTX1
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Main_Ind
+Added Room: Name=Motor
+Added Room: Name=Motor_Ind
+Added Room: Name=PWR
+Added Room: Name=Sep
+Added Room: Name=Sep_Ind
+Added Room: Name=SPI-IO
+Added Room: Name=U_Accelerometer
+Added Room: Name=U_ADC1
+Added Room: Name=U_ADC2
+Added Room: Name=U_Barometer
+Added Room: Name=U_Blue_LED1
+Added Room: Name=U_Blue_LED2
+Added Room: Name=U_Blue_LED3
+Added Room: Name=U_ESP power
+Added Room: Name=U_Gyroscope
+Added Room: Name=U_Magnetometer
+Added Room: Name=U_Squib_Managment
+Added Room: Name=UART

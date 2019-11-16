@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=NetQ3_LVMISO_2 New Net Name=MISO
+Change Net Name : Old Net Name=NetQ3_LVMOSI_2 New Net Name=MOSI
+Change Net Name : Old Net Name=NetQ3_LVSCLK_2 New Net Name=SCL

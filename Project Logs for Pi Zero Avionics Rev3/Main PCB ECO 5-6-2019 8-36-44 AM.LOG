@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=D1-1
+Removed Pin From Net: NetName=3.3V Pin=D12-1
+Removed Pin From Net: NetName=NetD1_1 Pin=Raspberry Pi GPIO1-22
+Removed Member From Class: ClassName=PWR Member=D4
+Removed Member From Class: ClassName=ESP Member=D11
+Removed Member From Class: ClassName=ESP Member=D12
+Removed Member From Class: ClassName=ESP Member=R9
+Removed Member From Class: ClassName=ESP Member=R10
+Removed Member From Class: ClassName=ESP Member=R17
+Removed Member From Class: ClassName=Bz Member=R30
+Removed Member From Class: ClassName=ESP Member=R86
+Removed Member From Class: ClassName=PWR Member=R87
+Removed Member From Class: ClassName=PWR Member=R88
+Removed Member From Class: ClassName=PWR Member=R90
+Added Pin To Net: NetName=5V Pin=D12-1
+Added Pin To Net: NetName=NetQ3_LVCS_S Pin=Raspberry Pi GPIO1-18
+Added Pin To Net: NetName=NetQ3_LVCS_S Pin=U7-3
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetR12_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Raspberry Pi GPIO1-22
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=ESP Member=Component D6 LED_R
+Added Member To Class: ClassName=PWR Member=Component D12 LED_R
+Added Member To Class: ClassName=Bz Member=Component R28 Res3
+Added Member To Class: ClassName=ESP Member=Component R32 Res3
+Added Member To Class: ClassName=PWR Member=Component R81 Res3
+Added Member To Class: ClassName=PWR Member=Component R82 Res3
+Added Member To Class: ClassName=PWR Member=Component R84 Res3

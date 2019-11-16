@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetR26_1 Pin=R27-1
+Removed Pin From Net: NetName=5V Pin=R58_U_Blue_LED1-2
+Removed Pin From Net: NetName=5V Pin=R58_U_Blue_LED2-2
+Removed Pin From Net: NetName=5V Pin=R58_U_Blue_LED3-2
+Removed Member From Class: ClassName=ESP Member=R27
+Removed Member From Class: ClassName=PWR Member=R81
+Removed Member From Class: ClassName=PWR Member=R83
+Removed Member From Class: ClassName=U_ESP power Member=R85
+Removed Member From Class: ClassName=U_ESP power Member=T12
+Added Pin To Net: NetName=NetQ3_LVCS_S Pin=R27-1
+Added Pin To Net: NetName=3.3V Pin=R58_U_Blue_LED1-2
+Added Pin To Net: NetName=3.3V Pin=R58_U_Blue_LED2-2
+Added Pin To Net: NetName=3.3V Pin=R58_U_Blue_LED3-2
+Added Pin To Net: NetName=NetQ3_LVCS_S Pin=U7-19
+Added Member To Class: ClassName=PWR Member=Component R78 Res3
+Added Member To Class: ClassName=PWR Member=Component R80 Res3
+Added Member To Class: ClassName=U_ESP power Member=Component R82 Res3
+Added Member To Class: ClassName=AIN01 Member=Component RGND1_AIN01 (RGND1) Res3
+Added Member To Class: ClassName=AIN02 Member=Component RGND1_AIN02 (RGND1) Res3
+Added Member To Class: ClassName=AIN11 Member=Component RGND1_AIN11 (RGND1) Res3
+Added Member To Class: ClassName=AIN12 Member=Component RGND1_AIN12 (RGND1) Res3
+Added Member To Class: ClassName=AIN21 Member=Component RGND1_AIN21 (RGND1) Res3
+Added Member To Class: ClassName=AIN22 Member=Component RGND1_AIN22 (RGND1) Res3
+Added Member To Class: ClassName=AIN31 Member=Component RGND1_AIN31 (RGND1) Res3
+Added Member To Class: ClassName=AIN32 Member=Component RGND1_AIN32 (RGND1) Res3

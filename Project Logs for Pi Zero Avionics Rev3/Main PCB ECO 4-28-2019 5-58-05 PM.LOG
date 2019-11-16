@@ -1,0 +1,269 @@
+Change Physical Footprint: Designator=1 Old Footprint=Screw Switch New Footprint=Screw Switch
+Change Physical Footprint: Designator=2_LVLESP Old Footprint=Screw Switch New Footprint=Screw Switch
+Change Physical Footprint: Designator=2_LVLPI/ESP Old Footprint=Screw Switch New Footprint=Screw Switch
+Change Physical Footprint: Designator=3.3V Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=3.3V Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=3.3V Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=5V Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=5V Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=5V_Clean Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=5V_Clean Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=BAT_IN1 Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=C1 Old Footprint=0603 to 1210 SMD New Footprint=0603 to 1210 SMD
+Change Physical Footprint: Designator=C2 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C3_U_ADC1 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=C3_U_ADC2 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=C4_U_ADC1 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C4_U_ADC2 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C5_U_ADC1 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C5_U_ADC2 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C6_U_ADC1 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=C6_U_ADC2 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=C7_U_ADC1 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=C7_U_ADC2 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=C8_U_ADC1 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C8_U_ADC2 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C9_U_ADC1 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C9_U_ADC2 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C10 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C11 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C12 Old Footprint=0805 Footprint New Footprint=0805 Footprint
+Change Physical Footprint: Designator=C13 Old Footprint=0805 Footprint New Footprint=0805 Footprint
+Change Physical Footprint: Designator=C14 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C15 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C16 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C17 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C18 Old Footprint=0805 Footprint New Footprint=0805 Footprint
+Change Physical Footprint: Designator=C19 Old Footprint=0805 Footprint New Footprint=0805 Footprint
+Change Physical Footprint: Designator=C20_U_ADC1 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C20_U_ADC2 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C21 Old Footprint=0603 to 1210 SMD New Footprint=0603 to 1210 SMD
+Change Physical Footprint: Designator=C22 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C23 Old Footprint=0603 to 1210 SMD New Footprint=0603 to 1210 SMD
+Change Physical Footprint: Designator=C24 Old Footprint=0805 Footprint New Footprint=0805 Footprint
+Change Physical Footprint: Designator=C25 Old Footprint=0603 to 1210 SMD New Footprint=0603 to 1210 SMD
+Change Physical Footprint: Designator=C26 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C27 Old Footprint=Electrolytic Cap New Footprint=Electrolytic Cap
+Change Physical Footprint: Designator=C28 Old Footprint=0603 to 1210 SMD New Footprint=0603 to 1210 SMD
+Change Physical Footprint: Designator=C30 Old Footprint=0603 to 1210 SMD New Footprint=0603 to 1210 SMD
+Change Physical Footprint: Designator=C31 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C33 Old Footprint=Electrolytic Cap New Footprint=Electrolytic Cap
+Change Physical Footprint: Designator=C34 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C35 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C36 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C37 Old Footprint=0603 Footprint New Footprint=0603 Footprint
+Change Physical Footprint: Designator=C? Old Footprint=0805 Footprint New Footprint=0805 Footprint
+Change Physical Footprint: Designator=C? Old Footprint=0603 to 1210 SMD New Footprint=0603 to 1210 SMD
+Change Physical Footprint: Designator=C? Old Footprint=0805 Footprint New Footprint=0805 Footprint
+Change Physical Footprint: Designator=C? Old Footprint=0805 Footprint New Footprint=0805 Footprint
+Change Physical Footprint: Designator=CF_AIN01 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=CF_AIN02 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=CF_AIN11 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=CF_AIN12 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=CF_AIN21 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=CF_AIN22 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=CF_AIN31 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=CF_AIN32 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=D1_Main_Ind Old Footprint=0402 footprint New Footprint=0402 footprint
+Change Physical Footprint: Designator=D1_Motor_Ind Old Footprint=0402 footprint New Footprint=0402 footprint
+Change Physical Footprint: Designator=D1_Sep_Ind Old Footprint=0402 footprint New Footprint=0402 footprint
+Change Physical Footprint: Designator=D2_U_Blue_LED1 Old Footprint=0402 footprint New Footprint=0402 footprint
+Change Physical Footprint: Designator=D2_U_Blue_LED2 Old Footprint=0402 footprint New Footprint=0402 footprint
+Change Physical Footprint: Designator=D2_U_Blue_LED3 Old Footprint=0402 footprint New Footprint=0402 footprint
+Change Physical Footprint: Designator=D6 Old Footprint=*DO-214AC New Footprint=*DO-214AC
+Change Physical Footprint: Designator=D? Old Footprint=*DO-214AC New Footprint=*DO-214AC
+Change Physical Footprint: Designator=L1 Old Footprint=INDUCTOR New Footprint=INDUCTOR
+Change Physical Footprint: Designator=LS1 Old Footprint=CUI_CT-1205C-SMT New Footprint=CUI_CT-1205C-SMT
+Change Physical Footprint: Designator=MOSI/MISO1 Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=Q1_Main Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=Q1_Motor Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=Q1_Sep Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=Q2_Main Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=Q2_Motor Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=Q2_Sep Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=Q3_LVCS Old Footprint=*BSS138L_BSS138L(Primary) New Footprint=*BSS138L_BSS138L(Primary)
+Change Physical Footprint: Designator=Q3_LVMISO Old Footprint=*BSS138L_BSS138L(Primary) New Footprint=*BSS138L_BSS138L(Primary)
+Change Physical Footprint: Designator=Q3_LVMOSI Old Footprint=*BSS138L_BSS138L(Primary) New Footprint=*BSS138L_BSS138L(Primary)
+Change Physical Footprint: Designator=Q3_LVRX1 Old Footprint=*BSS138L_BSS138L(Primary) New Footprint=*BSS138L_BSS138L(Primary)
+Change Physical Footprint: Designator=Q3_LVRX2 Old Footprint=*BSS138L_BSS138L(Primary) New Footprint=*BSS138L_BSS138L(Primary)
+Change Physical Footprint: Designator=Q3_LVSCLK Old Footprint=*BSS138L_BSS138L(Primary) New Footprint=*BSS138L_BSS138L(Primary)
+Change Physical Footprint: Designator=Q3_LVTX1 Old Footprint=*BSS138L_BSS138L(Primary) New Footprint=*BSS138L_BSS138L(Primary)
+Change Physical Footprint: Designator=Q3_LVTX2 Old Footprint=*BSS138L_BSS138L(Primary) New Footprint=*BSS138L_BSS138L(Primary)
+Change Physical Footprint: Designator=Q4 Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=Q5 Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=Q? Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=R1_U_ADC1 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R1_U_ADC2 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R2_U_ADC1 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R2_U_ADC2 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R3_U_ADC1 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R3_U_ADC2 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R4_U_ADC1 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R4_U_ADC2 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R5_U_ADC1 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R5_U_ADC2 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R6_U_ADC1 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R6_U_ADC2 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R7_Main_Ind Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R7_Motor_Ind Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R7_Sep_Ind Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R8_Main_Ind Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R8_Motor_Ind Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R8_Sep_Ind Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R9_Main Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R9_Motor Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R9_Sep Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R10_Main Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R10_Motor Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R10_Sep Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R11_Main Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R11_Motor Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R11_Sep Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R12_Main Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R12_Motor Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R12_Sep Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R13_Main Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R13_Motor Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R13_Sep Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R14_Main Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R14_Motor Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R14_Sep Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R15_Main Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R15_Motor Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R15_Sep Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R16 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R19 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R20 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R21 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R22 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R23 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R24 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R25 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R26 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R27 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R28 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R29 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R30 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R31 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R32 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R37_U_Blue_LED1 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R37_U_Blue_LED2 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R37_U_Blue_LED3 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R38_U_Blue_LED1 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R38_U_Blue_LED2 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R38_U_Blue_LED3 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R42_LVCS Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R42_LVMISO Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R42_LVMOSI Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R42_LVRX1 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R42_LVRX2 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R42_LVSCLK Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R42_LVTX1 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R42_LVTX2 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R43_LVCS Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R43_LVMISO Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R43_LVMOSI Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R43_LVRX1 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R43_LVRX2 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R43_LVSCLK Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R43_LVTX1 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R43_LVTX2 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R46 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R47 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R48 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R49 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R50 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R51 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R52 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R53 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R54 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R55 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R56 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R57 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R58 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R59 Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R+5_AIN01 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=R+5_AIN02 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=R+5_AIN11 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=R+5_AIN12 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=R+5_AIN21 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=R+5_AIN22 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=R+5_AIN31 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=R+5_AIN32 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=R+33_AIN01 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=R+33_AIN02 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=R+33_AIN11 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=R+33_AIN12 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=R+33_AIN21 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=R+33_AIN22 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=R+33_AIN31 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=R+33_AIN32 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=R+? Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=R+? Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=R+? Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=R+? Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=R? Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R? Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=R? Old Footprint=J1-0603 New Footprint=J1-0603
+Change Physical Footprint: Designator=Raspberry Pi GPIO1 Old Footprint=RPI Through board connector New Footprint=RPI Through board connector
+Change Physical Footprint: Designator=RF_AIN01 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=RF_AIN02 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=RF_AIN11 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=RF_AIN12 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=RF_AIN21 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=RF_AIN22 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=RF_AIN31 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=RF_AIN32 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=RGND_AIN01 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=RGND_AIN02 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=RGND_AIN11 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=RGND_AIN12 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=RGND_AIN21 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=RGND_AIN22 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=RGND_AIN31 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=RGND_AIN32 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=0603 to 0805 SMD - duplicate
+Change Physical Footprint: Designator=S1 Old Footprint=Screw Switch New Footprint=Screw Switch
+Change Physical Footprint: Designator=S2 Old Footprint=Screw Switch New Footprint=Screw Switch
+Change Physical Footprint: Designator=S3 Old Footprint=Screw Switch New Footprint=Screw Switch
+Change Physical Footprint: Designator=S4 Old Footprint=*434153017835 New Footprint=*434153017835
+Change Physical Footprint: Designator=SCLK/CS1 Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=SQB1_Main Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=SQB1_Motor Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=SQB1_Sep Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=SW1 Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=T1_U_ADC1 Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=T1_U_ADC2 Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=T2_U_ADC1 Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=T2_U_ADC2 Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=T3_Main_Ind Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T3_Motor_Ind Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T3_Sep_Ind Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T4_Main Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T4_Motor Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T4_Sep Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T5_Main Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T5_Motor Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T5_Sep Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T6 Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T7_U_Blue_LED1 Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T7_U_Blue_LED2 Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T7_U_Blue_LED3 Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T10 Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T11 Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T? Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=T? Old Footprint=SOT95P280X125-3N New Footprint=SOT95P280X125-3N
+Change Physical Footprint: Designator=U1 Old Footprint=LGA16R50P5X3_300X300X100N New Footprint=LGA16R50P5X3_300X300X100N
+Change Physical Footprint: Designator=U2_U_ADC1 Old Footprint=SOP65P640X120-16N New Footprint=SOP65P640X120-16N
+Change Physical Footprint: Designator=U2_U_ADC2 Old Footprint=SOP65P640X120-16N New Footprint=SOP65P640X120-16N
+Change Physical Footprint: Designator=U3 Old Footprint=PQFN50P200X200X80-10N New Footprint=PQFN50P200X200X80-10N
+Change Physical Footprint: Designator=U4 Old Footprint=L3GD20HTR New Footprint=L3GD20HTR
+Change Physical Footprint: Designator=U5 Old Footprint=QFN New Footprint=QFN
+Change Physical Footprint: Designator=U6 Old Footprint=*DPAK229P990X238-4N New Footprint=*DPAK229P990X238-4N
+Change Physical Footprint: Designator=U7 Old Footprint=*MODULE_ESP32-WROOM-32D New Footprint=*MODULE_ESP32-WROOM-32D
+Change Physical Footprint: Designator=U8 Old Footprint=*TO170P1435X465-6N New Footprint=*TO170P1435X465-6N
+Change Physical Footprint: Designator=U9 Old Footprint=*TO170P1435X465-6N New Footprint=*TO170P1435X465-6N
+Change Physical Footprint: Designator=U10 Old Footprint=*TO170P1435X465-6N New Footprint=*TO170P1435X465-6N
+Change Physical Footprint: Designator=U? Old Footprint=*XDCR_ACS70331EESATR-005B3 New Footprint=*XDCR_ACS70331EESATR-005B3
+Change Physical Footprint: Designator=U? Old Footprint=*SENSOR_ACS711KEXLT-15AB-T New Footprint=*SENSOR_ACS711KEXLT-15AB-T
+Change Physical Footprint: Designator=UART1_LVLESP Old Footprint=Screw Terminal New Footprint=Screw Terminal
+Change Physical Footprint: Designator=UART1_LVLPI/ESP Old Footprint=Screw Terminal New Footprint=Screw Terminal

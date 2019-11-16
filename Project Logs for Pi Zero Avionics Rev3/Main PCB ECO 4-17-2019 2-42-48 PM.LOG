@@ -1,0 +1,139 @@
+Change Component Footprint: Designator=C3_U_ADC1 Old Footprint=RAD-0.3 New Footprint=0603 to 0805 SMD - duplicate
+Change Component Footprint: Designator=C3_U_ADC2 Old Footprint=RAD-0.3 New Footprint=0603 to 0805 SMD - duplicate
+Change Component Footprint: Designator=C6_U_ADC1 Old Footprint=RAD-0.3 New Footprint=0603 to 0805 SMD - duplicate
+Change Component Footprint: Designator=C6_U_ADC2 Old Footprint=RAD-0.3 New Footprint=0603 to 0805 SMD - duplicate
+Change Component Footprint: Designator=C7_U_ADC1 Old Footprint=RAD-0.3 New Footprint=0603 to 0805 SMD - duplicate
+Change Component Footprint: Designator=C7_U_ADC2 Old Footprint=RAD-0.3 New Footprint=0603 to 0805 SMD - duplicate
+Change Component Footprint: Designator=CF_AIN01 Old Footprint=RAD-0.3 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=CF_AIN02 Old Footprint=RAD-0.3 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=CF_AIN11 Old Footprint=RAD-0.3 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=CF_AIN12 Old Footprint=RAD-0.3 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=CF_AIN21 Old Footprint=RAD-0.3 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=CF_AIN22 Old Footprint=RAD-0.3 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=CF_AIN31 Old Footprint=RAD-0.3 New Footprint=0603 to 1210 SMD
+Change Component Footprint: Designator=CF_AIN32 Old Footprint=RAD-0.3 New Footprint=0603 to 1210 SMD
+Change component parameters: Designator = "T1_U_ADC1"; Footprint = "Screw Terminal"; UniqueID = "\FTCSWPXX\DKLCGXLB\TMXTPBXR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2609-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "T1_U_ADC2"; Footprint = "Screw Terminal"; UniqueID = "\FTCSWPXX\ECQSQFWL\TMXTPBXR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2609-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "T2_U_ADC1"; Footprint = "Screw Terminal"; UniqueID = "\FTCSWPXX\DKLCGXLB\UQYCICAG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2609-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "T2_U_ADC2"; Footprint = "Screw Terminal"; UniqueID = "\FTCSWPXX\ECQSQFWL\UQYCICAG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2609-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_U_ADC1"; Footprint = "J1-0603"; UniqueID = "\FTCSWPXX\DKLCGXLB\IQRSGCJW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_U_ADC2"; Footprint = "J1-0603"; UniqueID = "\FTCSWPXX\ECQSQFWL\IQRSGCJW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_U_ADC1"; Footprint = "J1-0603"; UniqueID = "\FTCSWPXX\DKLCGXLB\YVJMDKQA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_U_ADC2"; Footprint = "J1-0603"; UniqueID = "\FTCSWPXX\ECQSQFWL\YVJMDKQA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_U_ADC1"; Footprint = "J1-0603"; UniqueID = "\FTCSWPXX\DKLCGXLB\FMXEPFQH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_U_ADC2"; Footprint = "J1-0603"; UniqueID = "\FTCSWPXX\ECQSQFWL\FMXEPFQH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4_U_ADC1"; Footprint = "J1-0603"; UniqueID = "\FTCSWPXX\DKLCGXLB\OGUUSWJE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4_U_ADC2"; Footprint = "J1-0603"; UniqueID = "\FTCSWPXX\ECQSQFWL\OGUUSWJE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V_Clean Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V Screw Terminal
+Added Room: Name=AIN01
+Added Room: Name=AIN02
+Added Room: Name=AIN11
+Added Room: Name=AIN12
+Added Room: Name=AIN21
+Added Room: Name=AIN22
+Added Room: Name=AIN31
+Added Room: Name=AIN32
+Added Room: Name=Bz
+Added Room: Name=ESP
+Added Room: Name=LVLESP
+Added Room: Name=LVLPI/ESP
+Added Room: Name=LVMISO
+Added Room: Name=LVMOSI
+Added Room: Name=LVSCLK
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Main_Ind
+Added Room: Name=Motor
+Added Room: Name=Motor_Ind
+Added Room: Name=PWR
+Added Room: Name=Sep
+Added Room: Name=Sep_Ind
+Added Room: Name=SPI-IO
+Added Room: Name=U_Accelerometer
+Added Room: Name=U_ADC1
+Added Room: Name=U_ADC2
+Added Room: Name=U_Barometer
+Added Room: Name=U_Blue_LED1
+Added Room: Name=U_Blue_LED2
+Added Room: Name=U_Blue_LED3
+Added Room: Name=U_Gyroscope
+Added Room: Name=UART

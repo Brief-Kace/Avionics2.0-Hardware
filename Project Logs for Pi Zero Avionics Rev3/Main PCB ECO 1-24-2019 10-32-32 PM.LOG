@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetRPi_23 Pin=U?-3
+Removed Pin From Net: NetName=NetRPi_21 Pin=U?-6
+Removed Member From Class: ClassName=Accelerometer Member=U?
+Removed Member From Class: ClassName=ADC Member=U?
+Removed Member From Class: ClassName=Barometer Member=U?
+Removed Member From Class: ClassName=Magnetometer Member=U?
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=NetRPi_12 Pin=U3-6
+Added Member To Class: ClassName=Accelerometer Member=Component U1 LIS3DSHTR
+Added Member To Class: ClassName=ADC Member=Component U2 ADS1118IDGSR
+Added Member To Class: ClassName=Barometer Member=Component U3 BMP388
+Added Room: Name=Accelerometer
+Added Room: Name=ADC
+Added Room: Name=Barometer
+Added Room: Name=DD
+Added Room: Name=Gyroscope
+Added Room: Name=Ind
+Added Room: Name=Indicator LED
+Added Room: Name=Indicator LED
+Added Room: Name=Magnetometer
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Sep
+Added Room: Name=Sep
+Added Room: Name=U_Voltage Regulation

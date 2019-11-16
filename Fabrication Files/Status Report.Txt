@@ -1,0 +1,13 @@
+Output: Hat
+Type  : NC Drill
+From  : PCB Document [HAT PCB.PcbDoc]
+   Generated File[HAT PCB-RoundHoles.TXT]
+   Generated File[HAT PCB-SlotHoles.TXT]
+   Generated File[HAT PCB.LDP]
+   Generated File[HAT PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 2:38:42 PM On 11/15/2019

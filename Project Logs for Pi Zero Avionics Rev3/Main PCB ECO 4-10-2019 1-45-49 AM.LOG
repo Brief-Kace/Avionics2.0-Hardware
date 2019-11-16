@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=NetD6_2 Pin=L1-1
+Removed Pin From Net: NetName=5V Pin=L1-2
+Removed Member From Class: ClassName=PWR Member=L1
+Added Component: Designator=L?(*INDM1200X1200X1000N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7447709330"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210 Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7447709330/Wurth%20Electronics%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD6_2 Pin=L?-1
+Added Pin To Net: NetName=5V Pin=L?-2
+Added Member To Class: ClassName=PWR Member=Component +3.3- Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component +3.3- Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component +5- Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component +5- Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component +5- Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component L? 7447709330
+Added Room: Name=Bz
+Added Room: Name=ESP
+Added Room: Name=LVLESP
+Added Room: Name=LVLPI/ESP
+Added Room: Name=LVMISO
+Added Room: Name=LVMOSI
+Added Room: Name=LVSCLK
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Main_Ind
+Added Room: Name=Motor
+Added Room: Name=Motor_Ind
+Added Room: Name=PWR
+Added Room: Name=Sep
+Added Room: Name=Sep_Ind
+Added Room: Name=SPI-IO
+Added Room: Name=U_Accelerometer
+Added Room: Name=U_ADC1
+Added Room: Name=U_ADC2
+Added Room: Name=U_ADC RC Network1
+Added Room: Name=U_ADC RC Network2
+Added Room: Name=U_ADC RC Network3
+Added Room: Name=U_ADC RC Network4
+Added Room: Name=U_ADC RC Network5
+Added Room: Name=U_ADC RC Network6
+Added Room: Name=U_ADC RC Network7
+Added Room: Name=U_ADC RC Network8
+Added Room: Name=U_Barometer
+Added Room: Name=U_Blue_LED1
+Added Room: Name=U_Blue_LED2
+Added Room: Name=U_Blue_LED3
+Added Room: Name=U_Gyroscope
+Added Room: Name=U_Magnetometer
+Added Room: Name=UART

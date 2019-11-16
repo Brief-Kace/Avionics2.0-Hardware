@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetD1_Sep_IND_2 Pin=Raspberry Pi GPIO1-38
+Removed Pin From Net: NetName=NetD1_Motor_IND_2 Pin=Raspberry Pi GPIO1-40
+Added Pin To Net: NetName=NetD1_Motor_IND_2 Pin=Raspberry Pi GPIO1-38
+Added Pin To Net: NetName=NetD1_Sep_IND_2 Pin=Raspberry Pi GPIO1-40
+Change Room Name: Old Name=Main_1 New Name=Main

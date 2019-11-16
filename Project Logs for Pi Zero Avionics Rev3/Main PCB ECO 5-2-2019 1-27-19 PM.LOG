@@ -1,0 +1,147 @@
+Removed Member From Class: ClassName=Bz Member=R11
+Removed Member From Class: ClassName=ESP Member=R12
+Removed Member From Class: ClassName=ESP Member=R13
+Removed Member From Class: ClassName=ESP Member=R14
+Removed Member From Class: ClassName=ESP Member=R15
+Removed Member From Class: ClassName=ESP Member=R64
+Removed Member From Class: ClassName=ESP Member=R68
+Removed Member From Class: ClassName=ESP Member=R69
+Removed Member From Class: ClassName=ESP Member=R70
+Removed Member From Class: ClassName=ESP Member=R71
+Removed Member From Class: ClassName=ESP Member=R72
+Removed Member From Class: ClassName=ESP Member=R74
+Removed Member From Class: ClassName=ESP Member=R75
+Removed Member From Class: ClassName=ESP Member=R76
+Added Component: Designator=R?(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RGND?_AIN01(0603 to 0805 SMD - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RGND?_AIN02(0603 to 0805 SMD - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RGND?_AIN11(0603 to 0805 SMD - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RGND?_AIN12(0603 to 0805 SMD - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RGND?_AIN21(0603 to 0805 SMD - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RGND?_AIN22(0603 to 0805 SMD - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RGND?_AIN31(0603 to 0805 SMD - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RGND?_AIN32(0603 to 0805 SMD - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=T?(SOT95P280X125-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222ALT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222ALT1/ON%20Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MMBT2222ATPMSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR26_1 Pin=R?-1
+Added Pin To Net: NetName=NetC7_U_ADC1_1 Pin=RGND?_AIN01-1
+Added Pin To Net: NetName=GND Pin=RGND?_AIN01-2
+Added Pin To Net: NetName=NetC7_U_ADC2_1 Pin=RGND?_AIN02-1
+Added Pin To Net: NetName=GND Pin=RGND?_AIN02-2
+Added Pin To Net: NetName=NetC7_U_ADC1_2 Pin=RGND?_AIN11-1
+Added Pin To Net: NetName=GND Pin=RGND?_AIN11-2
+Added Pin To Net: NetName=NetC7_U_ADC2_2 Pin=RGND?_AIN12-1
+Added Pin To Net: NetName=GND Pin=RGND?_AIN12-2
+Added Pin To Net: NetName=NetC3_U_ADC1_1 Pin=RGND?_AIN21-1
+Added Pin To Net: NetName=GND Pin=RGND?_AIN21-2
+Added Pin To Net: NetName=NetC3_U_ADC2_1 Pin=RGND?_AIN22-1
+Added Pin To Net: NetName=GND Pin=RGND?_AIN22-2
+Added Pin To Net: NetName=NetC3_U_ADC1_2 Pin=RGND?_AIN31-1
+Added Pin To Net: NetName=GND Pin=RGND?_AIN31-2
+Added Pin To Net: NetName=NetC3_U_ADC2_2 Pin=RGND?_AIN32-1
+Added Pin To Net: NetName=GND Pin=RGND?_AIN32-2
+Added Pin To Net: NetName=GND Pin=T?-2
+Added Pin To Net: NetName=NetLS1_2 Pin=T?-3
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=T?-1
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=ESP Member=Component R28 Res3
+Added Member To Class: ClassName=ESP Member=Component R30 Res3
+Added Member To Class: ClassName=ESP Member=Component R31 Res3
+Added Member To Class: ClassName=ESP Member=Component R32 Res3
+Added Member To Class: ClassName=ESP Member=Component R42 Res3
+Added Member To Class: ClassName=ESP Member=Component R46 Res3
+Added Member To Class: ClassName=ESP Member=Component R47 Res3
+Added Member To Class: ClassName=ESP Member=Component R48 Res3
+Added Member To Class: ClassName=ESP Member=Component R49 Res3
+Added Member To Class: ClassName=Bz Member=Component R? Res3
+Added Member To Class: ClassName=AIN01 Member=Component RGND?_AIN01 (RGND?) Res3
+Added Member To Class: ClassName=AIN02 Member=Component RGND?_AIN02 (RGND?) Res3
+Added Member To Class: ClassName=AIN11 Member=Component RGND?_AIN11 (RGND?) Res3
+Added Member To Class: ClassName=AIN12 Member=Component RGND?_AIN12 (RGND?) Res3
+Added Member To Class: ClassName=AIN21 Member=Component RGND?_AIN21 (RGND?) Res3
+Added Member To Class: ClassName=AIN22 Member=Component RGND?_AIN22 (RGND?) Res3
+Added Member To Class: ClassName=AIN31 Member=Component RGND?_AIN31 (RGND?) Res3
+Added Member To Class: ClassName=AIN32 Member=Component RGND?_AIN32 (RGND?) Res3
+Added Member To Class: ClassName=Bz Member=Component T? MMBT2222ALT1

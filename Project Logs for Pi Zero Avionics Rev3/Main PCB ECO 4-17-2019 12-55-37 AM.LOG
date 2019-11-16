@@ -1,0 +1,46 @@
+Added Pin To Net: NetName=VBAT Pin=C23-2
+Added Pin To Net: NetName=VBAT Pin=C34-2
+Added Pin To Net: NetName=VBAT Pin=Q4-3
+Added Pin To Net: NetName=VBAT Pin=R17-2
+Added Pin To Net: NetName=VBAT Pin=R54-2
+Added Pin To Net: NetName=VBAT Pin=R57-2
+Added Pin To Net: NetName=VBAT Pin=SW1-1
+Added Pin To Net: NetName=VBAT Pin=U8-2
+Added Pin To Net: NetName=VBAT Pin=U9-1
+Change Net Name : Old Net Name=PWR_EN New Net Name=NetC34_1
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V_Clean Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V Screw Terminal
+Added Room: Name=AIN01
+Added Room: Name=AIN02
+Added Room: Name=AIN11
+Added Room: Name=AIN12
+Added Room: Name=AIN21
+Added Room: Name=AIN22
+Added Room: Name=AIN31
+Added Room: Name=AIN32
+Added Room: Name=Bz
+Added Room: Name=ESP
+Added Room: Name=LVLPI/ESP
+Added Room: Name=LVMISO
+Added Room: Name=LVMOSI
+Added Room: Name=LVSCLK
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Main_Ind
+Added Room: Name=Motor
+Added Room: Name=Motor_Ind
+Added Room: Name=PWR
+Added Room: Name=Sep
+Added Room: Name=Sep_Ind
+Added Room: Name=SPI-IO
+Added Room: Name=U_Accelerometer
+Added Room: Name=U_ADC1
+Added Room: Name=U_ADC2
+Added Room: Name=U_Barometer
+Added Room: Name=U_Blue_LED1
+Added Room: Name=U_Blue_LED2
+Added Room: Name=U_Blue_LED3
+Added Room: Name=U_Gyroscope
+Added Room: Name=UART

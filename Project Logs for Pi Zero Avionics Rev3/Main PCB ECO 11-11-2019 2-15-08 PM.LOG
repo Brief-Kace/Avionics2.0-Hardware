@@ -1,0 +1,103 @@
+Removed Pin From Net: NetName=MOSI Pin=R68-1
+Removed Pin From Net: NetName=MISO Pin=R69-1
+Removed Pin From Net: NetName=SCL Pin=R73-1
+Removed Pin From Net: NetName=NetR18_1 Pin=R74-1
+Change Component Footprint: Designator=C11 Old Footprint=0603 to 0805 SMD New Footprint=0603 Footprint
+Change Component Footprint: Designator=C12 Old Footprint=0603 to 0805 SMD New Footprint=0603 Footprint
+Change Component Footprint: Designator=C15 Old Footprint=0603 to 0805 SMD New Footprint=0603 Footprint
+Change Component Footprint: Designator=C16 Old Footprint=0603 to 0805 SMD New Footprint=0603 Footprint
+Change Component Footprint: Designator=C17 Old Footprint=0603 to 0805 SMD New Footprint=0603 Footprint
+Change Component Footprint: Designator=C18 Old Footprint=0603 to 0805 SMD New Footprint=0603 Footprint
+Change Component Footprint: Designator=C32 Old Footprint=0603 to 0805 SMD New Footprint=0603 Footprint
+Change Component Footprint: Designator=L1 Old Footprint=INDUCTOR New Footprint=*INDM1200X1200X1000N
+Change Component Designator: OldDesignator=C4 NewDesignator=C4_U_ADC2
+Change Component Designator: OldDesignator=C5 NewDesignator=C5_U_ADC2
+Change Component Designator: OldDesignator=C6 NewDesignator=C6_U_ADC2
+Change Component Designator: OldDesignator=C9 NewDesignator=C9_U_ADC2
+Change Component Designator: OldDesignator=C10 NewDesignator=C10_U_ADC2
+Change Component Designator: OldDesignator=R1 NewDesignator=R1_U_ADC2
+Change Component Designator: OldDesignator=R2 NewDesignator=R2_U_ADC2
+Change Component Designator: OldDesignator=R3 NewDesignator=R3_U_ADC2
+Change Component Designator: OldDesignator=R4 NewDesignator=R4_U_ADC2
+Change Component Designator: OldDesignator=R5 NewDesignator=R5_U_ADC2
+Change Component Designator: OldDesignator=R6 NewDesignator=R6_U_ADC2
+Change Component Designator: OldDesignator=R76 NewDesignator=R76_LVLESP
+Change Component Designator: OldDesignator=R76 NewDesignator=R76_LVLPI/ESP
+Change Component Designator: OldDesignator=R77 NewDesignator=R77_LVLESP
+Change Component Designator: OldDesignator=R77 NewDesignator=R77_LVLPI/ESP
+Change Component Designator: OldDesignator=U2 NewDesignator=U2_U_ADC2
+Change component parameters: Designator = "L1"; Footprint = "*INDM1200X1200X1000N"; UniqueID = "\KWXKXJJO\OXDTHLEG\EBCYXXED"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "7447709330"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1210 Würth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7447709330/Wurth%20Electronics%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "732-1244-6-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805 Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=ESP_VCC Pin=C?-2
+Added Member To Class: ClassName=U_ADC2 Member=Component C4_U_ADC2 (C4) Cap
+Added Member To Class: ClassName=U_ADC2 Member=Component C5_U_ADC2 (C5) Cap
+Added Member To Class: ClassName=U_ADC2 Member=Component C6_U_ADC2 (C6) Cap
+Added Member To Class: ClassName=U_ADC2 Member=Component C9_U_ADC2 (C9) Cap
+Added Member To Class: ClassName=U_ADC2 Member=Component C10_U_ADC2 (C10) Cap
+Added Member To Class: ClassName=PWR Member=Component C33 Cap
+Added Member To Class: ClassName=PWR Member=Component C? Cap
+Added Member To Class: ClassName=U_ADC2 Member=Component R1_U_ADC2 (R1) Res3
+Added Member To Class: ClassName=U_ADC2 Member=Component R2_U_ADC2 (R2) Res3
+Added Member To Class: ClassName=U_ADC2 Member=Component R3_U_ADC2 (R3) Res3
+Added Member To Class: ClassName=U_ADC2 Member=Component R4_U_ADC2 (R4) Res3
+Added Member To Class: ClassName=U_ADC2 Member=Component R5_U_ADC2 (R5) Res3
+Added Member To Class: ClassName=U_ADC2 Member=Component R6_U_ADC2 (R6) Res3
+Added Member To Class: ClassName=LVLPI/ESP Member=Component R76_LVLPI/ESP (R76) Res3
+Added Member To Class: ClassName=LVLPI/ESP Member=Component R77_LVLPI/ESP (R77) Res3
+Added Member To Class: ClassName=U_ADC2 Member=Component U2_U_ADC2 (U2) Analog to Digital Converter
+Added Room: Name=ACT_IND
+Added Room: Name=ACT_Ind
+Added Room: Name=AIN01
+Added Room: Name=AIN02
+Added Room: Name=AIN11
+Added Room: Name=AIN12
+Added Room: Name=AIN21
+Added Room: Name=AIN22
+Added Room: Name=AIN31
+Added Room: Name=AIN32
+Added Room: Name=Bz
+Added Room: Name=ERR_Ind2
+Added Room: Name=ESP
+Added Room: Name=LVLESP
+Added Room: Name=LVLPI/ESP
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Main_IND
+Added Room: Name=Motor
+Added Room: Name=Motor_IND
+Added Room: Name=PWR
+Added Room: Name=Sep
+Added Room: Name=Sep_IND
+Added Room: Name=U_Accelerometer
+Added Room: Name=U_ADC1
+Added Room: Name=U_ADC2
+Added Room: Name=U_Barometer
+Added Room: Name=U_ESP power
+Added Room: Name=U_Gyroscope
+Added Room: Name=U_Magnetometer
+Added Room: Name=U_Power IO
+Added Room: Name=U_Regulators
+Added Room: Name=U_Squib_Managment
+Added Room: Name=UART
+Added Room: Name=Voltage_Indicator1
+Added Room: Name=Voltage_Indicator2
+Added Room: Name=Voltage_Indicator3

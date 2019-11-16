@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=D1-2
+Removed Pin From Net: NetName=NetR1_1 Pin=R1-1
+Removed Pin From Net: NetName=NetD1_2 Pin=R1-2
+Removed Pin From Net: NetName=NetR2_1 Pin=R2-1
+Removed Pin From Net: NetName=NetR2_2 Pin=R2-2
+Removed Pin From Net: NetName=NetR2_1 Pin=R6_Sep-1
+Removed Pin From Net: NetName=NetR2_1 Pin=RPi-40
+Removed Pin From Net: NetName=NetR2_2 Pin=T1-1
+Removed Pin From Net: NetName=NetR1_1 Pin=T1-3
+Removed Member From Class: ClassName=Main Member=D3_MAIN
+Removed Member From Class: ClassName=Sep Member=D3_SEP
+Removed Member From Class: ClassName=Main Member=R18_MAIN
+Removed Member From Class: ClassName=Sep Member=R18_SEP
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetD1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_1 Pin=R6_Sep-1
+Added Pin To Net: NetName=NetR2_1 Pin=RPi-40
+Added Pin To Net: NetName=NetR2_2 Pin=T1-1
+Added Pin To Net: NetName=NetR1_1 Pin=T1-3
+Change Room Name: Old Name=Indicator LED_1 New Name=Indicator LED
+Added Room: Name=Main
+Added Room: Name=MAIN
+Added Room: Name=SEP

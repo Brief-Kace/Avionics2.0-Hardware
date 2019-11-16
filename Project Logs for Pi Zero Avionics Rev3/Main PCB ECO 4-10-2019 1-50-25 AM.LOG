@@ -1,0 +1,45 @@
+Change Component Footprint: Designator=D6 Old Footprint=DO-35 New Footprint=*DO-214AC
+Change Component Comment : Designator=D6 Old Comment=Diode 1N914 New Comment=Buck Diode
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change component parameters: Designator = "D6"; Footprint = "*DO-214AC"; UniqueID = "\KWXKXJJO\LMGEWKHC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "VSSC8L45-M3/9ATGICT-ND"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=PWR Member=Component +3.3- Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component +3.3- Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component +5- Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component +5- Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component +5- Screw Terminal
+Added Room: Name=Bz
+Added Room: Name=ESP
+Added Room: Name=LVLESP
+Added Room: Name=LVLPI/ESP
+Added Room: Name=LVMISO
+Added Room: Name=LVMOSI
+Added Room: Name=LVSCLK
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Main_Ind
+Added Room: Name=Motor
+Added Room: Name=Motor_Ind
+Added Room: Name=Sep
+Added Room: Name=Sep_Ind
+Added Room: Name=SPI-IO
+Added Room: Name=U_Accelerometer
+Added Room: Name=U_ADC1
+Added Room: Name=U_ADC2
+Added Room: Name=U_ADC RC Network1
+Added Room: Name=U_ADC RC Network2
+Added Room: Name=U_ADC RC Network3
+Added Room: Name=U_ADC RC Network4
+Added Room: Name=U_ADC RC Network5
+Added Room: Name=U_ADC RC Network6
+Added Room: Name=U_ADC RC Network7
+Added Room: Name=U_ADC RC Network8
+Added Room: Name=U_Barometer
+Added Room: Name=U_Blue_LED1
+Added Room: Name=U_Blue_LED2
+Added Room: Name=U_Blue_LED3
+Added Room: Name=U_Gyroscope
+Added Room: Name=U_Magnetometer
+Added Room: Name=UART

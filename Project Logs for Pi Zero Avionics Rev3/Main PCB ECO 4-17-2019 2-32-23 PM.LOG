@@ -1,0 +1,233 @@
+Change Component Footprint: Designator=R+5_AIN01 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=R+5_AIN02 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=R+5_AIN11 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=R+5_AIN12 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=R+5_AIN21 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=R+5_AIN22 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=R+5_AIN31 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=R+5_AIN32 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=R+33_AIN01 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=R+33_AIN02 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=R+33_AIN11 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=R+33_AIN12 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=R+33_AIN21 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=R+33_AIN22 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=R+33_AIN31 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=R+33_AIN32 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=RF_AIN01 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=RF_AIN02 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=RF_AIN11 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=RF_AIN12 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=RF_AIN21 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=RF_AIN22 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=RF_AIN31 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=RF_AIN32 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=RGND_AIN01 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=RGND_AIN02 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=RGND_AIN11 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=RGND_AIN12 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=RGND_AIN21 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=RGND_AIN22 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=RGND_AIN31 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=RGND_AIN32 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=J1-0603
+Change Component Footprint: Designator=C3_U_ADC1 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=RAD-0.3
+Change Component Footprint: Designator=C3_U_ADC2 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=RAD-0.3
+Change Component Footprint: Designator=C6_U_ADC1 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=RAD-0.3
+Change Component Footprint: Designator=C6_U_ADC2 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=RAD-0.3
+Change Component Footprint: Designator=C7_U_ADC1 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=RAD-0.3
+Change Component Footprint: Designator=C7_U_ADC2 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=RAD-0.3
+Change Component Footprint: Designator=CF_AIN01 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=RAD-0.3
+Change Component Footprint: Designator=CF_AIN02 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=RAD-0.3
+Change Component Footprint: Designator=CF_AIN11 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=RAD-0.3
+Change Component Footprint: Designator=CF_AIN12 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=RAD-0.3
+Change Component Footprint: Designator=CF_AIN21 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=RAD-0.3
+Change Component Footprint: Designator=CF_AIN22 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=RAD-0.3
+Change Component Footprint: Designator=CF_AIN31 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=RAD-0.3
+Change Component Footprint: Designator=CF_AIN32 Old Footprint=0603 to 0805 SMD - duplicate New Footprint=RAD-0.3
+Change Component Footprint: Designator=C18 Old Footprint=0805 Footprint New Footprint=RAD-0.3
+Change Component Footprint: Designator=C19 Old Footprint=0805 Footprint New Footprint=RAD-0.3
+Change component parameters: Designator = "3.3V"; Footprint = "Screw Terminal"; UniqueID = "\KWXKXJJO\PGPODDUA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2609-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "3.3V"; Footprint = "Screw Terminal"; UniqueID = "\KWXKXJJO\IBFPNNUB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2609-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "3.3V"; Footprint = "Screw Terminal"; UniqueID = "\KWXKXJJO\CJXLREJG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2609-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "5V"; Footprint = "Screw Terminal"; UniqueID = "\KWXKXJJO\VUNIWDRR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2609-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "5V"; Footprint = "Screw Terminal"; UniqueID = "\KWXKXJJO\UVWLJHGJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2609-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "5V_Clean"; Footprint = "Screw Terminal"; UniqueID = "\KWXKXJJO\RNPXPFND"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2609-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "5V_Clean"; Footprint = "Screw Terminal"; UniqueID = "\KWXKXJJO\KNQWUPIF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2609-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "BAT_IN1"; Footprint = "Screw Terminal"; UniqueID = "\KWXKXJJO\TEXXMMVH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2609-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW1"; Footprint = "Screw Terminal"; UniqueID = "\KWXKXJJO\OQTOCNMP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2609-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21"; Footprint = "0603 to 1210 SMD"; UniqueID = "\KWXKXJJO\EWHIKWWO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22"; Footprint = "0603 Footprint"; UniqueID = "\KWXKXJJO\SNJUJFWS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23"; Footprint = "0603 to 1210 SMD"; UniqueID = "\KWXKXJJO\PYXQIUPW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24"; Footprint = "0805 Footprint"; UniqueID = "\KWXKXJJO\NJWYGVVB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25"; Footprint = "0603 to 1210 SMD"; UniqueID = "\KWXKXJJO\PHSIPAYX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26"; Footprint = "0603 Footprint"; UniqueID = "\KWXKXJJO\AXSNYOWN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28"; Footprint = "0603 to 1210 SMD"; UniqueID = "\KWXKXJJO\AYQQTOYK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30"; UniqueID = "\KWXKXJJO\BSBGTOJN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31"; Footprint = "0603 Footprint"; UniqueID = "\KWXKXJJO\CELSUMRS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C34"; Footprint = "0603 Footprint"; UniqueID = "\KWXKXJJO\VHHEIPAL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R50"; Footprint = "J1-0603"; UniqueID = "\KWXKXJJO\UOKOQRWT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3065"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R52"; Footprint = "J1-0603"; UniqueID = "\KWXKXJJO\BQPHCAAG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R53"; Footprint = "J1-0603"; UniqueID = "\KWXKXJJO\SDPSUURF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R54"; Footprint = "J1-0603"; UniqueID = "\KWXKXJJO\WGMVONTT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R56"; Footprint = "J1-0603"; UniqueID = "\KWXKXJJO\XGIOQSOC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "300k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R57"; Footprint = "J1-0603"; UniqueID = "\KWXKXJJO\NSQDVLXC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 3.3V Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V_Clean Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component 5V Screw Terminal
+Change Room Name: Old Name=Main_1 New Name=Main

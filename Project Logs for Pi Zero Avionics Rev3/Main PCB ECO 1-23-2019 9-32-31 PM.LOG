@@ -1,0 +1,56 @@
+Change Component Designator: OldDesignator=C1_Main_Squib NewDesignator=C1_Main
+Change Component Designator: OldDesignator=C1_Separator_Squib NewDesignator=C1_Sep
+Change Component Designator: OldDesignator=Q2_Main_Squib NewDesignator=Q2_Main
+Change Component Designator: OldDesignator=Q2_Separator_Squib NewDesignator=Q2_Sep
+Change Component Designator: OldDesignator=R1_Arm NewDesignator=R1_Sep
+Change Component Designator: OldDesignator=R1_Pi Indicator NewDesignator=R1_Ind
+Change Component Designator: OldDesignator=R1_Separator_LED NewDesignator=R1_DD
+Change Component Designator: OldDesignator=R2_Arm NewDesignator=R2_Sep
+Change Component Designator: OldDesignator=R2_Pi Indicator NewDesignator=R2_Ind
+Change Component Designator: OldDesignator=R2_Separator_LED NewDesignator=R2_DD
+Change Component Designator: OldDesignator=R4_Main_Squib NewDesignator=R4_Main
+Change Component Designator: OldDesignator=R4_Separator_Squib NewDesignator=R4_Sep
+Change Component Designator: OldDesignator=R5_Main_Squib NewDesignator=R5_Main
+Change Component Designator: OldDesignator=R5_Separator_Squib NewDesignator=R5_Sep
+Change Component Designator: OldDesignator=R6_Main_Squib NewDesignator=R6_Main
+Change Component Designator: OldDesignator=R6_Separator_Squib NewDesignator=R6_Sep
+Change Component Designator: OldDesignator=T1_Arm NewDesignator=T1_Sep
+Change Component Designator: OldDesignator=T1_Pi Indicator NewDesignator=T1_Ind
+Change Component Designator: OldDesignator=T1_Separator_LED NewDesignator=T1_DD
+Change Net Name : Old Net Name=NetQ2_Main_Squib_1 New Net Name=NetQ2_Main_1
+Change Net Name : Old Net Name=NetQ2_Separator_Squib_1 New Net Name=NetQ2_Sep_1
+Change Net Name : Old Net Name=NetR1_Arm_1 New Net Name=NetR1_Sep_1
+Change Net Name : Old Net Name=NetR1_Pi Indicator_1 New Net Name=NetR1_Ind_1
+Change Net Name : Old Net Name=NetR1_Separator_LED_1 New Net Name=NetR1_DD_1
+Change Net Name : Old Net Name=NetR2_Arm_1 New Net Name=NetR2_Sep_1
+Change Net Name : Old Net Name=NetR2_Arm_2 New Net Name=NetR2_Sep_2
+Change Net Name : Old Net Name=NetR2_Pi Indicator_1 New Net Name=NetR2_Ind_1
+Change Net Name : Old Net Name=NetR2_Pi Indicator_2 New Net Name=NetR2_Ind_2
+Change Net Name : Old Net Name=NetR2_Separator_LED_1 New Net Name=NetR2_DD_1
+Change Net Name : Old Net Name=NetR2_Separator_LED_2 New Net Name=NetR2_DD_2
+Added Pin To Net: NetName=Net*_DD_2 Pin=R1_DD-2
+Added Net: Name=Net*_DD_2
+Added Pin To Net: NetName=Net*_Ind_2 Pin=R1_Ind-2
+Added Net: Name=Net*_Ind_2
+Added Pin To Net: NetName=Net*_Sep_2 Pin=R1_Sep-2
+Added Net: Name=Net*_Sep_2
+Added Pin To Net: NetName=NetQ1_Main_2 Pin=Q2_Main-3
+Added Pin To Net: NetName=NetQ1_Main_2 Pin=R4_Main-2
+Added Net: Name=NetQ1_Main_2
+Added Pin To Net: NetName=NetQ1_Sep_2 Pin=Q2_Sep-3
+Added Pin To Net: NetName=NetQ1_Sep_2 Pin=R4_Sep-2
+Added Net: Name=NetQ1_Sep_2
+Added Pin To Net: NetName=NetQ1_Sep_3 Pin=R5_Sep-2
+Added Pin To Net: NetName=NetQ1_Sep_3 Pin=SEP1-1
+Added Net: Name=NetQ1_Sep_3
+Change Class Name : Old Net Name=Arm New Net Name=Sep
+Change Class Name : Old Net Name=Main_Squib New Net Name=Main
+Change Class Name : Old Net Name=Pi Indicator New Net Name=Ind
+Change Class Name : Old Net Name=Separator_LED New Net Name=DD
+Change Class Name : Old Net Name=Separator_Squib New Net Name=Sep
+Added Room: Name=DD
+Added Room: Name=Ind
+Added Room: Name=Main
+Added Room: Name=Main
+Added Room: Name=Sep
+Added Room: Name=Sep
