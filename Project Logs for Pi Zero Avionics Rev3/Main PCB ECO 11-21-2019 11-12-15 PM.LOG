@@ -1,0 +1,72 @@
+Removed Member From Class: ClassName=ADC 1 Member=C9
+Removed Member From Class: ClassName=Barometer Member=C52
+Removed Member From Class: ClassName=Barometer Member=C53
+Removed Member From Class: ClassName=Gyroscope Member=C54
+Removed Member From Class: ClassName=Gyroscope Member=C55
+Removed Member From Class: ClassName=Gyroscope Member=C56
+Removed Member From Class: ClassName=Gyroscope Member=C57
+Removed Member From Class: ClassName=Magnetometer Member=C58
+Removed Member From Class: ClassName=Magnetometer Member=C59
+Removed Member From Class: ClassName=AIN11 Member=C60
+Removed Member From Class: ClassName=U_ESP power Member=D1
+Removed Member From Class: ClassName=ERR_IndPi Member=D10
+Removed Member From Class: ClassName=Main Member=J18
+Removed Member From Class: ClassName=AIN02 Member=R54
+Removed Member From Class: ClassName=AIN01 Member=R57
+Removed Member From Class: ClassName=AIN22 Member=R72
+Removed Member From Class: ClassName=AIN22 Member=R73
+Removed Member From Class: ClassName=U_ESP power Member=R97
+Removed Member From Class: ClassName=U_ESP power Member=R98
+Removed Member From Class: ClassName=U_ESP power Member=R99
+Removed Member From Class: ClassName=U_ESP power Member=R100
+Removed Member From Class: ClassName=U_ESP power Member=R103
+Removed Member From Class: ClassName=AIN01 Member=R113
+Removed Member From Class: ClassName=AIN12 Member=R117
+Removed Member From Class: ClassName=AIN11 Member=R119
+Removed Member From Class: ClassName=AIN32 Member=R121
+Removed Member From Class: ClassName=AIN32 Member=R122
+Removed Member From Class: ClassName=AIN32 Member=R124
+Removed Member From Class: ClassName=AIN22 Member=R158
+Removed Member From Class: ClassName=U_ESP power Member=T2
+Removed Member From Class: ClassName=ADC 1 Member=U2
+Change Component Footprint: Designator=R117 Old Footprint=0603 to 0805 SMD New Footprint=0603 Footprint
+Change Component Footprint: Designator=R120 Old Footprint=0603 to 0805 SMD New Footprint=0603 Footprint
+Added Room: Name=Accelerometer
+Added Room: Name=ACT_IND
+Added Room: Name=ACT_IndESP
+Added Room: Name=ADC 1
+Added Room: Name=ADC 2
+Added Room: Name=AIN01
+Added Room: Name=AIN02
+Added Room: Name=AIN11
+Added Room: Name=AIN12
+Added Room: Name=AIN21
+Added Room: Name=AIN22
+Added Room: Name=AIN31
+Added Room: Name=AIN32
+Added Room: Name=Barometer
+Added Room: Name=Buzzer
+Added Room: Name=ERR_IndESP
+Added Room: Name=ERR_IndPi
+Added Room: Name=ESP
+Added Room: Name=ESP UART Output
+Added Room: Name=Gyroscope
+Added Room: Name=Magnetometer
+Added Room: Name=Main
+Added Room: Name=Main_IND
+Added Room: Name=Main_Squib
+Added Room: Name=Motor_IND
+Added Room: Name=Motor_Squib
+Added Room: Name=PWR
+Added Room: Name=Regulators
+Added Room: Name=Sep_IND
+Added Room: Name=Sep_Squib
+Added Room: Name=SPI Output
+Added Room: Name=Squib_Managment
+Added Room: Name=U_ESP power
+Added Room: Name=U_Power IO
+Added Room: Name=UART
+Added Room: Name=UART EXT
+Added Room: Name=Voltage_Indicator1
+Added Room: Name=Voltage_Indicator2
+Added Room: Name=Voltage_Indicator3

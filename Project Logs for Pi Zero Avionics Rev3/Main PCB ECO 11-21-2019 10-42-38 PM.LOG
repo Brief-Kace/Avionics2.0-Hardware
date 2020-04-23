@@ -1,0 +1,197 @@
+Removed Member From Class: ClassName=Gyroscope Member=C2
+Removed Member From Class: ClassName=ESP Member=C3_ADC 1
+Removed Member From Class: ClassName=Regulators Member=C3_ADC 1
+Removed Member From Class: ClassName=Regulators Member=C3_ADC 2
+Removed Member From Class: ClassName=Regulators Member=C5_ADC 1
+Removed Member From Class: ClassName=Regulators Member=C5_ADC 2
+Removed Member From Class: ClassName=Accelerometer Member=C6_ADC 1
+Removed Member From Class: ClassName=Accelerometer Member=C6_ADC 2
+Removed Member From Class: ClassName=ESP Member=C11
+Removed Member From Class: ClassName=ESP Member=C12
+Removed Member From Class: ClassName=ESP Member=C15
+Removed Member From Class: ClassName=ESP Member=C16
+Removed Member From Class: ClassName=Regulators Member=C29
+Removed Member From Class: ClassName=Regulators Member=C30
+Removed Member From Class: ClassName=PWR Member=C31_AIN01
+Removed Member From Class: ClassName=PWR Member=C31_AIN11
+Removed Member From Class: ClassName=ESP Member=C31_AIN12
+Removed Member From Class: ClassName=PWR Member=C31_AIN12
+Removed Member From Class: ClassName=PWR Member=C31_AIN21
+Removed Member From Class: ClassName=Squib_Managment Member=C31_AIN22
+Removed Member From Class: ClassName=ESP Member=C32
+Removed Member From Class: ClassName=Gyroscope Member=C32
+Removed Member From Class: ClassName=Regulators Member=C40
+Removed Member From Class: ClassName=ESP Member=C42
+Removed Member From Class: ClassName=Magnetometer Member=C47
+Removed Member From Class: ClassName=Magnetometer Member=C49
+Removed Member From Class: ClassName=ESP Member=C50
+Removed Member From Class: ClassName=Regulators Member=D3_Voltage_Indicator2
+Removed Member From Class: ClassName=U_ESP power Member=D3_Voltage_Indicator3
+Removed Member From Class: ClassName=U_Power IO Member=J1_ADC 2
+Removed Member From Class: ClassName=U_Power IO Member=J2_ADC 2
+Removed Member From Class: ClassName=U_Power IO Member=J3_Sep_Squib
+Removed Member From Class: ClassName=U_Power IO Member=J5
+Removed Member From Class: ClassName=U_Power IO Member=J15
+Removed Member From Class: ClassName=PWR Member=Q1_Sep_Squib
+Removed Member From Class: ClassName=Buzzer Member=R1_ADC 2
+Removed Member From Class: ClassName=ESP Member=R3_ADC 2
+Removed Member From Class: ClassName=Main Member=R18
+Removed Member From Class: ClassName=U_ESP power Member=R21
+Removed Member From Class: ClassName=U_ESP power Member=R33
+Removed Member From Class: ClassName=PWR Member=R51_AIN12
+Removed Member From Class: ClassName=PWR Member=R51_AIN31
+Removed Member From Class: ClassName=PWR Member=R52_AIN01
+Removed Member From Class: ClassName=PWR Member=R52_AIN02
+Removed Member From Class: ClassName=PWR Member=R52_AIN12
+Removed Member From Class: ClassName=PWR Member=R52_AIN21
+Removed Member From Class: ClassName=SPI Output Member=R52_AIN22
+Removed Member From Class: ClassName=PWR Member=R52_AIN31
+Removed Member From Class: ClassName=SPI Output Member=R52_AIN32
+Removed Member From Class: ClassName=ESP Member=R53_AIN01
+Removed Member From Class: ClassName=Main Member=R53_AIN01
+Removed Member From Class: ClassName=Main Member=R53_AIN02
+Removed Member From Class: ClassName=ESP Member=R53_AIN11
+Removed Member From Class: ClassName=Main Member=R53_AIN11
+Removed Member From Class: ClassName=Main Member=R53_AIN21
+Removed Member From Class: ClassName=ESP Member=R53_AIN31
+Removed Member From Class: ClassName=Main Member=R53_AIN31
+Removed Member From Class: ClassName=Main Member=R53_AIN32
+Removed Member From Class: ClassName=ESP Member=R55_AIN01
+Removed Member From Class: ClassName=Regulators Member=R55_AIN01
+Removed Member From Class: ClassName=Regulators Member=R55_AIN02
+Removed Member From Class: ClassName=Regulators Member=R55_AIN12
+Removed Member From Class: ClassName=ESP Member=R55_AIN22
+Removed Member From Class: ClassName=Regulators Member=R55_AIN22
+Removed Member From Class: ClassName=Regulators Member=R55_AIN32
+Removed Member From Class: ClassName=ESP Member=R56_Voltage_Indicator1
+Removed Member From Class: ClassName=ESP Member=R56_Voltage_Indicator2
+Removed Member From Class: ClassName=ESP Member=R56_Voltage_Indicator3
+Removed Member From Class: ClassName=ESP Member=R57_Voltage_Indicator1
+Removed Member From Class: ClassName=ESP Member=R57_Voltage_Indicator2
+Removed Member From Class: ClassName=Main Member=R79
+Removed Member From Class: ClassName=ESP Member=R80_Main_IND
+Removed Member From Class: ClassName=ESP Member=R80_Motor_IND
+Removed Member From Class: ClassName=ESP Member=R80_Sep_IND
+Removed Member From Class: ClassName=ESP Member=R81
+Removed Member From Class: ClassName=ESP Member=R85
+Removed Member From Class: ClassName=ESP Member=R91
+Removed Member From Class: ClassName=PWR Member=T1_Motor_Squib
+Removed Member From Class: ClassName=Buzzer Member=T2_Sep_Squib
+Removed Member From Class: ClassName=ESP Member=T2_Sep_Squib
+Removed Member From Class: ClassName=U_ESP power Member=T2_Sep_Squib
+Removed Member From Class: ClassName=Buzzer Member=T7_Voltage_Indicator1
+Removed Member From Class: ClassName=ESP Member=U1
+Removed Member From Class: ClassName=PWR Member=U3
+Removed Member From Class: ClassName=ESP Member=U4
+Removed Member From Class: ClassName=Squib_Managment Member=U4
+Removed Member From Class: ClassName=Accelerometer Member=U12
+Removed Member From Class: ClassName=Magnetometer Member=U12
+Change Component Footprint: Designator=R58 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R59 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R60 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R61 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R63 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R64 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R65 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R66 Old Footprint= New Footprint=0603 to 0805 SMD
+Change Component Footprint: Designator=R67 Old Footprint= New Footprint=0603 to 0805 SMD
+Added Component: Designator=R62(0603 to 0805 SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC33_1 Pin=R62-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R62-2
+Added Member To Class: ClassName=Accelerometer Member=Component C1 Cap
+Added Member To Class: ClassName=Accelerometer Member=Component C2 Cap
+Added Member To Class: ClassName=Gyroscope Member=Component C14 Cap
+Added Member To Class: ClassName=Gyroscope Member=Component C16 Cap
+Added Member To Class: ClassName=Magnetometer Member=Component C17 Cap
+Added Member To Class: ClassName=Magnetometer Member=Component C18 Cap
+Added Member To Class: ClassName=ESP Member=Component C20 Cap
+Added Member To Class: ClassName=ESP Member=Component C21 Cap
+Added Member To Class: ClassName=ESP Member=Component C22 Cap
+Added Member To Class: ClassName=ESP Member=Component C24 Cap
+Added Member To Class: ClassName=ESP Member=Component C25 Cap
+Added Member To Class: ClassName=ESP Member=Component C26 Cap
+Added Member To Class: ClassName=ESP Member=Component C27 Cap
+Added Member To Class: ClassName=ESP Member=Component C28 Cap
+Added Member To Class: ClassName=ESP Member=Component C30 Cap
+Added Member To Class: ClassName=PWR Member=Component C33 Cap
+Added Member To Class: ClassName=PWR Member=Component C35 Cap
+Added Member To Class: ClassName=PWR Member=Component C36 Cap
+Added Member To Class: ClassName=PWR Member=Component C37 Cap
+Added Member To Class: ClassName=Squib_Managment Member=Component C40 Cap
+Added Member To Class: ClassName=Regulators Member=Component C43 Cap
+Added Member To Class: ClassName=Regulators Member=Component C45 Cap
+Added Member To Class: ClassName=Regulators Member=Component C46 Cap
+Added Member To Class: ClassName=Regulators Member=Component C48 Cap
+Added Member To Class: ClassName=Regulators Member=Component C49 Cap
+Added Member To Class: ClassName=Regulators Member=Component C50 Cap
+Added Member To Class: ClassName=Regulators Member=Component C51 Cap
+Added Member To Class: ClassName=U_ESP power Member=Component D5 Buck Diode
+Added Member To Class: ClassName=Regulators Member=Component D7 Buck Diode
+Added Member To Class: ClassName=U_Power IO Member=Component J7 Screw Terminal
+Added Member To Class: ClassName=U_Power IO Member=Component J8 Screw Terminal
+Added Member To Class: ClassName=U_Power IO Member=Component J10 Screw Terminal
+Added Member To Class: ClassName=U_Power IO Member=Component J11 Screw Terminal
+Added Member To Class: ClassName=U_Power IO Member=Component J14 Screw Terminal
+Added Member To Class: ClassName=PWR Member=Component Q3 P-Channel
+Added Member To Class: ClassName=Buzzer Member=Component R15 Res3
+Added Member To Class: ClassName=ESP Member=Component R17 Res3
+Added Member To Class: ClassName=ESP Member=Component R18 Res3
+Added Member To Class: ClassName=ESP Member=Component R19 Res3
+Added Member To Class: ClassName=ESP Member=Component R21 Res3
+Added Member To Class: ClassName=ESP Member=Component R22 Res3
+Added Member To Class: ClassName=ESP Member=Component R23 Res3
+Added Member To Class: ClassName=ESP Member=Component R25 Res3
+Added Member To Class: ClassName=ESP Member=Component R27 Res3
+Added Member To Class: ClassName=ESP Member=Component R28 Res3
+Added Member To Class: ClassName=ESP Member=Component R32 Res3
+Added Member To Class: ClassName=ESP Member=Component R34 Res3
+Added Member To Class: ClassName=ESP Member=Component R40 Res3
+Added Member To Class: ClassName=ESP Member=Component R42 Res3
+Added Member To Class: ClassName=ESP Member=Component R44 Res3
+Added Member To Class: ClassName=ESP Member=Component R46 Res3
+Added Member To Class: ClassName=ESP Member=Component R47 Res3
+Added Member To Class: ClassName=ESP Member=Component R49 Res3
+Added Member To Class: ClassName=PWR Member=Component R59 Res3
+Added Member To Class: ClassName=PWR Member=Component R60 Res3
+Added Member To Class: ClassName=PWR Member=Component R61 Res3
+Added Member To Class: ClassName=PWR Member=Component R62 Res3
+Added Member To Class: ClassName=PWR Member=Component R63 Res3
+Added Member To Class: ClassName=PWR Member=Component R65 Res3
+Added Member To Class: ClassName=PWR Member=Component R66 Res3
+Added Member To Class: ClassName=PWR Member=Component R67 Res3
+Added Member To Class: ClassName=SPI Output Member=Component R68 Res3
+Added Member To Class: ClassName=SPI Output Member=Component R71 Res3
+Added Member To Class: ClassName=U_ESP power Member=Component R75 Res3
+Added Member To Class: ClassName=U_ESP power Member=Component R78 Res3
+Added Member To Class: ClassName=Regulators Member=Component R82 Res3
+Added Member To Class: ClassName=Regulators Member=Component R83 Res3
+Added Member To Class: ClassName=Regulators Member=Component R84 Res3
+Added Member To Class: ClassName=Regulators Member=Component R85 Res3
+Added Member To Class: ClassName=Regulators Member=Component R86 Res3
+Added Member To Class: ClassName=Main Member=Component R87 Res3
+Added Member To Class: ClassName=Main Member=Component R88 Res3
+Added Member To Class: ClassName=Main Member=Component R89 Res3
+Added Member To Class: ClassName=Main Member=Component R90 Res3
+Added Member To Class: ClassName=Main Member=Component R92 Res3
+Added Member To Class: ClassName=Main Member=Component R93 Res3
+Added Member To Class: ClassName=Main Member=Component R95 Res3
+Added Member To Class: ClassName=Main Member=Component R96 Res3
+Added Member To Class: ClassName=Buzzer Member=Component T3 MMBT2222ALT1
+Added Member To Class: ClassName=Buzzer Member=Component T4 MMBT2222ALT1
+Added Member To Class: ClassName=ESP Member=Component T5 MMBT2222ALT1
+Added Member To Class: ClassName=PWR Member=Component T9 MMBT2222ALT1
+Added Member To Class: ClassName=U_ESP power Member=Component T10 MMBT2222ALT1
+Added Member To Class: ClassName=Accelerometer Member=Component U1 LIS3DSHTR
+Added Member To Class: ClassName=Magnetometer Member=Component U5 MLX90393
+Added Member To Class: ClassName=ESP Member=Component U6 3.3V Regulator
+Added Member To Class: ClassName=ESP Member=Component U7 ESP32-WROOM-32D
+Added Member To Class: ClassName=PWR Member=Component U8 ACS70331EESATR-005B3
+Added Member To Class: ClassName=Squib_Managment Member=Component U9 ACS711KEXLT-15AB-T

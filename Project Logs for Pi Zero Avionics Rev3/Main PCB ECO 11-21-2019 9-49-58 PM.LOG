@@ -1,0 +1,81 @@
+Added Member To Class: ClassName=ADC 1 Member=Component J2 Screw Terminal
+Added Member To Class: ClassName=ADC 2 Member=Component J2 Screw Terminal
+Added Member To Class: ClassName=SPI Output Member=Component J4 Screw Terminal
+Added Member To Class: ClassName=SPI Output Member=Component J5 Screw Terminal
+Added Member To Class: ClassName=ESP UART Output Member=Component J6 Screw Terminal
+Added Member To Class: ClassName=UART EXT Member=Component J6 Screw Terminal
+Added Member To Class: ClassName=U_Power IO Member=Component J7 Screw Terminal
+Added Member To Class: ClassName=Main_Squib Member=Component R9 Res3
+Added Member To Class: ClassName=Motor_Squib Member=Component R9 Res3
+Added Member To Class: ClassName=Sep_Squib Member=Component R9 Res3
+Added Member To Class: ClassName=PWR Member=Component R63 Res3
+Added Member To Class: ClassName=SPI Output Member=Component R68 Res3
+Added Member To Class: ClassName=SPI Output Member=Component R71 Res3
+Added Member To Class: ClassName=ESP UART Output Member=Component R72 Res3
+Added Member To Class: ClassName=UART EXT Member=Component R72 Res3
+Added Member To Class: ClassName=U_ESP power Member=Component R74 Res3
+Added Member To Class: ClassName=U_ESP power Member=Component R75 Res3
+Added Member To Class: ClassName=U_ESP power Member=Component R78 Res3
+Added Member To Class: ClassName=Squib_Managment Member=Component R79 Res3
+Added Member To Class: ClassName=ACT_IND Member=Component R80 Res3
+Added Member To Class: ClassName=Main_Ind Member=Component R80 Res3
+Added Member To Class: ClassName=Motor_IND Member=Component R80 Res3
+Added Member To Class: ClassName=Sep_Ind Member=Component R80 Res3
+Added Member To Class: ClassName=Regulators Member=Component R81 Res3
+Added Member To Class: ClassName=Regulators Member=Component R82 Res3
+Added Member To Class: ClassName=Main Member=Component R87 Res3
+Added Member To Class: ClassName=Main Member=Component R88 Res3
+Added Member To Class: ClassName=Main_Squib Member=Component T1 MMBT2222ALT1
+Added Member To Class: ClassName=Motor_Squib Member=Component T1 MMBT2222ALT1
+Added Member To Class: ClassName=Sep_Squib Member=Component T1 MMBT2222ALT1
+Added Member To Class: ClassName=Main_Squib Member=Component T2 MMBT2222ALT1
+Added Member To Class: ClassName=Motor_Squib Member=Component T2 MMBT2222ALT1
+Added Member To Class: ClassName=Sep_Squib Member=Component T2 MMBT2222ALT1
+Added Member To Class: ClassName=Buzzer Member=Component T3 MMBT2222ALT1
+Added Member To Class: ClassName=Buzzer Member=Component T4 MMBT2222ALT1
+Added Member To Class: ClassName=ESP Member=Component T6 MMBT2222ALT1
+Added Member To Class: ClassName=Voltage_Indicator1 Member=Component T7 MMBT2222ALT1
+Added Member To Class: ClassName=Voltage_Indicator2 Member=Component T7 MMBT2222ALT1
+Added Member To Class: ClassName=Voltage_Indicator3 Member=Component T7 MMBT2222ALT1
+Added Member To Class: ClassName=PWR Member=Component T8 MMBT2222ALT1
+Added Member To Class: ClassName=PWR Member=Component T9 MMBT2222ALT1
+Added Member To Class: ClassName=U_ESP power Member=Component T11 MMBT2222ALT1
+Added Room: Name=Accelerometer
+Added Room: Name=ACT_IND
+Added Room: Name=ACT_IndESP
+Added Room: Name=ADC 1
+Added Room: Name=ADC 2
+Added Room: Name=AIN01
+Added Room: Name=AIN02
+Added Room: Name=AIN11
+Added Room: Name=AIN12
+Added Room: Name=AIN21
+Added Room: Name=AIN22
+Added Room: Name=AIN31
+Added Room: Name=AIN32
+Added Room: Name=Barometer
+Added Room: Name=Buzzer
+Added Room: Name=ERR_IndESP
+Added Room: Name=ERR_IndPi
+Added Room: Name=ESP
+Added Room: Name=ESP UART Output
+Added Room: Name=Gyroscope
+Added Room: Name=Magnetometer
+Added Room: Name=Main
+Added Room: Name=Main_IND
+Added Room: Name=Main_Squib
+Added Room: Name=Motor_IND
+Added Room: Name=Motor_Squib
+Added Room: Name=PWR
+Added Room: Name=Regulators
+Added Room: Name=Sep_IND
+Added Room: Name=Sep_Squib
+Added Room: Name=SPI Output
+Added Room: Name=Squib_Managment
+Added Room: Name=U_ESP power
+Added Room: Name=U_Power IO
+Added Room: Name=UART
+Added Room: Name=UART EXT
+Added Room: Name=Voltage_Indicator1
+Added Room: Name=Voltage_Indicator2
+Added Room: Name=Voltage_Indicator3

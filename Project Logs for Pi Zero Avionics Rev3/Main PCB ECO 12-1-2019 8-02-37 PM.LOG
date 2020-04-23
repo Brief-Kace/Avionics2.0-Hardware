@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=U_EEPROM Member=C52
+Removed Member From Class: ClassName=U_EEPROM Member=R97
+Removed Member From Class: ClassName=U_EEPROM Member=R98
+Removed Member From Class: ClassName=U_EEPROM Member=R99
+Removed Member From Class: ClassName=U_EEPROM Member=U13
+Change Component Designator: OldDesignator=C52 NewDesignator=C67
+Change Component Designator: OldDesignator=R97 NewDesignator=R163
+Change Component Designator: OldDesignator=R98 NewDesignator=R164
+Change Component Designator: OldDesignator=R99 NewDesignator=R165
+Change Component Designator: OldDesignator=U13 NewDesignator=U14
+Change Net Name : Old Net Name=NetR97_1 New Net Name=NetR163_1
+Added Member To Class: ClassName=U_EEPROM Member=Component C67 (C52) Cap
+Added Member To Class: ClassName=U_EEPROM Member=Component R163 (R97) Res3
+Added Member To Class: ClassName=U_EEPROM Member=Component R164 (R98) Res3
+Added Member To Class: ClassName=U_EEPROM Member=Component R165 (R99) Res3
+Added Member To Class: ClassName=U_EEPROM Member=Component U14 (U13) CAT24C128

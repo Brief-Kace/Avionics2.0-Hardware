@@ -1,0 +1,776 @@
+Removed Member From Class: ClassName=Magnetometer Member=C1
+Removed Member From Class: ClassName=ESP Member=C5
+Removed Member From Class: ClassName=Regulators Member=C5
+Removed Member From Class: ClassName=Accelerometer Member=C10
+Removed Member From Class: ClassName=ADC 1 Member=C14
+Removed Member From Class: ClassName=ADC 1 Member=C15
+Removed Member From Class: ClassName=ESP Member=C18
+Removed Member From Class: ClassName=PWR Member=C22
+Removed Member From Class: ClassName=Squib_Managment Member=C23
+Removed Member From Class: ClassName=ADC 2 Member=C26
+Removed Member From Class: ClassName=ESP Member=C31
+Removed Member From Class: ClassName=Regulators Member=C35
+Removed Member From Class: ClassName=Regulators Member=C36
+Removed Member From Class: ClassName=Gyroscope Member=C38
+Removed Member From Class: ClassName=ADC 1 Member=C43
+Removed Member From Class: ClassName=Magnetometer Member=C43
+Removed Member From Class: ClassName=AIN02 Member=C51
+Removed Member From Class: ClassName=Regulators Member=C54
+Removed Member From Class: ClassName=AIN11 Member=C55
+Removed Member From Class: ClassName=AIN31 Member=C58
+Removed Member From Class: ClassName=ESP Member=C58
+Removed Member From Class: ClassName=Regulators Member=C59
+Removed Member From Class: ClassName=ESP Member=C61
+Removed Member From Class: ClassName=Regulators Member=C63
+Removed Member From Class: ClassName=PWR Member=C64
+Removed Member From Class: ClassName=Regulators Member=C65
+Removed Member From Class: ClassName=AIN22 Member=C66
+Removed Member From Class: ClassName=ESP Member=C66
+Removed Member From Class: ClassName=ERR_IndESP Member=D2
+Removed Member From Class: ClassName=ACT_IND Member=D5
+Removed Member From Class: ClassName=Regulators Member=D5
+Removed Member From Class: ClassName=U_ESP power Member=D8
+Removed Member From Class: ClassName=Voltage_Indicator2 Member=D8
+Removed Member From Class: ClassName=ERR_IndPi Member=D9
+Removed Member From Class: ClassName=Motor_IND Member=D9
+Removed Member From Class: ClassName=Main_Squib Member=J2
+Removed Member From Class: ClassName=Sep_Squib Member=J3
+Removed Member From Class: ClassName=ADC 1 Member=J7
+Removed Member From Class: ClassName=ADC 1 Member=J10
+Removed Member From Class: ClassName=U_Power IO Member=J15
+Removed Member From Class: ClassName=U_Power IO Member=J16
+Removed Member From Class: ClassName=U_Power IO Member=J18
+Removed Member From Class: ClassName=Main_Squib Member=Q4
+Removed Member From Class: ClassName=PWR Member=Q5
+Removed Member From Class: ClassName=Sep_Squib Member=Q9
+Removed Member From Class: ClassName=AIN32 Member=R2
+Removed Member From Class: ClassName=ADC 2 Member=R7
+Removed Member From Class: ClassName=Motor_Squib Member=R12
+Removed Member From Class: ClassName=Regulators Member=R12
+Removed Member From Class: ClassName=AIN01 Member=R14
+Removed Member From Class: ClassName=ERR_IndESP Member=R14
+Removed Member From Class: ClassName=Regulators Member=R17
+Removed Member From Class: ClassName=AIN11 Member=R20
+Removed Member From Class: ClassName=AIN21 Member=R21
+Removed Member From Class: ClassName=AIN12 Member=R23
+Removed Member From Class: ClassName=AIN32 Member=R32
+Removed Member From Class: ClassName=Motor_Squib Member=R32
+Removed Member From Class: ClassName=Regulators Member=R32
+Removed Member From Class: ClassName=AIN01 Member=R36
+Removed Member From Class: ClassName=Regulators Member=R36
+Removed Member From Class: ClassName=ADC 2 Member=R40
+Removed Member From Class: ClassName=AIN02 Member=R40
+Removed Member From Class: ClassName=U_ESP power Member=R40
+Removed Member From Class: ClassName=AIN31 Member=R45
+Removed Member From Class: ClassName=Main_Squib Member=R45
+Removed Member From Class: ClassName=Main Member=R45
+Removed Member From Class: ClassName=PWR Member=R45
+Removed Member From Class: ClassName=U_ESP power Member=R46
+Removed Member From Class: ClassName=Motor_Squib Member=R47
+Removed Member From Class: ClassName=AIN02 Member=R55
+Removed Member From Class: ClassName=ESP Member=R55
+Removed Member From Class: ClassName=PWR Member=R55
+Removed Member From Class: ClassName=Main Member=R58
+Removed Member From Class: ClassName=Voltage_Indicator1 Member=R59
+Removed Member From Class: ClassName=ESP Member=R66
+Removed Member From Class: ClassName=ESP Member=R67
+Removed Member From Class: ClassName=ESP Member=R71
+Removed Member From Class: ClassName=ESP Member=R72
+Removed Member From Class: ClassName=ESP Member=R75
+Removed Member From Class: ClassName=AIN22 Member=R78
+Removed Member From Class: ClassName=ACT_IND Member=R80
+Removed Member From Class: ClassName=ADC 1 Member=R80
+Removed Member From Class: ClassName=AIN02 Member=R80
+Removed Member From Class: ClassName=ESP Member=R82
+Removed Member From Class: ClassName=ESP Member=R86
+Removed Member From Class: ClassName=ESP Member=R87
+Removed Member From Class: ClassName=Main_Squib Member=R88
+Removed Member From Class: ClassName=Voltage_Indicator1 Member=R88
+Removed Member From Class: ClassName=ESP Member=R94
+Removed Member From Class: ClassName=AIN11 Member=R97
+Removed Member From Class: ClassName=ESP UART Output Member=R99
+Removed Member From Class: ClassName=AIN21 Member=R102
+Removed Member From Class: ClassName=ESP Member=R102
+Removed Member From Class: ClassName=Main Member=R102
+Removed Member From Class: ClassName=PWR Member=R104
+Removed Member From Class: ClassName=Voltage_Indicator3 Member=R104
+Removed Member From Class: ClassName=ESP Member=R105
+Removed Member From Class: ClassName=Main_Squib Member=R108
+Removed Member From Class: ClassName=Main Member=R108
+Removed Member From Class: ClassName=Sep_Squib Member=R108
+Removed Member From Class: ClassName=Sep_Squib Member=R109
+Removed Member From Class: ClassName=AIN01 Member=R110
+Removed Member From Class: ClassName=ESP Member=R110
+Removed Member From Class: ClassName=AIN32 Member=R113
+Removed Member From Class: ClassName=AIN21 Member=R115
+Removed Member From Class: ClassName=ESP Member=R116
+Removed Member From Class: ClassName=AIN02 Member=R121
+Removed Member From Class: ClassName=ESP Member=R121
+Removed Member From Class: ClassName=PWR Member=R121
+Removed Member From Class: ClassName=Buzzer Member=R122
+Removed Member From Class: ClassName=ERR_IndPi Member=R122
+Removed Member From Class: ClassName=SPI Output Member=R124
+Removed Member From Class: ClassName=AIN22 Member=R135
+Removed Member From Class: ClassName=ESP Member=R136
+Removed Member From Class: ClassName=Main Member=R136
+Removed Member From Class: ClassName=AIN32 Member=R137
+Removed Member From Class: ClassName=Main Member=R137
+Removed Member From Class: ClassName=Motor_Squib Member=R137
+Removed Member From Class: ClassName=PWR Member=R139
+Removed Member From Class: ClassName=Sep_Squib Member=R139
+Removed Member From Class: ClassName=Main Member=R147
+Removed Member From Class: ClassName=Motor_Squib Member=R149
+Removed Member From Class: ClassName=SPI Output Member=R149
+Removed Member From Class: ClassName=AIN12 Member=R157
+Removed Member From Class: ClassName=AIN21 Member=R159
+Removed Member From Class: ClassName=ESP Member=R161
+Removed Member From Class: ClassName=PWR Member=T4
+Removed Member From Class: ClassName=Voltage_Indicator1 Member=T4
+Removed Member From Class: ClassName=Voltage_Indicator2 Member=T10
+Removed Member From Class: ClassName=Motor_Squib Member=T12
+Removed Member From Class: ClassName=Motor_Squib Member=T14
+Removed Member From Class: ClassName=Sep_Squib Member=T17
+Removed Member From Class: ClassName=PWR Member=U2
+Removed Member From Class: ClassName=ADC 1 Member=U4
+Removed Member From Class: ClassName=Magnetometer Member=U4
+Removed Member From Class: ClassName=Accelerometer Member=U9
+Removed Member From Class: ClassName=ESP Member=U10
+Change Component Designator: OldDesignator=C1 NewDesignator=C6_ADC 1
+Change Component Designator: OldDesignator=C2 NewDesignator=C6_ADC 2
+Change Component Designator: OldDesignator=C3 NewDesignator=C39
+Change Component Designator: OldDesignator=C4 NewDesignator=C17
+Change Component Designator: OldDesignator=C5 NewDesignator=C9_ADC 2
+Change Component Designator: OldDesignator=C6 NewDesignator=C10_ADC 1
+Change Component Designator: OldDesignator=C7 NewDesignator=C10_ADC 2
+Change Component Designator: OldDesignator=C8 NewDesignator=C9_ADC 1
+Change Component Designator: OldDesignator=C9 NewDesignator=C8_ADC 1
+Change Component Designator: OldDesignator=C10 NewDesignator=C8_ADC 2
+Change Component Designator: OldDesignator=C11 NewDesignator=C7_ADC 1
+Change Component Designator: OldDesignator=C12 NewDesignator=C7_ADC 2
+Change Component Designator: OldDesignator=C13 NewDesignator=C18
+Change Component Designator: OldDesignator=C14 NewDesignator=C32
+Change Component Designator: OldDesignator=C15 NewDesignator=C1
+Change Component Designator: OldDesignator=C16 NewDesignator=C2
+Change Component Designator: OldDesignator=C17 NewDesignator=C49
+Change Component Designator: OldDesignator=C18 NewDesignator=C47
+Change Component Designator: OldDesignator=C19 NewDesignator=C51
+Change Component Designator: OldDesignator=C20 NewDesignator=C50
+Change Component Designator: OldDesignator=C21 NewDesignator=C11
+Change Component Designator: OldDesignator=C22 NewDesignator=C12
+Change Component Designator: OldDesignator=C23 NewDesignator=C13
+Change Component Designator: OldDesignator=C24 NewDesignator=C48
+Change Component Designator: OldDesignator=C25 NewDesignator=C16
+Change Component Designator: OldDesignator=C26 NewDesignator=C14
+Change Component Designator: OldDesignator=C27 NewDesignator=C15
+Change Component Designator: OldDesignator=C28 NewDesignator=C37
+Change Component Designator: OldDesignator=C29 NewDesignator=C19
+Change Component Designator: OldDesignator=C30 NewDesignator=C45
+Change Component Designator: OldDesignator=C31 NewDesignator=C44
+Change Component Designator: OldDesignator=C32 NewDesignator=C46
+Change Component Designator: OldDesignator=C33 NewDesignator=C31_AIN11
+Change Component Designator: OldDesignator=C34 NewDesignator=C31_AIN31
+Change Component Designator: OldDesignator=C35 NewDesignator=C31_AIN21
+Change Component Designator: OldDesignator=C36 NewDesignator=C31_AIN01
+Change Component Designator: OldDesignator=C37 NewDesignator=C31_AIN12
+Change Component Designator: OldDesignator=C38 NewDesignator=C31_AIN32
+Change Component Designator: OldDesignator=C39 NewDesignator=C31_AIN02
+Change Component Designator: OldDesignator=C40 NewDesignator=C31_AIN22
+Change Component Designator: OldDesignator=C41 NewDesignator=C40
+Change Component Designator: OldDesignator=C42 NewDesignator=C3_ADC 2
+Change Component Designator: OldDesignator=C43 NewDesignator=C5_ADC 2
+Change Component Designator: OldDesignator=C44 NewDesignator=C4_ADC 2
+Change Component Designator: OldDesignator=C45 NewDesignator=C3_ADC 1
+Change Component Designator: OldDesignator=C46 NewDesignator=C5_ADC 1
+Change Component Designator: OldDesignator=C47 NewDesignator=C4_ADC 1
+Change Component Designator: OldDesignator=C48 NewDesignator=C42
+Change Component Designator: OldDesignator=C49 NewDesignator=C41
+Change Component Designator: OldDesignator=C50 NewDesignator=C30
+Change Component Designator: OldDesignator=C51 NewDesignator=C29
+Change Component Designator: OldDesignator=C52 NewDesignator=C27
+Change Component Designator: OldDesignator=C53 NewDesignator=C28
+Change Component Designator: OldDesignator=C54 NewDesignator=C20
+Change Component Designator: OldDesignator=C55 NewDesignator=C23
+Change Component Designator: OldDesignator=C56 NewDesignator=C24
+Change Component Designator: OldDesignator=C57 NewDesignator=C26
+Change Component Designator: OldDesignator=C58 NewDesignator=C43
+Change Component Designator: OldDesignator=C59 NewDesignator=C22
+Change Component Designator: OldDesignator=C60 NewDesignator=C25
+Change Component Designator: OldDesignator=C61 NewDesignator=C38
+Change Component Designator: OldDesignator=C62 NewDesignator=C21
+Change Component Designator: OldDesignator=C63 NewDesignator=C33
+Change Component Designator: OldDesignator=C64 NewDesignator=C36
+Change Component Designator: OldDesignator=C65 NewDesignator=C34
+Change Component Designator: OldDesignator=C66 NewDesignator=C35
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1_ACT_IndESP
+Change Component Designator: OldDesignator=D3 NewDesignator=D1_ERR_IndESP
+Change Component Designator: OldDesignator=D4 NewDesignator=D6_Motor_IND
+Change Component Designator: OldDesignator=D5 NewDesignator=D3_Voltage_Indicator3
+Change Component Designator: OldDesignator=D6 NewDesignator=D6_Sep_IND
+Change Component Designator: OldDesignator=D7 NewDesignator=D3_Voltage_Indicator2
+Change Component Designator: OldDesignator=D8 NewDesignator=D6_Main_IND
+Change Component Designator: OldDesignator=D9 NewDesignator=D3_Voltage_Indicator1
+Change Component Designator: OldDesignator=D10 NewDesignator=D4
+Change Component Designator: OldDesignator=D11 NewDesignator=D6_ACT_IND
+Change Component Designator: OldDesignator=D12 NewDesignator=D1_ERR_IndPi
+Change Component Designator: OldDesignator=D13 NewDesignator=D5
+Change Component Designator: OldDesignator=D14 NewDesignator=D7
+Change Component Designator: OldDesignator=J1 NewDesignator=J7
+Change Component Designator: OldDesignator=J2 NewDesignator=J6_ESP UART Output
+Change Component Designator: OldDesignator=J3 NewDesignator=J12
+Change Component Designator: OldDesignator=J4 NewDesignator=J2_ADC 1
+Change Component Designator: OldDesignator=J5 NewDesignator=J1_ADC 1
+Change Component Designator: OldDesignator=J6 NewDesignator=J14
+Change Component Designator: OldDesignator=J7 NewDesignator=J2_ADC 2
+Change Component Designator: OldDesignator=J8 NewDesignator=J1_ADC 2
+Change Component Designator: OldDesignator=J10 NewDesignator=J15
+Change Component Designator: OldDesignator=J11 NewDesignator=J3_Sep_Squib
+Change Component Designator: OldDesignator=J12 NewDesignator=J3_Motor_Squib
+Change Component Designator: OldDesignator=J14 NewDesignator=J5
+Change Component Designator: OldDesignator=J15 NewDesignator=J4
+Change Component Designator: OldDesignator=J16 NewDesignator=J6_UART EXT
+Change Component Designator: OldDesignator=J17 NewDesignator=J11
+Change Component Designator: OldDesignator=J18 NewDesignator=J10
+Change Component Designator: OldDesignator=J19 NewDesignator=J3_Main_Squib
+Change Component Designator: OldDesignator=J20 NewDesignator=J8
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q2_Sep_Squib
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q1_Sep_Squib
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q2_Motor_Squib
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q1_Motor_Squib
+Change Component Designator: OldDesignator=Q7 NewDesignator=Q2_Main_Squib
+Change Component Designator: OldDesignator=Q8 NewDesignator=Q1_Main_Squib
+Change Component Designator: OldDesignator=Q9 NewDesignator=Q4
+Change Component Designator: OldDesignator=R1 NewDesignator=R7_ERR_IndESP
+Change Component Designator: OldDesignator=R2 NewDesignator=R46
+Change Component Designator: OldDesignator=R3 NewDesignator=R7_ACT_IndESP
+Change Component Designator: OldDesignator=R4 NewDesignator=R83
+Change Component Designator: OldDesignator=R5 NewDesignator=R5_ADC 2
+Change Component Designator: OldDesignator=R6 NewDesignator=R5_ADC 1
+Change Component Designator: OldDesignator=R7 NewDesignator=R6_ADC 1
+Change Component Designator: OldDesignator=R8 NewDesignator=R6_ADC 2
+Change Component Designator: OldDesignator=R9 NewDesignator=R84
+Change Component Designator: OldDesignator=R10 NewDesignator=R2_ADC 2
+Change Component Designator: OldDesignator=R11 NewDesignator=R2_ADC 1
+Change Component Designator: OldDesignator=R12 NewDesignator=R4_ADC 1
+Change Component Designator: OldDesignator=R13 NewDesignator=R4_ADC 2
+Change Component Designator: OldDesignator=R14 NewDesignator=R1_ADC 1
+Change Component Designator: OldDesignator=R15 NewDesignator=R1_ADC 2
+Change Component Designator: OldDesignator=R16 NewDesignator=R3_ADC 1
+Change Component Designator: OldDesignator=R17 NewDesignator=R3_ADC 2
+Change Component Designator: OldDesignator=R18 NewDesignator=R82
+Change Component Designator: OldDesignator=R19 NewDesignator=R81
+Change Component Designator: OldDesignator=R20 NewDesignator=R19
+Change Component Designator: OldDesignator=R21 NewDesignator=R43
+Change Component Designator: OldDesignator=R22 NewDesignator=R39
+Change Component Designator: OldDesignator=R23 NewDesignator=R45
+Change Component Designator: OldDesignator=R24 NewDesignator=R36
+Change Component Designator: OldDesignator=R25 NewDesignator=R50
+Change Component Designator: OldDesignator=R26 NewDesignator=R23
+Change Component Designator: OldDesignator=R27 NewDesignator=R29
+Change Component Designator: OldDesignator=R28 NewDesignator=R88
+Change Component Designator: OldDesignator=R29 NewDesignator=R91
+Change Component Designator: OldDesignator=R30 NewDesignator=R20
+Change Component Designator: OldDesignator=R31 NewDesignator=R42
+Change Component Designator: OldDesignator=R32 NewDesignator=R38
+Change Component Designator: OldDesignator=R33 NewDesignator=R44
+Change Component Designator: OldDesignator=R34 NewDesignator=R35
+Change Component Designator: OldDesignator=R35 NewDesignator=R48
+Change Component Designator: OldDesignator=R36 NewDesignator=R26
+Change Component Designator: OldDesignator=R37 NewDesignator=R32
+Change Component Designator: OldDesignator=R38 NewDesignator=R80_Motor_IND
+Change Component Designator: OldDesignator=R39 NewDesignator=R90
+Change Component Designator: OldDesignator=R40 NewDesignator=R56_Voltage_Indicator3
+Change Component Designator: OldDesignator=R41 NewDesignator=R57_Voltage_Indicator3
+Change Component Designator: OldDesignator=R42 NewDesignator=R87
+Change Component Designator: OldDesignator=R43 NewDesignator=R85
+Change Component Designator: OldDesignator=R44 NewDesignator=R80_Sep_IND
+Change Component Designator: OldDesignator=R45 NewDesignator=R56_Voltage_Indicator2
+Change Component Designator: OldDesignator=R46 NewDesignator=R57_Voltage_Indicator2
+Change Component Designator: OldDesignator=R47 NewDesignator=R86
+Change Component Designator: OldDesignator=R48 NewDesignator=R80_Main_IND
+Change Component Designator: OldDesignator=R49 NewDesignator=R56_Voltage_Indicator1
+Change Component Designator: OldDesignator=R50 NewDesignator=R57_Voltage_Indicator1
+Change Component Designator: OldDesignator=R51 NewDesignator=R63
+Change Component Designator: OldDesignator=R52 NewDesignator=R80_ACT_IND
+Change Component Designator: OldDesignator=R53 NewDesignator=R7_ERR_IndPi
+Change Component Designator: OldDesignator=R54 NewDesignator=R72_ESP UART Output
+Change Component Designator: OldDesignator=R55 NewDesignator=R73_ESP UART Output
+Change Component Designator: OldDesignator=R56 NewDesignator=R17
+Change Component Designator: OldDesignator=R57 NewDesignator=R52_AIN11
+Change Component Designator: OldDesignator=R58 NewDesignator=R51_AIN11
+Change Component Designator: OldDesignator=R59 NewDesignator=R52_AIN31
+Change Component Designator: OldDesignator=R60 NewDesignator=R51_AIN31
+Change Component Designator: OldDesignator=R61 NewDesignator=R52_AIN21
+Change Component Designator: OldDesignator=R62 NewDesignator=R51_AIN21
+Change Component Designator: OldDesignator=R63 NewDesignator=R52_AIN01
+Change Component Designator: OldDesignator=R64 NewDesignator=R51_AIN01
+Change Component Designator: OldDesignator=R65 NewDesignator=R52_AIN02
+Change Component Designator: OldDesignator=R66 NewDesignator=R52_AIN12
+Change Component Designator: OldDesignator=R67 NewDesignator=R51_AIN12
+Change Component Designator: OldDesignator=R68 NewDesignator=R52_AIN32
+Change Component Designator: OldDesignator=R69 NewDesignator=R51_AIN32
+Change Component Designator: OldDesignator=R70 NewDesignator=R51_AIN02
+Change Component Designator: OldDesignator=R71 NewDesignator=R52_AIN22
+Change Component Designator: OldDesignator=R72 NewDesignator=R51_AIN22
+Change Component Designator: OldDesignator=R73 NewDesignator=R37
+Change Component Designator: OldDesignator=R74 NewDesignator=R22
+Change Component Designator: OldDesignator=R75 NewDesignator=R21
+Change Component Designator: OldDesignator=R76 NewDesignator=R31
+Change Component Designator: OldDesignator=R77 NewDesignator=R28
+Change Component Designator: OldDesignator=R78 NewDesignator=R33
+Change Component Designator: OldDesignator=R79 NewDesignator=R55_AIN11
+Change Component Designator: OldDesignator=R80 NewDesignator=R55_AIN31
+Change Component Designator: OldDesignator=R81 NewDesignator=R55_AIN21
+Change Component Designator: OldDesignator=R82 NewDesignator=R55_AIN01
+Change Component Designator: OldDesignator=R83 NewDesignator=R55_AIN12
+Change Component Designator: OldDesignator=R84 NewDesignator=R55_AIN32
+Change Component Designator: OldDesignator=R85 NewDesignator=R55_AIN02
+Change Component Designator: OldDesignator=R86 NewDesignator=R55_AIN22
+Change Component Designator: OldDesignator=R87 NewDesignator=R53_AIN11
+Change Component Designator: OldDesignator=R88 NewDesignator=R53_AIN31
+Change Component Designator: OldDesignator=R89 NewDesignator=R53_AIN21
+Change Component Designator: OldDesignator=R90 NewDesignator=R53_AIN01
+Change Component Designator: OldDesignator=R91 NewDesignator=R53_AIN12
+Change Component Designator: OldDesignator=R92 NewDesignator=R53_AIN32
+Change Component Designator: OldDesignator=R93 NewDesignator=R53_AIN02
+Change Component Designator: OldDesignator=R94 NewDesignator=R53_AIN22
+Change Component Designator: OldDesignator=R95 NewDesignator=R79
+Change Component Designator: OldDesignator=R96 NewDesignator=R18
+Change Component Designator: OldDesignator=R97 NewDesignator=R41
+Change Component Designator: OldDesignator=R98 NewDesignator=R40
+Change Component Designator: OldDesignator=R99 NewDesignator=R16
+Change Component Designator: OldDesignator=R100 NewDesignator=R54_AIN32
+Change Component Designator: OldDesignator=R101 NewDesignator=R54_AIN22
+Change Component Designator: OldDesignator=R102 NewDesignator=R54_AIN12
+Change Component Designator: OldDesignator=R103 NewDesignator=R54_AIN31
+Change Component Designator: OldDesignator=R104 NewDesignator=R54_AIN21
+Change Component Designator: OldDesignator=R105 NewDesignator=R54_AIN11
+Change Component Designator: OldDesignator=R106 NewDesignator=R54_AIN01
+Change Component Designator: OldDesignator=R107 NewDesignator=R54_AIN02
+Change Component Designator: OldDesignator=R108 NewDesignator=R64
+Change Component Designator: OldDesignator=R109 NewDesignator=R67
+Change Component Designator: OldDesignator=R110 NewDesignator=R25
+Change Component Designator: OldDesignator=R111 NewDesignator=R49
+Change Component Designator: OldDesignator=R112 NewDesignator=R47
+Change Component Designator: OldDesignator=R113 NewDesignator=R30
+Change Component Designator: OldDesignator=R114 NewDesignator=R27
+Change Component Designator: OldDesignator=R115 NewDesignator=R24
+Change Component Designator: OldDesignator=R116 NewDesignator=R12_Sep_Squib
+Change Component Designator: OldDesignator=R117 NewDesignator=R14_Sep_Squib
+Change Component Designator: OldDesignator=R118 NewDesignator=R13_Sep_Squib
+Change Component Designator: OldDesignator=R119 NewDesignator=R9_Sep_Squib
+Change Component Designator: OldDesignator=R120 NewDesignator=R8_Sep_Squib
+Change Component Designator: OldDesignator=R121 NewDesignator=R11_Sep_Squib
+Change Component Designator: OldDesignator=R122 NewDesignator=R10_Sep_Squib
+Change Component Designator: OldDesignator=R123 NewDesignator=R12_Motor_Squib
+Change Component Designator: OldDesignator=R124 NewDesignator=R14_Motor_Squib
+Change Component Designator: OldDesignator=R125 NewDesignator=R13_Motor_Squib
+Change Component Designator: OldDesignator=R126 NewDesignator=R9_Motor_Squib
+Change Component Designator: OldDesignator=R127 NewDesignator=R8_Motor_Squib
+Change Component Designator: OldDesignator=R128 NewDesignator=R11_Motor_Squib
+Change Component Designator: OldDesignator=R129 NewDesignator=R95
+Change Component Designator: OldDesignator=R130 NewDesignator=R96
+Change Component Designator: OldDesignator=R131 NewDesignator=R10_Motor_Squib
+Change Component Designator: OldDesignator=R132 NewDesignator=R89
+Change Component Designator: OldDesignator=R133 NewDesignator=R92
+Change Component Designator: OldDesignator=R134 NewDesignator=R93
+Change Component Designator: OldDesignator=R135 NewDesignator=R94
+Change Component Designator: OldDesignator=R136 NewDesignator=R12_Main_Squib
+Change Component Designator: OldDesignator=R137 NewDesignator=R14_Main_Squib
+Change Component Designator: OldDesignator=R138 NewDesignator=R68
+Change Component Designator: OldDesignator=R139 NewDesignator=R69
+Change Component Designator: OldDesignator=R140 NewDesignator=R70
+Change Component Designator: OldDesignator=R141 NewDesignator=R71
+Change Component Designator: OldDesignator=R142 NewDesignator=R72_UART EXT
+Change Component Designator: OldDesignator=R143 NewDesignator=R73_UART EXT
+Change Component Designator: OldDesignator=R144 NewDesignator=R15
+Change Component Designator: OldDesignator=R145 NewDesignator=R61
+Change Component Designator: OldDesignator=R146 NewDesignator=R34
+Change Component Designator: OldDesignator=R147 NewDesignator=R13_Main_Squib
+Change Component Designator: OldDesignator=R148 NewDesignator=R9_Main_Squib
+Change Component Designator: OldDesignator=R149 NewDesignator=R8_Main_Squib
+Change Component Designator: OldDesignator=R150 NewDesignator=R11_Main_Squib
+Change Component Designator: OldDesignator=R151 NewDesignator=R10_Main_Squib
+Change Component Designator: OldDesignator=R152 NewDesignator=R75
+Change Component Designator: OldDesignator=R153 NewDesignator=R78
+Change Component Designator: OldDesignator=R154 NewDesignator=R66
+Change Component Designator: OldDesignator=R155 NewDesignator=R60
+Change Component Designator: OldDesignator=R156 NewDesignator=R65
+Change Component Designator: OldDesignator=R157 NewDesignator=R76
+Change Component Designator: OldDesignator=R158 NewDesignator=R77
+Change Component Designator: OldDesignator=R159 NewDesignator=R74
+Change Component Designator: OldDesignator=R160 NewDesignator=R59
+Change Component Designator: OldDesignator=R161 NewDesignator=R58
+Change Component Designator: OldDesignator=S1 NewDesignator=S2
+Change Component Designator: OldDesignator=S2 NewDesignator=S1
+Change Component Designator: OldDesignator=T1 NewDesignator=T7_Voltage_Indicator3
+Change Component Designator: OldDesignator=T2 NewDesignator=T7_Voltage_Indicator2
+Change Component Designator: OldDesignator=T3 NewDesignator=T7_Voltage_Indicator1
+Change Component Designator: OldDesignator=T4 NewDesignator=T5
+Change Component Designator: OldDesignator=T5 NewDesignator=T2_Sep_Squib
+Change Component Designator: OldDesignator=T6 NewDesignator=T1_Sep_Squib
+Change Component Designator: OldDesignator=T7 NewDesignator=T2_Motor_Squib
+Change Component Designator: OldDesignator=T8 NewDesignator=T6
+Change Component Designator: OldDesignator=T9 NewDesignator=T1_Motor_Squib
+Change Component Designator: OldDesignator=T10 NewDesignator=T4
+Change Component Designator: OldDesignator=T11 NewDesignator=T3
+Change Component Designator: OldDesignator=T12 NewDesignator=T8
+Change Component Designator: OldDesignator=T13 NewDesignator=T2_Main_Squib
+Change Component Designator: OldDesignator=T14 NewDesignator=T1_Main_Squib
+Change Component Designator: OldDesignator=T15 NewDesignator=T9
+Change Component Designator: OldDesignator=T16 NewDesignator=T10
+Change Component Designator: OldDesignator=T17 NewDesignator=T11
+Change Component Designator: OldDesignator=U1 NewDesignator=U5
+Change Component Designator: OldDesignator=U2 NewDesignator=U11
+Change Component Designator: OldDesignator=U3 NewDesignator=U2_ADC 1
+Change Component Designator: OldDesignator=U4 NewDesignator=U2_ADC 2
+Change Component Designator: OldDesignator=U5 NewDesignator=U10
+Change Component Designator: OldDesignator=U6 NewDesignator=U9
+Change Component Designator: OldDesignator=U7 NewDesignator=U1
+Change Component Designator: OldDesignator=U8 NewDesignator=U3
+Change Component Designator: OldDesignator=U9 NewDesignator=U4
+Change Component Designator: OldDesignator=U10 NewDesignator=U12
+Change Component Designator: OldDesignator=U11 NewDesignator=U8
+Change Component Designator: OldDesignator=U12 NewDesignator=U7
+Change Component Designator: OldDesignator=U13 NewDesignator=U6
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC3_ADC 1_1
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC3_ADC 1_2
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC4_ADC 1_2
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC5_ADC 1_1
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC6_ADC 1_1
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC6_ADC 1_2
+Change Net Name : Old Net Name=NetC11_1 New Net Name=NetC3_ADC 2_1
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC3_ADC 2_2
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetC4_ADC 2_2
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NetC5_ADC 2_1
+Change Net Name : Old Net Name=NetC14_1 New Net Name=NetC6_ADC 2_1
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC6_ADC 2_2
+Change Net Name : Old Net Name=NetC29_2 New Net Name=NetC19_2
+Change Net Name : Old Net Name=NetC30_2 New Net Name=NetC20_2
+Change Net Name : Old Net Name=NetC31_2 New Net Name=NetC21_2
+Change Net Name : Old Net Name=NetC33_2 New Net Name=NetC23_2
+Change Net Name : Old Net Name=NetC34_2 New Net Name=NetC24_2
+Change Net Name : Old Net Name=NetC35_2 New Net Name=NetC25_2
+Change Net Name : Old Net Name=NetC36_2 New Net Name=NetC26_2
+Change Net Name : Old Net Name=NetC37_2 New Net Name=NetC27_2
+Change Net Name : Old Net Name=NetC38_2 New Net Name=NetC28_2
+Change Net Name : Old Net Name=NetC39_2 New Net Name=NetC29_2
+Change Net Name : Old Net Name=NetC40_2 New Net Name=NetC30_2
+Change Net Name : Old Net Name=NetC41_1 New Net Name=NetC13_1
+Change Net Name : Old Net Name=NetC48_1 New Net Name=NetC33_1
+Change Net Name : Old Net Name=NetC49_1 New Net Name=NetC34_1
+Change Net Name : Old Net Name=NetC53_2 New Net Name=NetC38_2
+Change Net Name : Old Net Name=NetC61_1 New Net Name=NetC48_1
+Change Net Name : Old Net Name=NetC65_2 New Net Name=NetC39_2
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetD1_ACT_IndESP_1
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD1_ACT_IndESP_2
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetD1_ERR_IndPi_1
+Change Net Name : Old Net Name=NetD4_2 New Net Name=NetD1_ERR_IndPi_2
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD1_ERR_IndESP_1
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD1_ERR_IndESP_2
+Change Net Name : Old Net Name=NetD6_1 New Net Name=NetD6_ACT_IND_1
+Change Net Name : Old Net Name=NetD7_1 New Net Name=NetD6_Main_IND_1
+Change Net Name : Old Net Name=NetD7_2 New Net Name=NetD6_Main_IND_2
+Change Net Name : Old Net Name=NetD8_1 New Net Name=NetD6_Motor_IND_1
+Change Net Name : Old Net Name=NetD8_2 New Net Name=NetD6_Motor_IND_2
+Change Net Name : Old Net Name=NetD9_1 New Net Name=NetD6_Sep_IND_1
+Change Net Name : Old Net Name=NetD9_2 New Net Name=NetD6_Sep_IND_2
+Change Net Name : Old Net Name=NetD10_2 New Net Name=NetD4_2
+Change Net Name : Old Net Name=NetD11_2 New Net Name=NetD7_2
+Change Net Name : Old Net Name=NetD12_1 New Net Name=NetD3_Voltage_Indicator1_1
+Change Net Name : Old Net Name=NetD12_2 New Net Name=NetD3_Voltage_Indicator1_2
+Change Net Name : Old Net Name=NetD13_1 New Net Name=NetD3_Voltage_Indicator2_1
+Change Net Name : Old Net Name=NetD13_2 New Net Name=NetD3_Voltage_Indicator2_2
+Change Net Name : Old Net Name=NetD14_1 New Net Name=NetD3_Voltage_Indicator3_1
+Change Net Name : Old Net Name=NetD14_2 New Net Name=NetD3_Voltage_Indicator3_2
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=NetJ1_ADC 1_1
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=NetJ1_ADC 1_2
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=NetJ2_ADC 1_1
+Change Net Name : Old Net Name=NetJ2_2 New Net Name=NetJ2_ADC 1_2
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=NetJ1_ADC 2_1
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=NetJ1_ADC 2_2
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=NetJ2_ADC 2_1
+Change Net Name : Old Net Name=NetJ4_2 New Net Name=NetJ2_ADC 2_2
+Change Net Name : Old Net Name=NetJ5_3 New Net Name=NetJ15_3
+Change Net Name : Old Net Name=NetJ5_5 New Net Name=NetJ15_5
+Change Net Name : Old Net Name=NetJ5_7 New Net Name=NetJ15_7
+Change Net Name : Old Net Name=NetJ5_8 New Net Name=NetJ15_8
+Change Net Name : Old Net Name=NetJ5_10 New Net Name=NetJ15_10
+Change Net Name : Old Net Name=NetJ5_11 New Net Name=NetJ15_11
+Change Net Name : Old Net Name=NetJ5_12 New Net Name=NetJ15_12
+Change Net Name : Old Net Name=NetJ5_13 New Net Name=NetJ15_13
+Change Net Name : Old Net Name=NetJ5_15 New Net Name=NetJ15_15
+Change Net Name : Old Net Name=NetJ5_16 New Net Name=NetJ15_16
+Change Net Name : Old Net Name=NetJ5_18 New Net Name=NetJ15_18
+Change Net Name : Old Net Name=NetJ5_19 New Net Name=NetJ15_19
+Change Net Name : Old Net Name=NetJ5_22 New Net Name=NetJ15_22
+Change Net Name : Old Net Name=NetJ5_23 New Net Name=NetJ15_23
+Change Net Name : Old Net Name=NetJ5_24 New Net Name=NetJ15_24
+Change Net Name : Old Net Name=NetJ5_29 New Net Name=NetJ15_29
+Change Net Name : Old Net Name=NetJ5_31 New Net Name=NetJ15_31
+Change Net Name : Old Net Name=NetJ5_32 New Net Name=NetJ15_32
+Change Net Name : Old Net Name=NetJ5_35 New Net Name=NetJ15_35
+Change Net Name : Old Net Name=NetJ5_36 New Net Name=NetJ15_36
+Change Net Name : Old Net Name=NetJ5_37 New Net Name=NetJ15_37
+Change Net Name : Old Net Name=NetJ7_1 New Net Name=NetJ8_1
+Change Net Name : Old Net Name=NetJ14_1 New Net Name=NetJ3_Main_Squib_1
+Change Net Name : Old Net Name=NetJ15_1 New Net Name=NetJ3_Motor_Squib_1
+Change Net Name : Old Net Name=NetJ16_1 New Net Name=NetJ3_Sep_Squib_1
+Change Net Name : Old Net Name=NetJ17_1 New Net Name=NetJ4_1
+Change Net Name : Old Net Name=NetJ17_2 New Net Name=NetJ4_2
+Change Net Name : Old Net Name=NetJ18_1 New Net Name=NetJ5_1
+Change Net Name : Old Net Name=NetJ18_2 New Net Name=NetJ5_2
+Change Net Name : Old Net Name=NetJ19_1 New Net Name=NetJ6_ESP UART Output_1
+Change Net Name : Old Net Name=NetJ19_2 New Net Name=NetJ6_ESP UART Output_2
+Change Net Name : Old Net Name=NetJ20_1 New Net Name=NetJ6_UART EXT_1
+Change Net Name : Old Net Name=NetJ20_2 New Net Name=NetJ6_UART EXT_2
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetQ5_1
+Change Net Name : Old Net Name=NetQ5_1 New Net Name=NetQ2_Main_Squib_1
+Change Net Name : Old Net Name=NetQ5_3 New Net Name=NetQ2_Main_Squib_3
+Change Net Name : Old Net Name=NetQ7_1 New Net Name=NetQ2_Motor_Squib_1
+Change Net Name : Old Net Name=NetQ7_3 New Net Name=NetQ2_Motor_Squib_3
+Change Net Name : Old Net Name=NetQ9_1 New Net Name=NetQ2_Sep_Squib_1
+Change Net Name : Old Net Name=NetQ9_3 New Net Name=NetQ2_Sep_Squib_3
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR1_ADC 1_2
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR2_ADC 1_1
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR2_ADC 1_2
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR3_ADC 1_2
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetR4_ADC 1_2
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR1_ADC 2_2
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR2_ADC 2_1
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR2_ADC 2_2
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR3_ADC 2_2
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetR4_ADC 2_2
+Change Net Name : Old Net Name=NetR53_2 New Net Name=NetR15_2
+Change Net Name : Old Net Name=NetR54_1 New Net Name=NetR16_1
+Change Net Name : Old Net Name=NetR54_2 New Net Name=NetR16_2
+Change Net Name : Old Net Name=NetR56_1 New Net Name=NetR18_1
+Change Net Name : Old Net Name=NetR59_2 New Net Name=NetR21_2
+Change Net Name : Old Net Name=NetR60_1 New Net Name=NetR22_1
+Change Net Name : Old Net Name=NetR60_2 New Net Name=NetR22_2
+Change Net Name : Old Net Name=NetR62_2 New Net Name=NetR24_2
+Change Net Name : Old Net Name=NetR63_2 New Net Name=NetR25_2
+Change Net Name : Old Net Name=NetR65_2 New Net Name=NetR27_2
+Change Net Name : Old Net Name=NetR66_1 New Net Name=NetR28_1
+Change Net Name : Old Net Name=NetR66_2 New Net Name=NetR28_2
+Change Net Name : Old Net Name=NetR69_1 New Net Name=NetR31_1
+Change Net Name : Old Net Name=NetR69_2 New Net Name=NetR31_2
+Change Net Name : Old Net Name=NetR71_1 New Net Name=NetR33_1
+Change Net Name : Old Net Name=NetR71_2 New Net Name=NetR33_2
+Change Net Name : Old Net Name=NetR72_2 New Net Name=NetR34_2
+Change Net Name : Old Net Name=NetR75_1 New Net Name=NetR37_1
+Change Net Name : Old Net Name=NetR75_2 New Net Name=NetR37_2
+Change Net Name : Old Net Name=NetR78_1 New Net Name=NetR40_1
+Change Net Name : Old Net Name=NetR79_1 New Net Name=NetR41_1
+Change Net Name : Old Net Name=NetR79_2 New Net Name=NetR41_2
+Change Net Name : Old Net Name=NetR87_1 New Net Name=NetR49_1
+Change Net Name : Old Net Name=NetR89_1 New Net Name=NetR74_1
+Change Net Name : Old Net Name=NetR91_1 New Net Name=NetR76_1
+Change Net Name : Old Net Name=NetR92_2 New Net Name=NetR77_2
+Change Net Name : Old Net Name=NetR93_2 New Net Name=NetR78_2
+Change Net Name : Old Net Name=NetR94_1 New Net Name=NetR87_1
+Change Net Name : Old Net Name=NetR113_1 New Net Name=NetR60_1
+Change Net Name : Old Net Name=NetR117_1 New Net Name=NetR64_1
+Change Net Name : Old Net Name=NetR117_2 New Net Name=NetR64_2
+Change Net Name : Old Net Name=NetR119_1 New Net Name=NetR66_1
+Change Net Name : Old Net Name=NetR120_1 New Net Name=NetR67_1
+Change Net Name : Old Net Name=NetR120_2 New Net Name=NetR67_2
+Change Net Name : Old Net Name=NetR121_1 New Net Name=NetR81_1
+Change Net Name : Old Net Name=NetR123_1 New Net Name=NetR83_1
+Change Net Name : Old Net Name=NetR127_1 New Net Name=NetR79_1
+Change Net Name : Old Net Name=NetR128_1 New Net Name=NetR8_Main_Squib_1
+Change Net Name : Old Net Name=NetR131_2 New Net Name=NetR11_Main_Squib_2
+Change Net Name : Old Net Name=NetR132_1 New Net Name=NetR12_Main_Squib_1
+Change Net Name : Old Net Name=NetR134_2 New Net Name=NetR14_Main_Squib_2
+Change Net Name : Old Net Name=NetR135_1 New Net Name=NetR8_Motor_Squib_1
+Change Net Name : Old Net Name=NetR138_2 New Net Name=NetR11_Motor_Squib_2
+Change Net Name : Old Net Name=NetR139_1 New Net Name=NetR12_Motor_Squib_1
+Change Net Name : Old Net Name=NetR141_2 New Net Name=NetR14_Motor_Squib_2
+Change Net Name : Old Net Name=NetR142_1 New Net Name=NetR8_Sep_Squib_1
+Change Net Name : Old Net Name=NetR145_2 New Net Name=NetR11_Sep_Squib_2
+Change Net Name : Old Net Name=NetR146_1 New Net Name=NetR12_Sep_Squib_1
+Change Net Name : Old Net Name=NetR148_2 New Net Name=NetR14_Sep_Squib_2
+Change Net Name : Old Net Name=NetR150_2 New Net Name=NetR57_Voltage_Indicator1_2
+Change Net Name : Old Net Name=NetR152_2 New Net Name=NetR57_Voltage_Indicator2_2
+Change Net Name : Old Net Name=NetR154_2 New Net Name=NetR57_Voltage_Indicator3_2
+Change Net Name : Old Net Name=NetR159_1 New Net Name=NetR72_ESP UART Output_1
+Change Net Name : Old Net Name=NetR160_1 New Net Name=NetR73_ESP UART Output_1
+Change Net Name : Old Net Name=NetR161_1 New Net Name=NetR72_UART EXT_1
+Change Net Name : Old Net Name=NetR162_1 New Net Name=NetR73_UART EXT_1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Net: Name=NetQ3_1
+Added Member To Class: ClassName=Accelerometer Member=Component C2 Cap
+Added Member To Class: ClassName=ADC 2 Member=Component C3_ADC 2 (C3) Cap
+Added Member To Class: ClassName=ADC 1 Member=Component C4_ADC 1 (C4) Cap
+Added Member To Class: ClassName=ADC 1 Member=Component C5_ADC 1 (C5) Cap
+Added Member To Class: ClassName=ADC 1 Member=Component C8_ADC 1 (C8) Cap
+Added Member To Class: ClassName=Gyroscope Member=Component C16 Cap
+Added Member To Class: ClassName=Magnetometer Member=Component C17 Cap
+Added Member To Class: ClassName=Magnetometer Member=Component C18 Cap
+Added Member To Class: ClassName=ESP Member=Component C21 Cap
+Added Member To Class: ClassName=ESP Member=Component C24 Cap
+Added Member To Class: ClassName=ESP Member=Component C25 Cap
+Added Member To Class: ClassName=ESP Member=Component C26 Cap
+Added Member To Class: ClassName=ESP Member=Component C28 Cap
+Added Member To Class: ClassName=ESP Member=Component C30 Cap
+Added Member To Class: ClassName=AIN02 Member=Component C31_AIN02 (C31) Cap
+Added Member To Class: ClassName=AIN11 Member=Component C31_AIN11 (C31) Cap
+Added Member To Class: ClassName=AIN22 Member=Component C31_AIN22 (C31) Cap
+Added Member To Class: ClassName=AIN31 Member=Component C31_AIN31 (C31) Cap
+Added Member To Class: ClassName=PWR Member=Component C33 Cap
+Added Member To Class: ClassName=PWR Member=Component C37 Cap
+Added Member To Class: ClassName=Squib_Managment Member=Component C40 Cap
+Added Member To Class: ClassName=Regulators Member=Component C41 Cap
+Added Member To Class: ClassName=Regulators Member=Component C42 Cap
+Added Member To Class: ClassName=Regulators Member=Component C45 Cap
+Added Member To Class: ClassName=Regulators Member=Component C46 Cap
+Added Member To Class: ClassName=Regulators Member=Component C48 Cap
+Added Member To Class: ClassName=Regulators Member=Component C49 Cap
+Added Member To Class: ClassName=Regulators Member=Component C50 Cap
+Added Member To Class: ClassName=ERR_IndESP Member=Component D1_ERR_IndESP (D1) LED_R
+Added Member To Class: ClassName=ERR_IndPi Member=Component D1_ERR_IndPi (D1) LED_R
+Added Member To Class: ClassName=Voltage_Indicator2 Member=Component D3_Voltage_Indicator2 (D3) LED_B
+Added Member To Class: ClassName=U_ESP power Member=Component D5 Buck Diode
+Added Member To Class: ClassName=ACT_IND Member=Component D6_ACT_IND (D6) LED_R
+Added Member To Class: ClassName=Motor_IND Member=Component D6_Motor_IND (D6) LED_R
+Added Member To Class: ClassName=Regulators Member=Component D7 Buck Diode
+Added Member To Class: ClassName=ADC 1 Member=Component J1_ADC 1 (J1) Screw Terminal
+Added Member To Class: ClassName=ADC 1 Member=Component J2_ADC 1 (J2) Screw Terminal
+Added Member To Class: ClassName=Main_Squib Member=Component J3_Main_Squib (J3) Screw Terminal
+Added Member To Class: ClassName=Sep_Squib Member=Component J3_Sep_Squib (J3) Screw Terminal
+Added Member To Class: ClassName=U_Power IO Member=Component J7 Screw Terminal
+Added Member To Class: ClassName=U_Power IO Member=Component J8 Screw Terminal
+Added Member To Class: ClassName=U_Power IO Member=Component J11 Screw Terminal
+Added Member To Class: ClassName=Sep_Squib Member=Component Q1_Sep_Squib (Q1) P-Channel
+Added Member To Class: ClassName=Main_Squib Member=Component Q2_Main_Squib (Q2) P-Channel
+Added Member To Class: ClassName=PWR Member=Component Q3 P-Channel
+Added Member To Class: ClassName=ADC 2 Member=Component R1_ADC 2 (R1) Res3
+Added Member To Class: ClassName=ADC 1 Member=Component R3_ADC 1 (R3) Res3
+Added Member To Class: ClassName=ADC 2 Member=Component R5_ADC 2 (R5) Res3
+Added Member To Class: ClassName=ERR_IndESP Member=Component R7_ERR_IndESP (R7) Res3
+Added Member To Class: ClassName=ERR_IndPi Member=Component R7_ERR_IndPi (R7) Res3
+Added Member To Class: ClassName=Sep_Squib Member=Component R8_Sep_Squib (R8) Res3
+Added Member To Class: ClassName=Main_Squib Member=Component R9_Main_Squib (R9) Res3
+Added Member To Class: ClassName=Motor_Squib Member=Component R9_Motor_Squib (R9) Res3
+Added Member To Class: ClassName=Main_Squib Member=Component R10_Main_Squib (R10) Res3
+Added Member To Class: ClassName=Main_Squib Member=Component R11_Main_Squib (R11) Res3
+Added Member To Class: ClassName=Motor_Squib Member=Component R11_Motor_Squib (R11) Res3
+Added Member To Class: ClassName=Motor_Squib Member=Component R12_Motor_Squib (R12) Res3
+Added Member To Class: ClassName=Motor_Squib Member=Component R13_Motor_Squib (R13) Res3
+Added Member To Class: ClassName=Sep_Squib Member=Component R13_Sep_Squib (R13) Res3
+Added Member To Class: ClassName=Sep_Squib Member=Component R14_Sep_Squib (R14) Res3
+Added Member To Class: ClassName=Buzzer Member=Component R15 Res3
+Added Member To Class: ClassName=ESP Member=Component R18 Res3
+Added Member To Class: ClassName=ESP Member=Component R20 Res3
+Added Member To Class: ClassName=ESP Member=Component R23 Res3
+Added Member To Class: ClassName=ESP Member=Component R34 Res3
+Added Member To Class: ClassName=ESP Member=Component R35 Res3
+Added Member To Class: ClassName=ESP Member=Component R36 Res3
+Added Member To Class: ClassName=ESP Member=Component R38 Res3
+Added Member To Class: ClassName=ESP Member=Component R39 Res3
+Added Member To Class: ClassName=ESP Member=Component R40 Res3
+Added Member To Class: ClassName=ESP Member=Component R42 Res3
+Added Member To Class: ClassName=ESP Member=Component R43 Res3
+Added Member To Class: ClassName=ESP Member=Component R44 Res3
+Added Member To Class: ClassName=ESP Member=Component R45 Res3
+Added Member To Class: ClassName=ESP Member=Component R47 Res3
+Added Member To Class: ClassName=ESP Member=Component R48 Res3
+Added Member To Class: ClassName=ESP Member=Component R49 Res3
+Added Member To Class: ClassName=ESP Member=Component R50 Res3
+Added Member To Class: ClassName=AIN01 Member=Component R51_AIN01 (R51) Res3
+Added Member To Class: ClassName=AIN21 Member=Component R51_AIN21 (R51) Res3
+Added Member To Class: ClassName=AIN32 Member=Component R51_AIN32 (R51) Res3
+Added Member To Class: ClassName=AIN01 Member=Component R52_AIN01 (R52) Res3
+Added Member To Class: ClassName=AIN02 Member=Component R52_AIN02 (R52) Res3
+Added Member To Class: ClassName=AIN11 Member=Component R52_AIN11 (R52) Res3
+Added Member To Class: ClassName=AIN21 Member=Component R52_AIN21 (R52) Res3
+Added Member To Class: ClassName=AIN22 Member=Component R52_AIN22 (R52) Res3
+Added Member To Class: ClassName=AIN32 Member=Component R52_AIN32 (R52) Res3
+Added Member To Class: ClassName=AIN02 Member=Component R53_AIN02 (R53) Res3
+Added Member To Class: ClassName=AIN12 Member=Component R53_AIN12 (R53) Res3
+Added Member To Class: ClassName=AIN21 Member=Component R53_AIN21 (R53) Res3
+Added Member To Class: ClassName=AIN01 Member=Component R54_AIN01 (R54) Res3
+Added Member To Class: ClassName=AIN02 Member=Component R54_AIN02 (R54) Res3
+Added Member To Class: ClassName=AIN22 Member=Component R54_AIN22 (R54) Res3
+Added Member To Class: ClassName=AIN31 Member=Component R54_AIN31 (R54) Res3
+Added Member To Class: ClassName=AIN32 Member=Component R54_AIN32 (R54) Res3
+Added Member To Class: ClassName=AIN02 Member=Component R55_AIN02 (R55) Res3
+Added Member To Class: ClassName=AIN11 Member=Component R55_AIN11 (R55) Res3
+Added Member To Class: ClassName=AIN12 Member=Component R55_AIN12 (R55) Res3
+Added Member To Class: ClassName=AIN21 Member=Component R55_AIN21 (R55) Res3
+Added Member To Class: ClassName=AIN32 Member=Component R55_AIN32 (R55) Res3
+Added Member To Class: ClassName=Voltage_Indicator1 Member=Component R56_Voltage_Indicator1 (R56) Res3
+Added Member To Class: ClassName=Voltage_Indicator1 Member=Component R57_Voltage_Indicator1 (R57) Res3
+Added Member To Class: ClassName=Voltage_Indicator3 Member=Component R57_Voltage_Indicator3 (R57) Res3
+Added Member To Class: ClassName=PWR Member=Component R59 Res3
+Added Member To Class: ClassName=PWR Member=Component R61 Res3
+Added Member To Class: ClassName=PWR Member=Component R63 Res3
+Added Member To Class: ClassName=PWR Member=Component R65 Res3
+Added Member To Class: ClassName=PWR Member=Component R66 Res3
+Added Member To Class: ClassName=SPI Output Member=Component R68 Res3
+Added Member To Class: ClassName=SPI Output Member=Component R71 Res3
+Added Member To Class: ClassName=ESP UART Output Member=Component R72_ESP UART Output (R72) Res3
+Added Member To Class: ClassName=U_ESP power Member=Component R75 Res3
+Added Member To Class: ClassName=U_ESP power Member=Component R78 Res3
+Added Member To Class: ClassName=ACT_IND Member=Component R80_ACT_IND (R80) Res3
+Added Member To Class: ClassName=Regulators Member=Component R82 Res3
+Added Member To Class: ClassName=Regulators Member=Component R83 Res3
+Added Member To Class: ClassName=Regulators Member=Component R84 Res3
+Added Member To Class: ClassName=Regulators Member=Component R85 Res3
+Added Member To Class: ClassName=Main Member=Component R88 Res3
+Added Member To Class: ClassName=Main Member=Component R89 Res3
+Added Member To Class: ClassName=Main Member=Component R90 Res3
+Added Member To Class: ClassName=Main Member=Component R92 Res3
+Added Member To Class: ClassName=Main Member=Component R93 Res3
+Added Member To Class: ClassName=Motor_Squib Member=Component T1_Motor_Squib (T1) MMBT2222ALT1
+Added Member To Class: ClassName=Sep_Squib Member=Component T1_Sep_Squib (T1) MMBT2222ALT1
+Added Member To Class: ClassName=Motor_Squib Member=Component T2_Motor_Squib (T2) MMBT2222ALT1
+Added Member To Class: ClassName=Voltage_Indicator1 Member=Component T7_Voltage_Indicator1 (T7) MMBT2222ALT1
+Added Member To Class: ClassName=Voltage_Indicator2 Member=Component T7_Voltage_Indicator2 (T7) MMBT2222ALT1
+Added Member To Class: ClassName=PWR Member=Component T9 MMBT2222ALT1
+Added Member To Class: ClassName=Accelerometer Member=Component U1 LIS3DSHTR
+Added Member To Class: ClassName=ADC 1 Member=Component U2_ADC 1 (U2) Analog to Digital Converter
+Added Member To Class: ClassName=Magnetometer Member=Component U5 MLX90393
+Added Member To Class: ClassName=ESP Member=Component U7 ESP32-WROOM-32D
+Added Member To Class: ClassName=PWR Member=Component U8 ACS70331EESATR-005B3
+Added Room: Name=Accelerometer
+Added Room: Name=ACT_IND
+Added Room: Name=ACT_IndESP
+Added Room: Name=ADC 1
+Added Room: Name=ADC 2
+Added Room: Name=AIN01
+Added Room: Name=AIN02
+Added Room: Name=AIN11
+Added Room: Name=AIN12
+Added Room: Name=AIN21
+Added Room: Name=AIN22
+Added Room: Name=AIN31
+Added Room: Name=AIN32
+Added Room: Name=Barometer
+Added Room: Name=Buzzer
+Added Room: Name=ERR_IndESP
+Added Room: Name=ERR_IndPi
+Added Room: Name=ESP
+Added Room: Name=ESP UART Output
+Added Room: Name=Gyroscope
+Added Room: Name=Magnetometer
+Added Room: Name=Main
+Added Room: Name=Main_IND
+Added Room: Name=Main_Squib
+Added Room: Name=Motor_IND
+Added Room: Name=Motor_Squib
+Added Room: Name=PWR
+Added Room: Name=Regulators
+Added Room: Name=Sep_IND
+Added Room: Name=Sep_Squib
+Added Room: Name=SPI Output
+Added Room: Name=Squib_Managment
+Added Room: Name=U_ESP power
+Added Room: Name=U_Power IO
+Added Room: Name=UART
+Added Room: Name=UART EXT
+Added Room: Name=Voltage_Indicator1
+Added Room: Name=Voltage_Indicator2
+Added Room: Name=Voltage_Indicator3

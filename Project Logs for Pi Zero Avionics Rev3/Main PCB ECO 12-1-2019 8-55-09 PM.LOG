@@ -1,0 +1,71 @@
+Removed Member From Class: ClassName=PWR Member=C67
+Removed Member From Class: ClassName=Main Member=R163
+Removed Member From Class: ClassName=Main Member=R164
+Removed Member From Class: ClassName=Main Member=R165
+Removed Member From Class: ClassName=Squib_Managment Member=U14
+Added Component: Designator=C47(Electrolytic Cap)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C60(Electrolytic Cap)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "820uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=VBAT_Switched Pin=C47-2
+Added Pin To Net: NetName=GND Pin=C60-1
+Added Pin To Net: NetName=Vdigital Pin=C60-2
+Added Member To Class: ClassName=PWR Member=Component C47 (C32) Cap
+Added Member To Class: ClassName=PWR Member=Component C52 (C37) Cap
+Added Member To Class: ClassName=Regulators Member=Component C60 (C47) Cap
+Added Member To Class: ClassName=Squib_Managment Member=Component U13 (U9) ACS711KEXLT-15AB-T
+Added Room: Name=Accelerometer
+Added Room: Name=ACT_IND
+Added Room: Name=ACT_IndESP
+Added Room: Name=ADC 1
+Added Room: Name=ADC 2
+Added Room: Name=AIN01
+Added Room: Name=AIN02
+Added Room: Name=AIN11
+Added Room: Name=AIN12
+Added Room: Name=AIN21
+Added Room: Name=AIN22
+Added Room: Name=AIN31
+Added Room: Name=AIN32
+Added Room: Name=Barometer
+Added Room: Name=Buzzer
+Added Room: Name=ERR_IndESP
+Added Room: Name=ERR_IndPi
+Added Room: Name=ESP
+Added Room: Name=ESP UART Output
+Added Room: Name=Gyroscope
+Added Room: Name=Magnetometer
+Added Room: Name=Main
+Added Room: Name=Main_IND
+Added Room: Name=Main_Squib
+Added Room: Name=Motor_IND
+Added Room: Name=Motor_Squib
+Added Room: Name=PWR
+Added Room: Name=Regulators
+Added Room: Name=Sep_IND
+Added Room: Name=Sep_Squib
+Added Room: Name=SPI Output
+Added Room: Name=Squib_Managment
+Added Room: Name=U_EEPROM
+Added Room: Name=U_ESP power
+Added Room: Name=U_Power IO
+Added Room: Name=UART
+Added Room: Name=UART EXT
+Added Room: Name=Voltage_Indicator1
+Added Room: Name=Voltage_Indicator2
+Added Room: Name=Voltage_Indicator3

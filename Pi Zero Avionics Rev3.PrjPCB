@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for Pi Zero Avionics Rev3
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -38,40 +38,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Pi_Avionics.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=0
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XRUFOGNW
-
-[Document2]
-DocumentPath=Ryans Footprints.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HYFBMOYB
-
-[Document3]
 DocumentPath=Gyroscope.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +54,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LRGOXVHA
 
-[Document4]
+[Document2]
 DocumentPath=ADC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,24 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SUBCKVNU
 
-[Document5]
-DocumentPath=..\..\Documents\Altium\Altium Documents\Library\Miscellaneous Devices.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
+[Document3]
 DocumentPath=Magnetometer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RHHEGGCC
 
-[Document7]
+[Document4]
 DocumentPath=Barometer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PIFVFTLF
 
-[Document8]
+[Document5]
 DocumentPath=AvionicsParts.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YYJVBNLN
 
-[Document9]
+[Document6]
 DocumentPath=AvionicsParts.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FLBYPCDU
 
-[Document10]
+[Document7]
 DocumentPath=Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=APBCMDCI
 
-[Document11]
+[Document8]
 DocumentPath=Accelerometer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBAUOLXI
 
-[Document12]
+[Document9]
 DocumentPath=Squibs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LMTHPSYY
 
-[Document13]
+[Document10]
 DocumentPath=No_Transistor_LED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WAGAOEWO
 
-[Document14]
+[Document11]
 DocumentPath=Buzzer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,8 +224,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CGBHHKXH
 
-[Document15]
-DocumentPath=ESP32.SchDoc
+[Document12]
+DocumentPath=ESP32 backup.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -292,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CNYETBRJ
 
-[Document16]
+[Document13]
 DocumentPath=Power Managment.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FVRFJXGE
 
-[Document17]
+[Document14]
 DocumentPath=SPI Output.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WPFHPAEJ
 
-[Document18]
+[Document15]
 DocumentPath=3 way uart switch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PPSJRJFV
 
-[Document19]
+[Document16]
 DocumentPath=UART Output.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OHKRCMHG
 
-[Document20]
+[Document17]
 DocumentPath=ADC RC Network.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NYXBJETA
 
-[Document21]
+[Document18]
 DocumentPath=Transistor_LED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KEFPSUUY
 
-[Document22]
+[Document19]
 DocumentPath=Pi Zero Avionics Rev3.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document20]
 DocumentPath=ESP power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IVPXKSLG
 
-[Document24]
+[Document21]
 DocumentPath=Squib_Managment.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CHEYSJFP
 
-[Document25]
+[Document22]
 DocumentPath=Power IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PIRURFCB
 
-[Document26]
+[Document23]
 DocumentPath=No_Transistor_LED_INV.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QJEGNFAW
 
-[Document27]
+[Document24]
 DocumentPath=Regulators.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SCAWUYSL
 
-[Document28]
+[Document25]
 DocumentPath=HAT PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XEGHHXYY
 
-[Document29]
+[Document26]
 DocumentPath=Main.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CGDMKACB
 
-[Document30]
+[Document27]
 DocumentPath=Pi Zero Avionics Rev3.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document28]
 DocumentPath=Main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PNDCSEOX
 
-[Document32]
+[Document29]
 DocumentPath=Pi Zero Avionics Rev3.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,8 +530,144 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document30]
 DocumentPath=Pi Zero Avionics Rev3.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document31]
+DocumentPath=ESP32.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=34
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=APDVUTPF
+
+[Document32]
+DocumentPath=EEPROM.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=33
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BGUYLIAV
+
+[Document33]
+DocumentPath=Draftsman documents.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document34]
+DocumentPath=HAT PCB.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document35]
+DocumentPath=Main Gerbers.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document36]
+DocumentPath=Main NCDrill.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document37]
+DocumentPath=HAT Gerbers.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document38]
+DocumentPath=HAT NCDrill.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -607,7 +692,7 @@ DocumentPath=Project Outputs for Pi Zero Avionics Rev3\Design Rule Check - Main.
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=.\Fabrication Files\Hat\HAT PCB-RoundHoles.TXT
+DocumentPath=Fabrication Files\Hat\HAT PCB-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
@@ -615,7 +700,7 @@ DocumentPath=Project Outputs for Pi Zero Avionics Rev3\HAT PCB-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=.\Fabrication Files\Hat\HAT PCB-SlotHoles.TXT
+DocumentPath=Fabrication Files\Hat\HAT PCB-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
@@ -623,7 +708,7 @@ DocumentPath=Project Outputs for Pi Zero Avionics Rev3\HAT PCB-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=.\Fabrication Files\Hat\HAT PCB.DRR
+DocumentPath=Fabrication Files\Hat\HAT PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument8]
@@ -631,7 +716,7 @@ DocumentPath=Project Outputs for Pi Zero Avionics Rev3\HAT PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=.\Fabrication Files\Hat\HAT PCB.EXTREP
+DocumentPath=Fabrication Files\Hat\HAT PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
@@ -639,7 +724,7 @@ DocumentPath=Project Outputs for Pi Zero Avionics Rev3\HAT PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=.\Fabrication Files\Hat\HAT PCB.GBL
+DocumentPath=Fabrication Files\Hat\HAT PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
@@ -647,7 +732,7 @@ DocumentPath=Project Outputs for Pi Zero Avionics Rev3\HAT PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=.\Fabrication Files\Hat\HAT PCB.GBO
+DocumentPath=Fabrication Files\Hat\HAT PCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
@@ -655,7 +740,7 @@ DocumentPath=Project Outputs for Pi Zero Avionics Rev3\HAT PCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=.\Fabrication Files\Hat\HAT PCB.GBP
+DocumentPath=Fabrication Files\Hat\HAT PCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
@@ -663,7 +748,7 @@ DocumentPath=Project Outputs for Pi Zero Avionics Rev3\HAT PCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=.\Fabrication Files\Hat\HAT PCB.GBS
+DocumentPath=Fabrication Files\Hat\HAT PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument18]
@@ -671,7 +756,7 @@ DocumentPath=Project Outputs for Pi Zero Avionics Rev3\HAT PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=.\Fabrication Files\Hat\HAT PCB.GKO
+DocumentPath=Fabrication Files\Hat\HAT PCB.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument20]
@@ -687,7 +772,7 @@ DocumentPath=Project Outputs for Pi Zero Avionics Rev3\HAT PCB.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=.\Fabrication Files\Hat\HAT PCB.GTL
+DocumentPath=Fabrication Files\Hat\HAT PCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument24]
@@ -695,7 +780,7 @@ DocumentPath=Project Outputs for Pi Zero Avionics Rev3\HAT PCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=.\Fabrication Files\Hat\HAT PCB.GTO
+DocumentPath=Fabrication Files\Hat\HAT PCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument26]
@@ -703,7 +788,7 @@ DocumentPath=Project Outputs for Pi Zero Avionics Rev3\HAT PCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=.\Fabrication Files\Hat\HAT PCB.GTP
+DocumentPath=Fabrication Files\Hat\HAT PCB.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument28]
@@ -711,7 +796,7 @@ DocumentPath=Project Outputs for Pi Zero Avionics Rev3\HAT PCB.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=.\Fabrication Files\Hat\HAT PCB.GTS
+DocumentPath=Fabrication Files\Hat\HAT PCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument30]
@@ -719,7 +804,7 @@ DocumentPath=Project Outputs for Pi Zero Avionics Rev3\HAT PCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=.\Fabrication Files\Hat\HAT PCB.LDP
+DocumentPath=Fabrication Files\Hat\HAT PCB.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument32]
@@ -727,7 +812,7 @@ DocumentPath=Project Outputs for Pi Zero Avionics Rev3\HAT PCB.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=.\Fabrication Files\Hat\HAT PCB.REP
+DocumentPath=Fabrication Files\Hat\HAT PCB.REP
 DItemRevisionGUID=
 
 [GeneratedDocument34]
@@ -735,7 +820,7 @@ DocumentPath=Project Outputs for Pi Zero Avionics Rev3\HAT PCB.REP
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=.\Fabrication Files\Hat\HAT PCB.RUL
+DocumentPath=Fabrication Files\Hat\HAT PCB.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument36]
@@ -743,142 +828,130 @@ DocumentPath=Project Outputs for Pi Zero Avionics Rev3\HAT PCB.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Main 11-11-2019 3-22-35 PM.WAS
+DocumentPath=Fabrication Files\Main\Main.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Main 11-11-2019 3-25-55 PM.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Main 11-12-2019 1-04-15 PM.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=.\Fabrication Files\Main\Main.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument41]
 DocumentPath=Project Outputs for Pi Zero Avionics Rev3\Main.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument42]
-DocumentPath=.\Fabrication Files\Main\Main.EXTREP
+[GeneratedDocument39]
+DocumentPath=Fabrication Files\Main\Main.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument40]
 DocumentPath=Project Outputs for Pi Zero Avionics Rev3\Main.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument44]
-DocumentPath=.\Fabrication Files\Main\Main.GBL
+[GeneratedDocument41]
+DocumentPath=Fabrication Files\Main\Main.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument45]
+[GeneratedDocument42]
 DocumentPath=Project Outputs for Pi Zero Avionics Rev3\Main.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument46]
-DocumentPath=.\Fabrication Files\Main\Main.GBO
+[GeneratedDocument43]
+DocumentPath=Fabrication Files\Main\Main.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument44]
 DocumentPath=Project Outputs for Pi Zero Avionics Rev3\Main.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument48]
-DocumentPath=.\Fabrication Files\Main\Main.GBP
+[GeneratedDocument45]
+DocumentPath=Fabrication Files\Main\Main.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument46]
 DocumentPath=Project Outputs for Pi Zero Avionics Rev3\Main.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument50]
-DocumentPath=.\Fabrication Files\Main\Main.GBS
+[GeneratedDocument47]
+DocumentPath=Fabrication Files\Main\Main.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument48]
 DocumentPath=Project Outputs for Pi Zero Avionics Rev3\Main.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument52]
-DocumentPath=.\Fabrication Files\Main\Main.GKO
+[GeneratedDocument49]
+DocumentPath=Fabrication Files\Main\Main.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument50]
 DocumentPath=Project Outputs for Pi Zero Avionics Rev3\Main.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument54]
+[GeneratedDocument51]
 DocumentPath=Project Outputs for Pi Zero Avionics Rev3\Main.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument55]
+[GeneratedDocument52]
 DocumentPath=Project Outputs for Pi Zero Avionics Rev3\Main.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument56]
-DocumentPath=.\Fabrication Files\Main\Main.GTL
+[GeneratedDocument53]
+DocumentPath=Fabrication Files\Main\Main.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument57]
+[GeneratedDocument54]
 DocumentPath=Project Outputs for Pi Zero Avionics Rev3\Main.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument58]
-DocumentPath=.\Fabrication Files\Main\Main.GTO
+[GeneratedDocument55]
+DocumentPath=Fabrication Files\Main\Main.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument59]
+[GeneratedDocument56]
 DocumentPath=Project Outputs for Pi Zero Avionics Rev3\Main.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument60]
-DocumentPath=.\Fabrication Files\Main\Main.GTP
+[GeneratedDocument57]
+DocumentPath=Fabrication Files\Main\Main.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument61]
+[GeneratedDocument58]
 DocumentPath=Project Outputs for Pi Zero Avionics Rev3\Main.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument62]
-DocumentPath=.\Fabrication Files\Main\Main.GTS
+[GeneratedDocument59]
+DocumentPath=Fabrication Files\Main\Main.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument63]
+[GeneratedDocument60]
 DocumentPath=Project Outputs for Pi Zero Avionics Rev3\Main.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument64]
-DocumentPath=.\Fabrication Files\Main\Main.LDP
+[GeneratedDocument61]
+DocumentPath=Fabrication Files\Main\Main.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument65]
+[GeneratedDocument62]
 DocumentPath=Project Outputs for Pi Zero Avionics Rev3\Main.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument66]
-DocumentPath=.\Fabrication Files\Main\Main.REP
+[GeneratedDocument63]
+DocumentPath=Fabrication Files\Main\Main.REP
 DItemRevisionGUID=
 
-[GeneratedDocument67]
+[GeneratedDocument64]
 DocumentPath=Project Outputs for Pi Zero Avionics Rev3\Main.REP
 DItemRevisionGUID=
 
-[GeneratedDocument68]
-DocumentPath=.\Fabrication Files\Main\Main.RUL
+[GeneratedDocument65]
+DocumentPath=Fabrication Files\Main\Main.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument69]
+[GeneratedDocument66]
 DocumentPath=Project Outputs for Pi Zero Avionics Rev3\Main.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument70]
-DocumentPath=.\Fabrication Files\Main\Main.TXT
+[GeneratedDocument67]
+DocumentPath=Fabrication Files\Main\Main.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument71]
+[GeneratedDocument68]
 DocumentPath=Project Outputs for Pi Zero Avionics Rev3\Main.TXT
 DItemRevisionGUID=
 
@@ -929,7 +1002,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for Pi Zero Avionics Rev3
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -2179,7 +2252,7 @@ MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
 MatchStrictly2=1
-PhysicalNamingFormat=$Component
+PhysicalNamingFormat=$ComponentPrefix$GlobalIndex
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
 UniqueIDPath0=\GCWNXXPR
@@ -2198,83 +2271,83 @@ Order1=2
 IndexEnabled1=0
 IndexStartValue1=1
 Suffix1=
-UniqueIDPath2=\FTCSWPXX\DKLCGXLB
+UniqueIDPath2=\FTCSWPXX\ECQSQFWL
 DocumentName2=ADC.SchDoc
 IsEnabled2=1
 SelectionScope2=All
-Order2=3
+Order2=1
 IndexEnabled2=0
 IndexStartValue2=1
 Suffix2=
-UniqueIDPath3=\FTCSWPXX\ECQSQFWL
+UniqueIDPath3=\FTCSWPXX\DKLCGXLB
 DocumentName3=ADC.SchDoc
 IsEnabled3=1
 SelectionScope3=All
-Order3=4
+Order3=2
 IndexEnabled3=0
 IndexStartValue3=1
 Suffix3=
-UniqueIDPath4=\FTCSWPXX\DKLCGXLB\PKMFMVEP
+UniqueIDPath4=\FTCSWPXX\ECQSQFWL\PKMFMVEP
 DocumentName4=ADC RC Network.SchDoc
 IsEnabled4=1
 SelectionScope4=All
-Order4=5
+Order4=6
 IndexEnabled4=0
 IndexStartValue4=1
 Suffix4=
-UniqueIDPath5=\FTCSWPXX\ECQSQFWL\PKMFMVEP
+UniqueIDPath5=\FTCSWPXX\DKLCGXLB\PKMFMVEP
 DocumentName5=ADC RC Network.SchDoc
 IsEnabled5=1
 SelectionScope5=All
-Order5=6
+Order5=5
 IndexEnabled5=0
 IndexStartValue5=1
 Suffix5=
-UniqueIDPath6=\FTCSWPXX\DKLCGXLB\SVXEWXMF
+UniqueIDPath6=\FTCSWPXX\ECQSQFWL\SVXEWXMF
 DocumentName6=ADC RC Network.SchDoc
 IsEnabled6=1
 SelectionScope6=All
-Order6=7
+Order6=8
 IndexEnabled6=0
 IndexStartValue6=1
 Suffix6=
-UniqueIDPath7=\FTCSWPXX\ECQSQFWL\SVXEWXMF
+UniqueIDPath7=\FTCSWPXX\DKLCGXLB\SVXEWXMF
 DocumentName7=ADC RC Network.SchDoc
 IsEnabled7=1
 SelectionScope7=All
-Order7=8
+Order7=7
 IndexEnabled7=0
 IndexStartValue7=1
 Suffix7=
-UniqueIDPath8=\FTCSWPXX\DKLCGXLB\JMQOIWYS
+UniqueIDPath8=\FTCSWPXX\ECQSQFWL\JMQOIWYS
 DocumentName8=ADC RC Network.SchDoc
 IsEnabled8=1
 SelectionScope8=All
-Order8=9
+Order8=10
 IndexEnabled8=0
 IndexStartValue8=1
 Suffix8=
-UniqueIDPath9=\FTCSWPXX\ECQSQFWL\JMQOIWYS
+UniqueIDPath9=\FTCSWPXX\DKLCGXLB\JMQOIWYS
 DocumentName9=ADC RC Network.SchDoc
 IsEnabled9=1
 SelectionScope9=All
-Order9=10
+Order9=9
 IndexEnabled9=0
 IndexStartValue9=1
 Suffix9=
-UniqueIDPath10=\FTCSWPXX\DKLCGXLB\AGHSGCAP
+UniqueIDPath10=\FTCSWPXX\ECQSQFWL\AGHSGCAP
 DocumentName10=ADC RC Network.SchDoc
 IsEnabled10=1
 SelectionScope10=All
-Order10=11
+Order10=12
 IndexEnabled10=0
 IndexStartValue10=1
 Suffix10=
-UniqueIDPath11=\FTCSWPXX\ECQSQFWL\AGHSGCAP
+UniqueIDPath11=\FTCSWPXX\DKLCGXLB\AGHSGCAP
 DocumentName11=ADC RC Network.SchDoc
 IsEnabled11=1
 SelectionScope11=All
-Order11=12
+Order11=11
 IndexEnabled11=0
 IndexStartValue11=1
 Suffix11=
@@ -2294,203 +2367,203 @@ Order13=14
 IndexEnabled13=0
 IndexStartValue13=1
 Suffix13=
-UniqueIDPath14=\KMCOCVKS
-DocumentName14=ESP32.SchDoc
+UniqueIDPath14=\SPEGJLWL
+DocumentName14=EEPROM.SchDoc
 IsEnabled14=1
 SelectionScope14=All
-Order14=15
+Order14=41
 IndexEnabled14=0
 IndexStartValue14=1
 Suffix14=
-UniqueIDPath15=\KMCOCVKS\BWNLYJVL
-DocumentName15=ESP power.SchDoc
+UniqueIDPath15=\KMCOCVKS
+DocumentName15=ESP32.SchDoc
 IsEnabled15=1
 SelectionScope15=All
-Order15=16
+Order15=15
 IndexEnabled15=0
 IndexStartValue15=1
 Suffix15=
-UniqueIDPath16=\FTCSWPXX\NQSBDGVN
-DocumentName16=Gyroscope.SchDoc
+UniqueIDPath16=\KMCOCVKS\BWNLYJVL
+DocumentName16=ESP power.SchDoc
 IsEnabled16=1
 SelectionScope16=All
-Order16=17
+Order16=16
 IndexEnabled16=0
 IndexStartValue16=1
 Suffix16=
-UniqueIDPath17=\FTCSWPXX\KJEMJYSA
-DocumentName17=Magnetometer.SchDoc
+UniqueIDPath17=\FTCSWPXX\NQSBDGVN
+DocumentName17=Gyroscope.SchDoc
 IsEnabled17=1
 SelectionScope17=All
-Order17=18
+Order17=17
 IndexEnabled17=0
 IndexStartValue17=1
 Suffix17=
-UniqueIDPath18=
-DocumentName18=Main.SchDoc
+UniqueIDPath18=\FTCSWPXX\KJEMJYSA
+DocumentName18=Magnetometer.SchDoc
 IsEnabled18=1
 SelectionScope18=All
-Order18=19
+Order18=18
 IndexEnabled18=0
 IndexStartValue18=1
 Suffix18=
-UniqueIDPath19=\KMCOCVKS\RKFKJCVM
-DocumentName19=No_Transistor_LED.SchDoc
+UniqueIDPath19=
+DocumentName19=Main.SchDoc
 IsEnabled19=1
 SelectionScope19=All
-Order19=20
+Order19=19
 IndexEnabled19=0
 IndexStartValue19=1
 Suffix19=
-UniqueIDPath20=\KMCOCVKS\GPSHLJIS
+UniqueIDPath20=\KMCOCVKS\RKFKJCVM
 DocumentName20=No_Transistor_LED.SchDoc
 IsEnabled20=1
 SelectionScope20=All
-Order20=22
+Order20=20
 IndexEnabled20=0
 IndexStartValue20=1
 Suffix20=
-UniqueIDPath21=\UWDRPJCH
+UniqueIDPath21=\KMCOCVKS\GPSHLJIS
 DocumentName21=No_Transistor_LED.SchDoc
 IsEnabled21=1
 SelectionScope21=All
-Order21=21
+Order21=22
 IndexEnabled21=0
 IndexStartValue21=1
 Suffix21=
-UniqueIDPath22=\KESHTICQ
-DocumentName22=No_Transistor_LED_INV.SchDoc
+UniqueIDPath22=\UWDRPJCH
+DocumentName22=No_Transistor_LED.SchDoc
 IsEnabled22=1
 SelectionScope22=All
-Order22=23
+Order22=21
 IndexEnabled22=0
 IndexStartValue22=1
 Suffix22=
-UniqueIDPath23=\MCNLLIUG
+UniqueIDPath23=\KESHTICQ
 DocumentName23=No_Transistor_LED_INV.SchDoc
 IsEnabled23=1
 SelectionScope23=All
-Order23=24
+Order23=23
 IndexEnabled23=0
 IndexStartValue23=1
 Suffix23=
-UniqueIDPath24=\OCQTEXWV
+UniqueIDPath24=\MCNLLIUG
 DocumentName24=No_Transistor_LED_INV.SchDoc
 IsEnabled24=1
 SelectionScope24=All
-Order24=25
+Order24=24
 IndexEnabled24=0
 IndexStartValue24=1
 Suffix24=
-UniqueIDPath25=\PICSIJNG
+UniqueIDPath25=\OCQTEXWV
 DocumentName25=No_Transistor_LED_INV.SchDoc
 IsEnabled25=1
 SelectionScope25=All
-Order25=26
+Order25=25
 IndexEnabled25=0
 IndexStartValue25=1
 Suffix25=
-UniqueIDPath26=\KWXKXJJO\QYVGLIEJ
-DocumentName26=Power IO.SchDoc
+UniqueIDPath26=\PICSIJNG
+DocumentName26=No_Transistor_LED_INV.SchDoc
 IsEnabled26=1
 SelectionScope26=All
-Order26=27
+Order26=26
 IndexEnabled26=0
 IndexStartValue26=1
 Suffix26=
-UniqueIDPath27=\KWXKXJJO
-DocumentName27=Power Managment.SchDoc
+UniqueIDPath27=\KWXKXJJO\QYVGLIEJ
+DocumentName27=Power IO.SchDoc
 IsEnabled27=1
 SelectionScope27=All
-Order27=28
+Order27=27
 IndexEnabled27=0
 IndexStartValue27=1
 Suffix27=
-UniqueIDPath28=\KWXKXJJO\OXDTHLEG
-DocumentName28=Regulators.SchDoc
+UniqueIDPath28=\KWXKXJJO
+DocumentName28=Power Managment.SchDoc
 IsEnabled28=1
 SelectionScope28=All
-Order28=29
+Order28=28
 IndexEnabled28=0
 IndexStartValue28=1
 Suffix28=
-UniqueIDPath29=\FTCSWPXX
-DocumentName29=Sensors.SchDoc
+UniqueIDPath29=\KWXKXJJO\OXDTHLEG
+DocumentName29=Regulators.SchDoc
 IsEnabled29=1
 SelectionScope29=All
-Order29=30
+Order29=29
 IndexEnabled29=0
 IndexStartValue29=1
 Suffix29=
-UniqueIDPath30=\SJPIDEVT
-DocumentName30=SPI Output.SchDoc
+UniqueIDPath30=\FTCSWPXX
+DocumentName30=Sensors.SchDoc
 IsEnabled30=1
 SelectionScope30=All
-Order30=38
+Order30=30
 IndexEnabled30=0
 IndexStartValue30=1
 Suffix30=
-UniqueIDPath31=\TNMHAPVV
-DocumentName31=Squib_Managment.SchDoc
+UniqueIDPath31=\SJPIDEVT
+DocumentName31=SPI Output.SchDoc
 IsEnabled31=1
 SelectionScope31=All
-Order31=31
+Order31=38
 IndexEnabled31=0
 IndexStartValue31=1
 Suffix31=
-UniqueIDPath32=\TNMHAPVV\XUFLFJWH
-DocumentName32=Squibs.SchDoc
+UniqueIDPath32=\TNMHAPVV
+DocumentName32=Squib_Managment.SchDoc
 IsEnabled32=1
 SelectionScope32=All
-Order32=32
+Order32=31
 IndexEnabled32=0
 IndexStartValue32=1
 Suffix32=
-UniqueIDPath33=\TNMHAPVV\KBUHDIXH
+UniqueIDPath33=\TNMHAPVV\XUFLFJWH
 DocumentName33=Squibs.SchDoc
 IsEnabled33=1
 SelectionScope33=All
-Order33=33
+Order33=32
 IndexEnabled33=0
 IndexStartValue33=1
 Suffix33=
-UniqueIDPath34=\TNMHAPVV\UEYFMJTH
+UniqueIDPath34=\TNMHAPVV\KBUHDIXH
 DocumentName34=Squibs.SchDoc
 IsEnabled34=1
 SelectionScope34=All
-Order34=34
+Order34=33
 IndexEnabled34=0
 IndexStartValue34=1
 Suffix34=
-UniqueIDPath35=\TNMHAPVV\XUFLFJWH\PHKARIHG
-DocumentName35=Transistor_LED.SchDoc
+UniqueIDPath35=\TNMHAPVV\UEYFMJTH
+DocumentName35=Squibs.SchDoc
 IsEnabled35=1
 SelectionScope35=All
-Order35=35
+Order35=34
 IndexEnabled35=0
 IndexStartValue35=1
 Suffix35=
-UniqueIDPath36=\TNMHAPVV\KBUHDIXH\PHKARIHG
+UniqueIDPath36=\TNMHAPVV\XUFLFJWH\PHKARIHG
 DocumentName36=Transistor_LED.SchDoc
 IsEnabled36=1
 SelectionScope36=All
-Order36=36
+Order36=35
 IndexEnabled36=0
 IndexStartValue36=1
 Suffix36=
-UniqueIDPath37=\TNMHAPVV\UEYFMJTH\PHKARIHG
+UniqueIDPath37=\TNMHAPVV\KBUHDIXH\PHKARIHG
 DocumentName37=Transistor_LED.SchDoc
 IsEnabled37=1
 SelectionScope37=All
-Order37=37
+Order37=36
 IndexEnabled37=0
 IndexStartValue37=1
 Suffix37=
-UniqueIDPath38=\RAWIRKUG
-DocumentName38=UART Output.SchDoc
+UniqueIDPath38=\TNMHAPVV\UEYFMJTH\PHKARIHG
+DocumentName38=Transistor_LED.SchDoc
 IsEnabled38=1
 SelectionScope38=All
-Order38=40
+Order38=37
 IndexEnabled38=0
 IndexStartValue38=1
 Suffix38=
@@ -2502,6 +2575,14 @@ Order39=39
 IndexEnabled39=0
 IndexStartValue39=1
 Suffix39=
+UniqueIDPath40=\RAWIRKUG
+DocumentName40=UART Output.SchDoc
+IsEnabled40=1
+SelectionScope40=All
+Order40=40
+IndexEnabled40=0
+IndexStartValue40=1
+Suffix40=
 
 [PrjClassGen]
 CompClassManualEnabled=0

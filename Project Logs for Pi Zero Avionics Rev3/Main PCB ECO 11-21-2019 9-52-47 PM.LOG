@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=SPI Output Member=J6
+Removed Member From Class: ClassName=SPI Output Member=R73
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R12-2
+Added Net: Name=NetQ2_1

@@ -1,0 +1,35 @@
+Removed Member From Class: ClassName=Buzzer Member=J2
+Removed Member From Class: ClassName=Main_Squib Member=J2
+Removed Member From Class: ClassName=Motor_Squib Member=J2
+Removed Member From Class: ClassName=Sep_Squib Member=J2
+Removed Member From Class: ClassName=ADC 1 Member=J6
+Removed Member From Class: ClassName=ADC 2 Member=J6
+Removed Member From Class: ClassName=Main_Squib Member=J6
+Removed Member From Class: ClassName=Motor_Squib Member=J6
+Removed Member From Class: ClassName=Sep_Squib Member=J6
+Removed Member From Class: ClassName=SPI Output Member=J6
+Removed Member From Class: ClassName=ESP UART Output Member=J7
+Removed Member From Class: ClassName=UART EXT Member=J7
+Removed Member From Class: ClassName=U_Power IO Member=J15
+Removed Member From Class: ClassName=PWR Member=R69
+Removed Member From Class: ClassName=SPI Output Member=R73
+Removed Member From Class: ClassName=ESP UART Output Member=R75
+Removed Member From Class: ClassName=UART EXT Member=R75
+Removed Member From Class: ClassName=U_ESP power Member=R80
+Removed Member From Class: ClassName=Squib_Managment Member=R81
+Removed Member From Class: ClassName=U_ESP power Member=R81
+Removed Member From Class: ClassName=ACT_IND Member=R82
+Removed Member From Class: ClassName=Main_Ind Member=R82
+Removed Member From Class: ClassName=Motor_IND Member=R82
+Removed Member From Class: ClassName=Sep_Ind Member=R82
+Removed Member From Class: ClassName=U_ESP power Member=R82
+Removed Member From Class: ClassName=Regulators Member=R88
+Removed Member From Class: ClassName=Regulators Member=R91
+Removed Member From Class: ClassName=Buzzer Member=T1
+Removed Member From Class: ClassName=ESP Member=T4
+Removed Member From Class: ClassName=PWR Member=T5
+Removed Member From Class: ClassName=Voltage_Indicator1 Member=T5
+Removed Member From Class: ClassName=Voltage_Indicator2 Member=T5
+Removed Member From Class: ClassName=Voltage_Indicator3 Member=T5
+Removed Member From Class: ClassName=PWR Member=T7
+Removed Member From Class: ClassName=U_ESP power Member=T7
